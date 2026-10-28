@@ -3,16 +3,20 @@
 Project: COSC 421 submarine cable resilience study (R, igraph, sf). Team: Su Myat Thwe, John Kwon, Sultan Aldeiro.
 We compare targeted failure (remove the most central countries) with corridor failure (remove every cable through an area) on the global submarine cable network.
 
-Read `README.md` for the folder layout, `docs/team_plan.md` for who owns which script, and `docs/git_conventions.md` for the naming rules.
+Read `README.md` for the folder layout, `docs/task_board.md` for every task with its ID and spec, `docs/team_plan.md` for the schedule, and `docs/git_conventions.md` for the naming rules.
 
 ## When the user gives a branch number
 
-The user will paste something like `MF-0003 corridor polygons` or `TI-0001 fix country names`. MF means Main Feature (new work) and TI means Task Improvement (change to something that exists). Do the following in order.
+The user will paste something like `MF-0005`, `MF-0010 corridor polygons` or `TI-0001 fix country names`. MF means Main Feature (new work) and TI means Task Improvement (change to something that exists).
+
+If the ID is listed in `docs/task_board.md`, that section is the task. Use the branch name from the overview table, follow the "What to do" steps, write the exact columns in the "Shared file formats" table, and check the "Done when" line before committing. Look at the "Needs" line: if a task it needs is not merged into `staging` yet, tell the user, and offer to write the code against a few rows of made up input that is not committed. IDs on the board are reserved, so do not give a new TI or MF task one of those numbers.
+
+Do the following in order.
 
 1. Run `git status`. If there are uncommitted changes that are not part of this task, stop and ask.
 2. Run `git checkout staging` and `git pull origin staging`.
 3. Make sure the number is free. Check `git branch -a`, `git log --oneline --all` and, if `gh` is installed, `gh pr list --state all`. If the number is already used, tell the user and stop.
-4. If no short description was given, ask for one. Then create the branch: `git checkout -b <ID>-<short-description>`, for example `MF-0003-corridor-polygons`.
+4. If the ID is not on the task board and no short description was given, ask for one. Then create the branch: `git checkout -b <ID>-<short-description>`, for example `MF-0003-corridor-polygons`.
 5. Do the work the user asked for. Only touch the files that task needs.
 6. Commit with one line in this format: `<ID> | <Verb and short description>`, for example `MF-0003 | Add corridor polygons for the Red Sea`. Make a separate commit for each logical change.
 7. Push with `git push -u origin <branch>`.

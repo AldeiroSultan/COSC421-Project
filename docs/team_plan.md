@@ -31,10 +31,12 @@ Roles: **John** = data and corridors, **Su** = network metrics and protection, *
 
 Week 2 files are not created yet. Add them as each person starts.
 
+Each row above is split into numbered tasks in `docs/task_board.md`. To start one, type its ID (for example `MF-0005`) into Claude Code in this repo.
+
 ## Rules
 
-- One branch per task, for example `john/data-cleaning`. Open a pull request into `main`.
-- Pull before you start: `git pull origin main`.
+- One branch per task, named by its ID from `docs/task_board.md`. Open a pull request into `staging` (see `docs/git_conventions.md`).
+- Pull before you start: `git pull origin staging`.
 - Do not commit `data/raw/`. Re-run `01_download_data.R` instead.
 - If a script needs a column that another script does not produce yet, message the owner of that script before changing it.
 - Update the Done column or leave a note in your pull request so we can see where things stand.
