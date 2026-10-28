@@ -36,11 +36,11 @@ Each script reads the output of the one before it, so a script should never need
 ## Git workflow
 
 - `main` always holds working code. Do not commit straight to it.
-- Make a branch per person or task, for example `john/data-cleaning`, `su/network-metrics`, `sultan/targeted-failure`.
-- Open a pull request and have one teammate look it over before merging.
-- Pull before you start working: `git pull origin main`.
+- Every task has an ID in `docs/task_board.md`. Make a branch off `staging` named by that ID and open a pull request into `staging`. Full rules are in `docs/git_conventions.md`.
+- Have one teammate look the pull request over before merging.
+- Pull before you start working: `git pull origin staging`.
 - Raw data is not committed. Anyone can rebuild it by running `01_download_data.R`.
 
 ## Who owns what
 
-See `docs/team_plan.md` for the two week split.
+See `docs/task_board.md` for every task, its owner and week, and `docs/team_plan.md` for the two week schedule.
