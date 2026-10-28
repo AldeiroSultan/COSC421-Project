@@ -1,0 +1,23 @@
+# R and RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rcheck/
+.Renviron
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Raw data (rebuild with R/01_download_data.R)
+data/raw/*
+!data/raw/.gitkeep
+
+# Large intermediate files
+*.rds
+*.zip
+
+# Rendered reports
+reports/*.html
+reports/*_files/
