@@ -1,30 +1,30 @@
 # Task board
 
-Every task has a fixed ID. To work on one, open Claude Code in this repo and type the ID, for example `MF-0005`. Claude reads the task below, makes the branch, writes the code and opens the pull request (see `CLAUDE.md`).
+Every task has a fixed ID. To work on one, open Claude Code in this repo and type the ID, for example `MF-0005`. Claude checks your branch, writes the code, and gives you the commit and pull request text to paste (see `CLAUDE.md`).
 
 Owners and weeks are a starting point taken from `docs/team_plan.md`. If you want to swap, change the Owner column on one branch and agree on it in the group chat first. Progress is tracked by the pull requests on GitHub, not in this file.
 
-MF-0001 (project skeleton) and MF-0002 (git conventions, CLAUDE.md, this board) are already used. For a fix or change that is not listed here, use the next free TI number (TI-0001, TI-0002, ...).
+MF-0001 (project skeleton) and MF-0002 (git conventions, CLAUDE.md, this board) are already used. For a fix or change that is not listed here, use the next free TI number (TI-0001, TI-0002, ...). For a documentation only change, use a DC number (DC-0001, DC-0002, ...).
 
 ## Overview
 
 | ID | Branch | Task | Owner | Week | Needs |
 |---|---|---|---|---|---|
-| MF-0003 | `MF-0003-download-cable-details` | Download per-cable detail files | John | 1 | none |
-| MF-0004 | `MF-0004-clean-landing-data` | Clean landing points and cable landings | John | 1 | MF-0003 |
-| MF-0005 | `MF-0005-build-country-network` | Build the country network | Su | 1 | MF-0004 |
-| MF-0006 | `MF-0006-baseline-metrics` | Baseline metrics and random network comparison | Su | 1 | MF-0005 |
-| MF-0007 | `MF-0007-targeted-failure` | Targeted failure simulation | Sultan | 1 | MF-0005 |
-| MF-0008 | `MF-0008-run-all-script` | Script that runs the whole pipeline | Sultan | 1 | none |
-| MF-0009 | `MF-0009-milestone-report` | Milestone report (due Nov 6) | All | 2 | MF-0006, MF-0007 |
-| MF-0010 | `MF-0010-corridor-polygons` | Corridor polygons and cables in each corridor | John | 2 | MF-0004 |
-| MF-0011 | `MF-0011-corridor-failure` | Corridor failure simulation | Sultan | 2 | MF-0007, MF-0010 |
-| MF-0012 | `MF-0012-articulation-points` | Articulation points and countries cut off in several scenarios | Su | 2 | MF-0011 |
-| MF-0013 | `MF-0013-red-sea-validation` | Check the Red Sea scenario against the 2024 cuts | John | 2 | MF-0011 |
-| MF-0014 | `MF-0014-protection` | Test new cable connections | Su | 2 | MF-0012 |
-| MF-0015 | `MF-0015-map-figures` | Map figures for the report | John | 2 | MF-0010, MF-0012 |
-| MF-0016 | `MF-0016-comparison-figures` | Comparison figures for the report | Sultan | 2 | MF-0011, MF-0014 |
-| MF-0017 | `MF-0017-final-report` | Final report and video script | All | 2 | everything above |
+| MF-0003 | `MF-0003` | Download per-cable detail files | John | 1 | none |
+| MF-0004 | `MF-0004` | Clean landing points and cable landings | John | 1 | MF-0003 |
+| MF-0005 | `MF-0005` | Build the country network | Su | 1 | MF-0004 |
+| MF-0006 | `MF-0006` | Baseline metrics and random network comparison | Su | 1 | MF-0005 |
+| MF-0007 | `MF-0007` | Targeted failure simulation | Sultan | 1 | MF-0005 |
+| MF-0008 | `MF-0008` | Script that runs the whole pipeline | Sultan | 1 | none |
+| MF-0009 | `MF-0009` | Milestone report (due Nov 6) | All | 2 | MF-0006, MF-0007 |
+| MF-0010 | `MF-0010` | Corridor polygons and cables in each corridor | John | 2 | MF-0004 |
+| MF-0011 | `MF-0011` | Corridor failure simulation | Sultan | 2 | MF-0007, MF-0010 |
+| MF-0012 | `MF-0012` | Articulation points and countries cut off in several scenarios | Su | 2 | MF-0011 |
+| MF-0013 | `MF-0013` | Check the Red Sea scenario against the 2024 cuts | John | 2 | MF-0011 |
+| MF-0014 | `MF-0014` | Test new cable connections | Su | 2 | MF-0012 |
+| MF-0015 | `MF-0015` | Map figures for the report | John | 2 | MF-0010, MF-0012 |
+| MF-0016 | `MF-0016` | Comparison figures for the report | Sultan | 2 | MF-0011, MF-0014 |
+| MF-0017 | `MF-0017` | Final report and video script | All | 2 | everything above |
 
 Week 1 is Oct 27 to Nov 2. Week 2 is Nov 3 to Nov 9.
 
