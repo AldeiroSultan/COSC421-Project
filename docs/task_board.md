@@ -10,8 +10,8 @@ MF-0001 (project skeleton) and MF-0002 (git conventions, CLAUDE.md, this board) 
 
 | ID | Branch | Task | Owner | Week | Needs |
 |---|---|---|---|---|---|
-| MF-0003 | `MF-0003` | Download per-cable detail files | John | 1 | none |
-| MF-0004 | `MF-0004` | Clean landing points and cable landings | John | 1 | MF-0003 |
+| MF-0003 | `MF-0003` | Download per-cable detail files | Su | 1 | none |
+| MF-0004 | `MF-0004` | Clean landing points and cable landings | Su | 1 | MF-0003 |
 | MF-0005 | `MF-0005` | Build the country network | Su | 1 | MF-0004 |
 | MF-0006 | `MF-0006` | Baseline metrics and random network comparison | Su | 1 | MF-0005 |
 | MF-0007 | `MF-0007` | Targeted failure simulation | Sultan | 1 | MF-0005 |
@@ -59,7 +59,7 @@ Definitions used everywhere:
 
 ## MF-0003 | Download per-cable detail files
 
-- Owner: John. Week 1. Needs: none.
+- Owner: Su (taken over from John). Week 1. Needs: none.
 - File: `R/01_download_data.R`, `docs/data_notes.md`
 
 What to do:
@@ -72,7 +72,7 @@ Done when: running the script on an empty `data/raw/` gives the three geo files 
 
 ## MF-0004 | Clean landing points and cable landings
 
-- Owner: John. Week 1. Needs: MF-0003.
+- Owner: Su (taken over from John). Week 1. Needs: MF-0003.
 - File: `R/02_clean_data.R`, `docs/data_notes.md`
 
 What to do:
