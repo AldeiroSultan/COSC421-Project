@@ -4,38 +4,64 @@
 # betweenness on what is left, then remove the next one. Repeat.
 #
 # Input:  data/processed/network.rds
-# Output: results/targeted_failure.csv, figures/targeted_failure_giant.png
+# Output: results/targeted_failure.csv, results/targeted_cutoff.csv,
+#         figures/targeted_failure_giant.png
 
 source("R/00_setup.R")
+source("R/helpers.R")
 
 g <- simplify(readRDS(file.path(dir_processed, "network.rds")))
 
-# ---- Helper: size of the giant component -----------------------------------
-giant_size <- function(graph) {
-  if (vcount(graph) == 0) return(0)
-  max(components(graph)$csize)
-}
+# Countries already outside the giant component before anything is removed.
+# They are not counted as cut off by the failure.
+baseline_outside <- cut_off_countries(g)
+n_start <- vcount(g)
 
 # ---- Removal loop -----------------------------------------------------------
 n_remove <- 20   # how many countries to remove, change if needed
 
-results <- tibble(step = 0, removed = NA_character_,
-                  nodes_left = vcount(g), giant = giant_size(g))
+summarise_step <- function(graph, step, removed) {
+  tibble(step = step, removed = removed,
+         nodes_left = vcount(graph),
+         giant = giant_size(graph),
+         giant_share = giant_size(graph) / n_start,
+         n_components = components(graph)$no)
+}
+
+results <- summarise_step(g, 0, NA_character_)
+cutoff  <- tibble(step = integer(), country = character())
 
 g_work <- g
 for (i in seq_len(n_remove)) {
-  # TODO (Sultan): pick the node with the highest betweenness in g_work,
-  # delete it, and add a row to results. Betweenness must be recalculated
-  # every step.
+  # Betweenness is recalculated on what is left at every step.
+  target <- top_betweenness_country(g_work)
+  g_work <- delete_vertices(g_work, target)
+  results <- bind_rows(results, summarise_step(g_work, i, target))
+
+  # ---- Countries cut off ----------------------------------------------------
+  # Still in the graph, but no longer in the giant component.
+  lost <- cut_off_countries(g_work, ignore = baseline_outside)
+  if (length(lost) > 0) {
+    cutoff <- bind_rows(cutoff, tibble(step = i, country = lost))
+  }
 }
 
-# ---- Countries cut off ------------------------------------------------------
-# TODO (Sultan): after each removal, record which countries are no longer in
-# the giant component. Week 2 uses this to find countries cut off in more than
-# one scenario.
-
 # ---- Save -------------------------------------------------------------------
-# write_csv(results, file.path(dir_results, "targeted_failure.csv"))
+write_csv(results, file.path(dir_results, "targeted_failure.csv"))
+write_csv(cutoff, file.path(dir_results, "targeted_cutoff.csv"))
 
-# TODO (Sultan): line plot of giant component size vs. number removed,
-# save to figures/targeted_failure_giant.png
+p <- ggplot(results, aes(x = step, y = giant_share)) +
+  geom_line() +
+  geom_point() +
+  scale_y_continuous(limits = c(0, 1)) +
+  labs(x = "Countries removed (highest betweenness first)",
+       y = "Giant component, share of original countries",
+       title = "Targeted failure") +
+  theme_minimal()
+ggsave(file.path(dir_figures, "targeted_failure_giant.png"), p,
+       width = 7, height = 4.5, dpi = 300)
+
+message("Removed in order: ", paste(na.omit(results$removed), collapse = ", "))
+message("Giant share after ", n_remove, " removals: ",
+        round(tail(results$giant_share, 1), 3))
+message("Countries cut off at some step: ", n_distinct(cutoff$country))
