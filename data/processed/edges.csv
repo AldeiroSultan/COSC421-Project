@@ -1,0 +1,2954 @@
+from,to,cable_id
+Angola,Bahrain,2africa
+Angola,Comoros,2africa
+Angola,"Congo, Dem. Rep.",2africa
+Angola,"Congo, Rep.",2africa
+Angola,Côte d'Ivoire,2africa
+Angola,Djibouti,2africa
+Angola,Egypt,2africa
+Angola,France,2africa
+Angola,Gabon,2africa
+Angola,Ghana,2africa
+Angola,Greece,2africa
+Angola,India,2africa
+Angola,Iraq,2africa
+Angola,Italy,2africa
+Angola,Kenya,2africa
+Angola,Kuwait,2africa
+Angola,Madagascar,2africa
+Angola,Mozambique,2africa
+Angola,Nigeria,2africa
+Angola,Oman,2africa
+Angola,Pakistan,2africa
+Angola,Portugal,2africa
+Angola,Qatar,2africa
+Angola,Saudi Arabia,2africa
+Angola,Senegal,2africa
+Angola,Seychelles,2africa
+Angola,Somalia,2africa
+Angola,South Africa,2africa
+Angola,Spain,2africa
+Angola,Sudan,2africa
+Angola,Tanzania,2africa
+Angola,United Arab Emirates,2africa
+Angola,United Kingdom,2africa
+Bahrain,Comoros,2africa
+Bahrain,"Congo, Dem. Rep.",2africa
+Bahrain,"Congo, Rep.",2africa
+Bahrain,Côte d'Ivoire,2africa
+Bahrain,Djibouti,2africa
+Bahrain,Egypt,2africa
+Bahrain,France,2africa
+Bahrain,Gabon,2africa
+Bahrain,Ghana,2africa
+Bahrain,Greece,2africa
+Bahrain,India,2africa
+Bahrain,Iraq,2africa
+Bahrain,Italy,2africa
+Bahrain,Kenya,2africa
+Bahrain,Kuwait,2africa
+Bahrain,Madagascar,2africa
+Bahrain,Mozambique,2africa
+Bahrain,Nigeria,2africa
+Bahrain,Oman,2africa
+Bahrain,Pakistan,2africa
+Bahrain,Portugal,2africa
+Bahrain,Qatar,2africa
+Bahrain,Saudi Arabia,2africa
+Bahrain,Senegal,2africa
+Bahrain,Seychelles,2africa
+Bahrain,Somalia,2africa
+Bahrain,South Africa,2africa
+Bahrain,Spain,2africa
+Bahrain,Sudan,2africa
+Bahrain,Tanzania,2africa
+Bahrain,United Arab Emirates,2africa
+Bahrain,United Kingdom,2africa
+Comoros,"Congo, Dem. Rep.",2africa
+Comoros,"Congo, Rep.",2africa
+Comoros,Côte d'Ivoire,2africa
+Comoros,Djibouti,2africa
+Comoros,Egypt,2africa
+Comoros,France,2africa
+Comoros,Gabon,2africa
+Comoros,Ghana,2africa
+Comoros,Greece,2africa
+Comoros,India,2africa
+Comoros,Iraq,2africa
+Comoros,Italy,2africa
+Comoros,Kenya,2africa
+Comoros,Kuwait,2africa
+Comoros,Madagascar,2africa
+Comoros,Mozambique,2africa
+Comoros,Nigeria,2africa
+Comoros,Oman,2africa
+Comoros,Pakistan,2africa
+Comoros,Portugal,2africa
+Comoros,Qatar,2africa
+Comoros,Saudi Arabia,2africa
+Comoros,Senegal,2africa
+Comoros,Seychelles,2africa
+Comoros,Somalia,2africa
+Comoros,South Africa,2africa
+Comoros,Spain,2africa
+Comoros,Sudan,2africa
+Comoros,Tanzania,2africa
+Comoros,United Arab Emirates,2africa
+Comoros,United Kingdom,2africa
+"Congo, Dem. Rep.","Congo, Rep.",2africa
+"Congo, Dem. Rep.",Côte d'Ivoire,2africa
+"Congo, Dem. Rep.",Djibouti,2africa
+"Congo, Dem. Rep.",Egypt,2africa
+"Congo, Dem. Rep.",France,2africa
+"Congo, Dem. Rep.",Gabon,2africa
+"Congo, Dem. Rep.",Ghana,2africa
+"Congo, Dem. Rep.",Greece,2africa
+"Congo, Dem. Rep.",India,2africa
+"Congo, Dem. Rep.",Iraq,2africa
+"Congo, Dem. Rep.",Italy,2africa
+"Congo, Dem. Rep.",Kenya,2africa
+"Congo, Dem. Rep.",Kuwait,2africa
+"Congo, Dem. Rep.",Madagascar,2africa
+"Congo, Dem. Rep.",Mozambique,2africa
+"Congo, Dem. Rep.",Nigeria,2africa
+"Congo, Dem. Rep.",Oman,2africa
+"Congo, Dem. Rep.",Pakistan,2africa
+"Congo, Dem. Rep.",Portugal,2africa
+"Congo, Dem. Rep.",Qatar,2africa
+"Congo, Dem. Rep.",Saudi Arabia,2africa
+"Congo, Dem. Rep.",Senegal,2africa
+"Congo, Dem. Rep.",Seychelles,2africa
+"Congo, Dem. Rep.",Somalia,2africa
+"Congo, Dem. Rep.",South Africa,2africa
+"Congo, Dem. Rep.",Spain,2africa
+"Congo, Dem. Rep.",Sudan,2africa
+"Congo, Dem. Rep.",Tanzania,2africa
+"Congo, Dem. Rep.",United Arab Emirates,2africa
+"Congo, Dem. Rep.",United Kingdom,2africa
+"Congo, Rep.",Côte d'Ivoire,2africa
+"Congo, Rep.",Djibouti,2africa
+"Congo, Rep.",Egypt,2africa
+"Congo, Rep.",France,2africa
+"Congo, Rep.",Gabon,2africa
+"Congo, Rep.",Ghana,2africa
+"Congo, Rep.",Greece,2africa
+"Congo, Rep.",India,2africa
+"Congo, Rep.",Iraq,2africa
+"Congo, Rep.",Italy,2africa
+"Congo, Rep.",Kenya,2africa
+"Congo, Rep.",Kuwait,2africa
+"Congo, Rep.",Madagascar,2africa
+"Congo, Rep.",Mozambique,2africa
+"Congo, Rep.",Nigeria,2africa
+"Congo, Rep.",Oman,2africa
+"Congo, Rep.",Pakistan,2africa
+"Congo, Rep.",Portugal,2africa
+"Congo, Rep.",Qatar,2africa
+"Congo, Rep.",Saudi Arabia,2africa
+"Congo, Rep.",Senegal,2africa
+"Congo, Rep.",Seychelles,2africa
+"Congo, Rep.",Somalia,2africa
+"Congo, Rep.",South Africa,2africa
+"Congo, Rep.",Spain,2africa
+"Congo, Rep.",Sudan,2africa
+"Congo, Rep.",Tanzania,2africa
+"Congo, Rep.",United Arab Emirates,2africa
+"Congo, Rep.",United Kingdom,2africa
+Côte d'Ivoire,Djibouti,2africa
+Côte d'Ivoire,Egypt,2africa
+Côte d'Ivoire,France,2africa
+Côte d'Ivoire,Gabon,2africa
+Côte d'Ivoire,Ghana,2africa
+Côte d'Ivoire,Greece,2africa
+Côte d'Ivoire,India,2africa
+Côte d'Ivoire,Iraq,2africa
+Côte d'Ivoire,Italy,2africa
+Côte d'Ivoire,Kenya,2africa
+Côte d'Ivoire,Kuwait,2africa
+Côte d'Ivoire,Madagascar,2africa
+Côte d'Ivoire,Mozambique,2africa
+Côte d'Ivoire,Nigeria,2africa
+Côte d'Ivoire,Oman,2africa
+Côte d'Ivoire,Pakistan,2africa
+Côte d'Ivoire,Portugal,2africa
+Côte d'Ivoire,Qatar,2africa
+Côte d'Ivoire,Saudi Arabia,2africa
+Côte d'Ivoire,Senegal,2africa
+Côte d'Ivoire,Seychelles,2africa
+Côte d'Ivoire,Somalia,2africa
+Côte d'Ivoire,South Africa,2africa
+Côte d'Ivoire,Spain,2africa
+Côte d'Ivoire,Sudan,2africa
+Côte d'Ivoire,Tanzania,2africa
+Côte d'Ivoire,United Arab Emirates,2africa
+Côte d'Ivoire,United Kingdom,2africa
+Djibouti,Egypt,2africa
+Djibouti,France,2africa
+Djibouti,Gabon,2africa
+Djibouti,Ghana,2africa
+Djibouti,Greece,2africa
+Djibouti,India,2africa
+Djibouti,Iraq,2africa
+Djibouti,Italy,2africa
+Djibouti,Kenya,2africa
+Djibouti,Kuwait,2africa
+Djibouti,Madagascar,2africa
+Djibouti,Mozambique,2africa
+Djibouti,Nigeria,2africa
+Djibouti,Oman,2africa
+Djibouti,Pakistan,2africa
+Djibouti,Portugal,2africa
+Djibouti,Qatar,2africa
+Djibouti,Saudi Arabia,2africa
+Djibouti,Senegal,2africa
+Djibouti,Seychelles,2africa
+Djibouti,Somalia,2africa
+Djibouti,South Africa,2africa
+Djibouti,Spain,2africa
+Djibouti,Sudan,2africa
+Djibouti,Tanzania,2africa
+Djibouti,United Arab Emirates,2africa
+Djibouti,United Kingdom,2africa
+Egypt,France,2africa
+Egypt,Gabon,2africa
+Egypt,Ghana,2africa
+Egypt,Greece,2africa
+Egypt,India,2africa
+Egypt,Iraq,2africa
+Egypt,Italy,2africa
+Egypt,Kenya,2africa
+Egypt,Kuwait,2africa
+Egypt,Madagascar,2africa
+Egypt,Mozambique,2africa
+Egypt,Nigeria,2africa
+Egypt,Oman,2africa
+Egypt,Pakistan,2africa
+Egypt,Portugal,2africa
+Egypt,Qatar,2africa
+Egypt,Saudi Arabia,2africa
+Egypt,Senegal,2africa
+Egypt,Seychelles,2africa
+Egypt,Somalia,2africa
+Egypt,South Africa,2africa
+Egypt,Spain,2africa
+Egypt,Sudan,2africa
+Egypt,Tanzania,2africa
+Egypt,United Arab Emirates,2africa
+Egypt,United Kingdom,2africa
+France,Gabon,2africa
+France,Ghana,2africa
+France,Greece,2africa
+France,India,2africa
+France,Iraq,2africa
+France,Italy,2africa
+France,Kenya,2africa
+France,Kuwait,2africa
+France,Madagascar,2africa
+France,Mozambique,2africa
+France,Nigeria,2africa
+France,Oman,2africa
+France,Pakistan,2africa
+France,Portugal,2africa
+France,Qatar,2africa
+France,Saudi Arabia,2africa
+France,Senegal,2africa
+France,Seychelles,2africa
+France,Somalia,2africa
+France,South Africa,2africa
+France,Spain,2africa
+France,Sudan,2africa
+France,Tanzania,2africa
+France,United Arab Emirates,2africa
+France,United Kingdom,2africa
+Gabon,Ghana,2africa
+Gabon,Greece,2africa
+Gabon,India,2africa
+Gabon,Iraq,2africa
+Gabon,Italy,2africa
+Gabon,Kenya,2africa
+Gabon,Kuwait,2africa
+Gabon,Madagascar,2africa
+Gabon,Mozambique,2africa
+Gabon,Nigeria,2africa
+Gabon,Oman,2africa
+Gabon,Pakistan,2africa
+Gabon,Portugal,2africa
+Gabon,Qatar,2africa
+Gabon,Saudi Arabia,2africa
+Gabon,Senegal,2africa
+Gabon,Seychelles,2africa
+Gabon,Somalia,2africa
+Gabon,South Africa,2africa
+Gabon,Spain,2africa
+Gabon,Sudan,2africa
+Gabon,Tanzania,2africa
+Gabon,United Arab Emirates,2africa
+Gabon,United Kingdom,2africa
+Ghana,Greece,2africa
+Ghana,India,2africa
+Ghana,Iraq,2africa
+Ghana,Italy,2africa
+Ghana,Kenya,2africa
+Ghana,Kuwait,2africa
+Ghana,Madagascar,2africa
+Ghana,Mozambique,2africa
+Ghana,Nigeria,2africa
+Ghana,Oman,2africa
+Ghana,Pakistan,2africa
+Ghana,Portugal,2africa
+Ghana,Qatar,2africa
+Ghana,Saudi Arabia,2africa
+Ghana,Senegal,2africa
+Ghana,Seychelles,2africa
+Ghana,Somalia,2africa
+Ghana,South Africa,2africa
+Ghana,Spain,2africa
+Ghana,Sudan,2africa
+Ghana,Tanzania,2africa
+Ghana,United Arab Emirates,2africa
+Ghana,United Kingdom,2africa
+Greece,India,2africa
+Greece,Iraq,2africa
+Greece,Italy,2africa
+Greece,Kenya,2africa
+Greece,Kuwait,2africa
+Greece,Madagascar,2africa
+Greece,Mozambique,2africa
+Greece,Nigeria,2africa
+Greece,Oman,2africa
+Greece,Pakistan,2africa
+Greece,Portugal,2africa
+Greece,Qatar,2africa
+Greece,Saudi Arabia,2africa
+Greece,Senegal,2africa
+Greece,Seychelles,2africa
+Greece,Somalia,2africa
+Greece,South Africa,2africa
+Greece,Spain,2africa
+Greece,Sudan,2africa
+Greece,Tanzania,2africa
+Greece,United Arab Emirates,2africa
+Greece,United Kingdom,2africa
+India,Iraq,2africa
+India,Italy,2africa
+India,Kenya,2africa
+India,Kuwait,2africa
+India,Madagascar,2africa
+India,Mozambique,2africa
+India,Nigeria,2africa
+India,Oman,2africa
+India,Pakistan,2africa
+India,Portugal,2africa
+India,Qatar,2africa
+India,Saudi Arabia,2africa
+India,Senegal,2africa
+India,Seychelles,2africa
+India,Somalia,2africa
+India,South Africa,2africa
+India,Spain,2africa
+India,Sudan,2africa
+India,Tanzania,2africa
+India,United Arab Emirates,2africa
+India,United Kingdom,2africa
+Iraq,Italy,2africa
+Iraq,Kenya,2africa
+Iraq,Kuwait,2africa
+Iraq,Madagascar,2africa
+Iraq,Mozambique,2africa
+Iraq,Nigeria,2africa
+Iraq,Oman,2africa
+Iraq,Pakistan,2africa
+Iraq,Portugal,2africa
+Iraq,Qatar,2africa
+Iraq,Saudi Arabia,2africa
+Iraq,Senegal,2africa
+Iraq,Seychelles,2africa
+Iraq,Somalia,2africa
+Iraq,South Africa,2africa
+Iraq,Spain,2africa
+Iraq,Sudan,2africa
+Iraq,Tanzania,2africa
+Iraq,United Arab Emirates,2africa
+Iraq,United Kingdom,2africa
+Italy,Kenya,2africa
+Italy,Kuwait,2africa
+Italy,Madagascar,2africa
+Italy,Mozambique,2africa
+Italy,Nigeria,2africa
+Italy,Oman,2africa
+Italy,Pakistan,2africa
+Italy,Portugal,2africa
+Italy,Qatar,2africa
+Italy,Saudi Arabia,2africa
+Italy,Senegal,2africa
+Italy,Seychelles,2africa
+Italy,Somalia,2africa
+Italy,South Africa,2africa
+Italy,Spain,2africa
+Italy,Sudan,2africa
+Italy,Tanzania,2africa
+Italy,United Arab Emirates,2africa
+Italy,United Kingdom,2africa
+Kenya,Kuwait,2africa
+Kenya,Madagascar,2africa
+Kenya,Mozambique,2africa
+Kenya,Nigeria,2africa
+Kenya,Oman,2africa
+Kenya,Pakistan,2africa
+Kenya,Portugal,2africa
+Kenya,Qatar,2africa
+Kenya,Saudi Arabia,2africa
+Kenya,Senegal,2africa
+Kenya,Seychelles,2africa
+Kenya,Somalia,2africa
+Kenya,South Africa,2africa
+Kenya,Spain,2africa
+Kenya,Sudan,2africa
+Kenya,Tanzania,2africa
+Kenya,United Arab Emirates,2africa
+Kenya,United Kingdom,2africa
+Kuwait,Madagascar,2africa
+Kuwait,Mozambique,2africa
+Kuwait,Nigeria,2africa
+Kuwait,Oman,2africa
+Kuwait,Pakistan,2africa
+Kuwait,Portugal,2africa
+Kuwait,Qatar,2africa
+Kuwait,Saudi Arabia,2africa
+Kuwait,Senegal,2africa
+Kuwait,Seychelles,2africa
+Kuwait,Somalia,2africa
+Kuwait,South Africa,2africa
+Kuwait,Spain,2africa
+Kuwait,Sudan,2africa
+Kuwait,Tanzania,2africa
+Kuwait,United Arab Emirates,2africa
+Kuwait,United Kingdom,2africa
+Madagascar,Mozambique,2africa
+Madagascar,Nigeria,2africa
+Madagascar,Oman,2africa
+Madagascar,Pakistan,2africa
+Madagascar,Portugal,2africa
+Madagascar,Qatar,2africa
+Madagascar,Saudi Arabia,2africa
+Madagascar,Senegal,2africa
+Madagascar,Seychelles,2africa
+Madagascar,Somalia,2africa
+Madagascar,South Africa,2africa
+Madagascar,Spain,2africa
+Madagascar,Sudan,2africa
+Madagascar,Tanzania,2africa
+Madagascar,United Arab Emirates,2africa
+Madagascar,United Kingdom,2africa
+Mozambique,Nigeria,2africa
+Mozambique,Oman,2africa
+Mozambique,Pakistan,2africa
+Mozambique,Portugal,2africa
+Mozambique,Qatar,2africa
+Mozambique,Saudi Arabia,2africa
+Mozambique,Senegal,2africa
+Mozambique,Seychelles,2africa
+Mozambique,Somalia,2africa
+Mozambique,South Africa,2africa
+Mozambique,Spain,2africa
+Mozambique,Sudan,2africa
+Mozambique,Tanzania,2africa
+Mozambique,United Arab Emirates,2africa
+Mozambique,United Kingdom,2africa
+Nigeria,Oman,2africa
+Nigeria,Pakistan,2africa
+Nigeria,Portugal,2africa
+Nigeria,Qatar,2africa
+Nigeria,Saudi Arabia,2africa
+Nigeria,Senegal,2africa
+Nigeria,Seychelles,2africa
+Nigeria,Somalia,2africa
+Nigeria,South Africa,2africa
+Nigeria,Spain,2africa
+Nigeria,Sudan,2africa
+Nigeria,Tanzania,2africa
+Nigeria,United Arab Emirates,2africa
+Nigeria,United Kingdom,2africa
+Oman,Pakistan,2africa
+Oman,Portugal,2africa
+Oman,Qatar,2africa
+Oman,Saudi Arabia,2africa
+Oman,Senegal,2africa
+Oman,Seychelles,2africa
+Oman,Somalia,2africa
+Oman,South Africa,2africa
+Oman,Spain,2africa
+Oman,Sudan,2africa
+Oman,Tanzania,2africa
+Oman,United Arab Emirates,2africa
+Oman,United Kingdom,2africa
+Pakistan,Portugal,2africa
+Pakistan,Qatar,2africa
+Pakistan,Saudi Arabia,2africa
+Pakistan,Senegal,2africa
+Pakistan,Seychelles,2africa
+Pakistan,Somalia,2africa
+Pakistan,South Africa,2africa
+Pakistan,Spain,2africa
+Pakistan,Sudan,2africa
+Pakistan,Tanzania,2africa
+Pakistan,United Arab Emirates,2africa
+Pakistan,United Kingdom,2africa
+Portugal,Qatar,2africa
+Portugal,Saudi Arabia,2africa
+Portugal,Senegal,2africa
+Portugal,Seychelles,2africa
+Portugal,Somalia,2africa
+Portugal,South Africa,2africa
+Portugal,Spain,2africa
+Portugal,Sudan,2africa
+Portugal,Tanzania,2africa
+Portugal,United Arab Emirates,2africa
+Portugal,United Kingdom,2africa
+Qatar,Saudi Arabia,2africa
+Qatar,Senegal,2africa
+Qatar,Seychelles,2africa
+Qatar,Somalia,2africa
+Qatar,South Africa,2africa
+Qatar,Spain,2africa
+Qatar,Sudan,2africa
+Qatar,Tanzania,2africa
+Qatar,United Arab Emirates,2africa
+Qatar,United Kingdom,2africa
+Saudi Arabia,Senegal,2africa
+Saudi Arabia,Seychelles,2africa
+Saudi Arabia,Somalia,2africa
+Saudi Arabia,South Africa,2africa
+Saudi Arabia,Spain,2africa
+Saudi Arabia,Sudan,2africa
+Saudi Arabia,Tanzania,2africa
+Saudi Arabia,United Arab Emirates,2africa
+Saudi Arabia,United Kingdom,2africa
+Senegal,Seychelles,2africa
+Senegal,Somalia,2africa
+Senegal,South Africa,2africa
+Senegal,Spain,2africa
+Senegal,Sudan,2africa
+Senegal,Tanzania,2africa
+Senegal,United Arab Emirates,2africa
+Senegal,United Kingdom,2africa
+Seychelles,Somalia,2africa
+Seychelles,South Africa,2africa
+Seychelles,Spain,2africa
+Seychelles,Sudan,2africa
+Seychelles,Tanzania,2africa
+Seychelles,United Arab Emirates,2africa
+Seychelles,United Kingdom,2africa
+Somalia,South Africa,2africa
+Somalia,Spain,2africa
+Somalia,Sudan,2africa
+Somalia,Tanzania,2africa
+Somalia,United Arab Emirates,2africa
+Somalia,United Kingdom,2africa
+South Africa,Spain,2africa
+South Africa,Sudan,2africa
+South Africa,Tanzania,2africa
+South Africa,United Arab Emirates,2africa
+South Africa,United Kingdom,2africa
+Spain,Sudan,2africa
+Spain,Tanzania,2africa
+Spain,United Arab Emirates,2africa
+Spain,United Kingdom,2africa
+Sudan,Tanzania,2africa
+Sudan,United Arab Emirates,2africa
+Sudan,United Kingdom,2africa
+Tanzania,United Arab Emirates,2africa
+Tanzania,United Kingdom,2africa
+United Arab Emirates,United Kingdom,2africa
+Djibouti,Yemen,aden-djibouti
+Albania,Croatia,adria-1
+Albania,Greece,adria-1
+Croatia,Greece,adria-1
+Ireland,United States,aec-1
+Benin,Côte d'Ivoire,africa-coast-to-europe-ace
+Benin,Equatorial Guinea,africa-coast-to-europe-ace
+Benin,France,africa-coast-to-europe-ace
+Benin,Gabon,africa-coast-to-europe-ace
+Benin,Gambia,africa-coast-to-europe-ace
+Benin,Ghana,africa-coast-to-europe-ace
+Benin,Guinea,africa-coast-to-europe-ace
+Benin,Guinea-Bissau,africa-coast-to-europe-ace
+Benin,Liberia,africa-coast-to-europe-ace
+Benin,Mauritania,africa-coast-to-europe-ace
+Benin,Nigeria,africa-coast-to-europe-ace
+Benin,Portugal,africa-coast-to-europe-ace
+Benin,Sao Tome and Principe,africa-coast-to-europe-ace
+Benin,Senegal,africa-coast-to-europe-ace
+Benin,Sierra Leone,africa-coast-to-europe-ace
+Benin,South Africa,africa-coast-to-europe-ace
+Benin,Spain,africa-coast-to-europe-ace
+Côte d'Ivoire,Equatorial Guinea,africa-coast-to-europe-ace
+Côte d'Ivoire,France,africa-coast-to-europe-ace
+Côte d'Ivoire,Gabon,africa-coast-to-europe-ace
+Côte d'Ivoire,Gambia,africa-coast-to-europe-ace
+Côte d'Ivoire,Ghana,africa-coast-to-europe-ace
+Côte d'Ivoire,Guinea,africa-coast-to-europe-ace
+Côte d'Ivoire,Guinea-Bissau,africa-coast-to-europe-ace
+Côte d'Ivoire,Liberia,africa-coast-to-europe-ace
+Côte d'Ivoire,Mauritania,africa-coast-to-europe-ace
+Côte d'Ivoire,Nigeria,africa-coast-to-europe-ace
+Côte d'Ivoire,Portugal,africa-coast-to-europe-ace
+Côte d'Ivoire,Sao Tome and Principe,africa-coast-to-europe-ace
+Côte d'Ivoire,Senegal,africa-coast-to-europe-ace
+Côte d'Ivoire,Sierra Leone,africa-coast-to-europe-ace
+Côte d'Ivoire,South Africa,africa-coast-to-europe-ace
+Côte d'Ivoire,Spain,africa-coast-to-europe-ace
+Equatorial Guinea,France,africa-coast-to-europe-ace
+Equatorial Guinea,Gabon,africa-coast-to-europe-ace
+Equatorial Guinea,Gambia,africa-coast-to-europe-ace
+Equatorial Guinea,Ghana,africa-coast-to-europe-ace
+Equatorial Guinea,Guinea,africa-coast-to-europe-ace
+Equatorial Guinea,Guinea-Bissau,africa-coast-to-europe-ace
+Equatorial Guinea,Liberia,africa-coast-to-europe-ace
+Equatorial Guinea,Mauritania,africa-coast-to-europe-ace
+Equatorial Guinea,Nigeria,africa-coast-to-europe-ace
+Equatorial Guinea,Portugal,africa-coast-to-europe-ace
+Equatorial Guinea,Sao Tome and Principe,africa-coast-to-europe-ace
+Equatorial Guinea,Senegal,africa-coast-to-europe-ace
+Equatorial Guinea,Sierra Leone,africa-coast-to-europe-ace
+Equatorial Guinea,South Africa,africa-coast-to-europe-ace
+Equatorial Guinea,Spain,africa-coast-to-europe-ace
+France,Gabon,africa-coast-to-europe-ace
+France,Gambia,africa-coast-to-europe-ace
+France,Ghana,africa-coast-to-europe-ace
+France,Guinea,africa-coast-to-europe-ace
+France,Guinea-Bissau,africa-coast-to-europe-ace
+France,Liberia,africa-coast-to-europe-ace
+France,Mauritania,africa-coast-to-europe-ace
+France,Nigeria,africa-coast-to-europe-ace
+France,Portugal,africa-coast-to-europe-ace
+France,Sao Tome and Principe,africa-coast-to-europe-ace
+France,Senegal,africa-coast-to-europe-ace
+France,Sierra Leone,africa-coast-to-europe-ace
+France,South Africa,africa-coast-to-europe-ace
+France,Spain,africa-coast-to-europe-ace
+Gabon,Gambia,africa-coast-to-europe-ace
+Gabon,Ghana,africa-coast-to-europe-ace
+Gabon,Guinea,africa-coast-to-europe-ace
+Gabon,Guinea-Bissau,africa-coast-to-europe-ace
+Gabon,Liberia,africa-coast-to-europe-ace
+Gabon,Mauritania,africa-coast-to-europe-ace
+Gabon,Nigeria,africa-coast-to-europe-ace
+Gabon,Portugal,africa-coast-to-europe-ace
+Gabon,Sao Tome and Principe,africa-coast-to-europe-ace
+Gabon,Senegal,africa-coast-to-europe-ace
+Gabon,Sierra Leone,africa-coast-to-europe-ace
+Gabon,South Africa,africa-coast-to-europe-ace
+Gabon,Spain,africa-coast-to-europe-ace
+Gambia,Ghana,africa-coast-to-europe-ace
+Gambia,Guinea,africa-coast-to-europe-ace
+Gambia,Guinea-Bissau,africa-coast-to-europe-ace
+Gambia,Liberia,africa-coast-to-europe-ace
+Gambia,Mauritania,africa-coast-to-europe-ace
+Gambia,Nigeria,africa-coast-to-europe-ace
+Gambia,Portugal,africa-coast-to-europe-ace
+Gambia,Sao Tome and Principe,africa-coast-to-europe-ace
+Gambia,Senegal,africa-coast-to-europe-ace
+Gambia,Sierra Leone,africa-coast-to-europe-ace
+Gambia,South Africa,africa-coast-to-europe-ace
+Gambia,Spain,africa-coast-to-europe-ace
+Ghana,Guinea,africa-coast-to-europe-ace
+Ghana,Guinea-Bissau,africa-coast-to-europe-ace
+Ghana,Liberia,africa-coast-to-europe-ace
+Ghana,Mauritania,africa-coast-to-europe-ace
+Ghana,Nigeria,africa-coast-to-europe-ace
+Ghana,Portugal,africa-coast-to-europe-ace
+Ghana,Sao Tome and Principe,africa-coast-to-europe-ace
+Ghana,Senegal,africa-coast-to-europe-ace
+Ghana,Sierra Leone,africa-coast-to-europe-ace
+Ghana,South Africa,africa-coast-to-europe-ace
+Ghana,Spain,africa-coast-to-europe-ace
+Guinea,Guinea-Bissau,africa-coast-to-europe-ace
+Guinea,Liberia,africa-coast-to-europe-ace
+Guinea,Mauritania,africa-coast-to-europe-ace
+Guinea,Nigeria,africa-coast-to-europe-ace
+Guinea,Portugal,africa-coast-to-europe-ace
+Guinea,Sao Tome and Principe,africa-coast-to-europe-ace
+Guinea,Senegal,africa-coast-to-europe-ace
+Guinea,Sierra Leone,africa-coast-to-europe-ace
+Guinea,South Africa,africa-coast-to-europe-ace
+Guinea,Spain,africa-coast-to-europe-ace
+Guinea-Bissau,Liberia,africa-coast-to-europe-ace
+Guinea-Bissau,Mauritania,africa-coast-to-europe-ace
+Guinea-Bissau,Nigeria,africa-coast-to-europe-ace
+Guinea-Bissau,Portugal,africa-coast-to-europe-ace
+Guinea-Bissau,Sao Tome and Principe,africa-coast-to-europe-ace
+Guinea-Bissau,Senegal,africa-coast-to-europe-ace
+Guinea-Bissau,Sierra Leone,africa-coast-to-europe-ace
+Guinea-Bissau,South Africa,africa-coast-to-europe-ace
+Guinea-Bissau,Spain,africa-coast-to-europe-ace
+Liberia,Mauritania,africa-coast-to-europe-ace
+Liberia,Nigeria,africa-coast-to-europe-ace
+Liberia,Portugal,africa-coast-to-europe-ace
+Liberia,Sao Tome and Principe,africa-coast-to-europe-ace
+Liberia,Senegal,africa-coast-to-europe-ace
+Liberia,Sierra Leone,africa-coast-to-europe-ace
+Liberia,South Africa,africa-coast-to-europe-ace
+Liberia,Spain,africa-coast-to-europe-ace
+Mauritania,Nigeria,africa-coast-to-europe-ace
+Mauritania,Portugal,africa-coast-to-europe-ace
+Mauritania,Sao Tome and Principe,africa-coast-to-europe-ace
+Mauritania,Senegal,africa-coast-to-europe-ace
+Mauritania,Sierra Leone,africa-coast-to-europe-ace
+Mauritania,South Africa,africa-coast-to-europe-ace
+Mauritania,Spain,africa-coast-to-europe-ace
+Nigeria,Portugal,africa-coast-to-europe-ace
+Nigeria,Sao Tome and Principe,africa-coast-to-europe-ace
+Nigeria,Senegal,africa-coast-to-europe-ace
+Nigeria,Sierra Leone,africa-coast-to-europe-ace
+Nigeria,South Africa,africa-coast-to-europe-ace
+Nigeria,Spain,africa-coast-to-europe-ace
+Portugal,Sao Tome and Principe,africa-coast-to-europe-ace
+Portugal,Senegal,africa-coast-to-europe-ace
+Portugal,Sierra Leone,africa-coast-to-europe-ace
+Portugal,South Africa,africa-coast-to-europe-ace
+Portugal,Spain,africa-coast-to-europe-ace
+Sao Tome and Principe,Senegal,africa-coast-to-europe-ace
+Sao Tome and Principe,Sierra Leone,africa-coast-to-europe-ace
+Sao Tome and Principe,South Africa,africa-coast-to-europe-ace
+Sao Tome and Principe,Spain,africa-coast-to-europe-ace
+Senegal,Sierra Leone,africa-coast-to-europe-ace
+Senegal,South Africa,africa-coast-to-europe-ace
+Senegal,Spain,africa-coast-to-europe-ace
+Sierra Leone,South Africa,africa-coast-to-europe-ace
+Sierra Leone,Spain,africa-coast-to-europe-ace
+South Africa,Spain,africa-coast-to-europe-ace
+Cuba,Jamaica,alba-1
+Cuba,Venezuela,alba-1
+Jamaica,Venezuela,alba-1
+Egypt,Syria,aletar
+Aruba,Curaçao,alonso-de-ojeda
+Brazil,Colombia,america-movil-submarine-cable-system-1-amx-1
+Brazil,Costa Rica,america-movil-submarine-cable-system-1-amx-1
+Brazil,Dominican Republic,america-movil-submarine-cable-system-1-amx-1
+Brazil,Guatemala,america-movil-submarine-cable-system-1-amx-1
+Brazil,Mexico,america-movil-submarine-cable-system-1-amx-1
+Brazil,United States,america-movil-submarine-cable-system-1-amx-1
+Colombia,Costa Rica,america-movil-submarine-cable-system-1-amx-1
+Colombia,Dominican Republic,america-movil-submarine-cable-system-1-amx-1
+Colombia,Guatemala,america-movil-submarine-cable-system-1-amx-1
+Colombia,Mexico,america-movil-submarine-cable-system-1-amx-1
+Colombia,United States,america-movil-submarine-cable-system-1-amx-1
+Costa Rica,Dominican Republic,america-movil-submarine-cable-system-1-amx-1
+Costa Rica,Guatemala,america-movil-submarine-cable-system-1-amx-1
+Costa Rica,Mexico,america-movil-submarine-cable-system-1-amx-1
+Costa Rica,United States,america-movil-submarine-cable-system-1-amx-1
+Dominican Republic,Guatemala,america-movil-submarine-cable-system-1-amx-1
+Dominican Republic,Mexico,america-movil-submarine-cable-system-1-amx-1
+Dominican Republic,United States,america-movil-submarine-cable-system-1-amx-1
+Guatemala,Mexico,america-movil-submarine-cable-system-1-amx-1
+Guatemala,United States,america-movil-submarine-cable-system-1-amx-1
+Mexico,United States,america-movil-submarine-cable-system-1-amx-1
+Canada,United States,american-1
+United States,Virgin Islands (U.S.),americas-ii-west
+Curaçao,Netherlands,amerigo-vespucci
+France,United Kingdom,amitie
+France,United States,amitie
+United Kingdom,United States,amitie
+Spain,United States,anjana
+Antigua and Barbuda,Saint Kitts and Nevis,antigua-st-kitts
+Dominican Republic,United States,antillas-1
+China,Japan,apcn-2
+China,Malaysia,apcn-2
+China,Philippines,apcn-2
+China,Singapore,apcn-2
+China,South Korea,apcn-2
+China,Taiwan,apcn-2
+Japan,Malaysia,apcn-2
+Japan,Philippines,apcn-2
+Japan,Singapore,apcn-2
+Japan,South Korea,apcn-2
+Japan,Taiwan,apcn-2
+Malaysia,Philippines,apcn-2
+Malaysia,Singapore,apcn-2
+Malaysia,South Korea,apcn-2
+Malaysia,Taiwan,apcn-2
+Philippines,Singapore,apcn-2
+Philippines,South Korea,apcn-2
+Philippines,Taiwan,apcn-2
+Singapore,South Korea,apcn-2
+Singapore,Taiwan,apcn-2
+South Korea,Taiwan,apcn-2
+France,United Kingdom,apollo
+France,United States,apollo
+United Kingdom,United States,apollo
+Guam,Indonesia,apricot
+Guam,Japan,apricot
+Guam,Philippines,apricot
+Guam,Singapore,apricot
+Guam,Taiwan,apricot
+Indonesia,Japan,apricot
+Indonesia,Philippines,apricot
+Indonesia,Singapore,apricot
+Indonesia,Taiwan,apricot
+Japan,Philippines,apricot
+Japan,Singapore,apricot
+Japan,Taiwan,apricot
+Philippines,Singapore,apricot
+Philippines,Taiwan,apricot
+Singapore,Taiwan,apricot
+Bahamas,Belize,arcos
+Bahamas,Colombia,arcos
+Bahamas,Costa Rica,arcos
+Bahamas,Curaçao,arcos
+Bahamas,Dominican Republic,arcos
+Bahamas,Guatemala,arcos
+Bahamas,Honduras,arcos
+Bahamas,Mexico,arcos
+Bahamas,Nicaragua,arcos
+Bahamas,Panama,arcos
+Bahamas,Turks and Caicos Islands,arcos
+Bahamas,United States,arcos
+Bahamas,Venezuela,arcos
+Belize,Colombia,arcos
+Belize,Costa Rica,arcos
+Belize,Curaçao,arcos
+Belize,Dominican Republic,arcos
+Belize,Guatemala,arcos
+Belize,Honduras,arcos
+Belize,Mexico,arcos
+Belize,Nicaragua,arcos
+Belize,Panama,arcos
+Belize,Turks and Caicos Islands,arcos
+Belize,United States,arcos
+Belize,Venezuela,arcos
+Colombia,Costa Rica,arcos
+Colombia,Curaçao,arcos
+Colombia,Dominican Republic,arcos
+Colombia,Guatemala,arcos
+Colombia,Honduras,arcos
+Colombia,Mexico,arcos
+Colombia,Nicaragua,arcos
+Colombia,Panama,arcos
+Colombia,Turks and Caicos Islands,arcos
+Colombia,United States,arcos
+Colombia,Venezuela,arcos
+Costa Rica,Curaçao,arcos
+Costa Rica,Dominican Republic,arcos
+Costa Rica,Guatemala,arcos
+Costa Rica,Honduras,arcos
+Costa Rica,Mexico,arcos
+Costa Rica,Nicaragua,arcos
+Costa Rica,Panama,arcos
+Costa Rica,Turks and Caicos Islands,arcos
+Costa Rica,United States,arcos
+Costa Rica,Venezuela,arcos
+Curaçao,Dominican Republic,arcos
+Curaçao,Guatemala,arcos
+Curaçao,Honduras,arcos
+Curaçao,Mexico,arcos
+Curaçao,Nicaragua,arcos
+Curaçao,Panama,arcos
+Curaçao,Turks and Caicos Islands,arcos
+Curaçao,United States,arcos
+Curaçao,Venezuela,arcos
+Dominican Republic,Guatemala,arcos
+Dominican Republic,Honduras,arcos
+Dominican Republic,Mexico,arcos
+Dominican Republic,Nicaragua,arcos
+Dominican Republic,Panama,arcos
+Dominican Republic,Turks and Caicos Islands,arcos
+Dominican Republic,United States,arcos
+Dominican Republic,Venezuela,arcos
+Guatemala,Honduras,arcos
+Guatemala,Mexico,arcos
+Guatemala,Nicaragua,arcos
+Guatemala,Panama,arcos
+Guatemala,Turks and Caicos Islands,arcos
+Guatemala,United States,arcos
+Guatemala,Venezuela,arcos
+Honduras,Mexico,arcos
+Honduras,Nicaragua,arcos
+Honduras,Panama,arcos
+Honduras,Turks and Caicos Islands,arcos
+Honduras,United States,arcos
+Honduras,Venezuela,arcos
+Mexico,Nicaragua,arcos
+Mexico,Panama,arcos
+Mexico,Turks and Caicos Islands,arcos
+Mexico,United States,arcos
+Mexico,Venezuela,arcos
+Nicaragua,Panama,arcos
+Nicaragua,Turks and Caicos Islands,arcos
+Nicaragua,United States,arcos
+Nicaragua,Venezuela,arcos
+Panama,Turks and Caicos Islands,arcos
+Panama,United States,arcos
+Panama,Venezuela,arcos
+Turks and Caicos Islands,United States,arcos
+Turks and Caicos Islands,Venezuela,arcos
+United States,Venezuela,arcos
+Cuba,Martinique,arimao
+Cambodia,China,asia-africa-europe-1-aae-1
+Cambodia,Djibouti,asia-africa-europe-1-aae-1
+Cambodia,Egypt,asia-africa-europe-1-aae-1
+Cambodia,France,asia-africa-europe-1-aae-1
+Cambodia,Greece,asia-africa-europe-1-aae-1
+Cambodia,India,asia-africa-europe-1-aae-1
+Cambodia,Italy,asia-africa-europe-1-aae-1
+Cambodia,Malaysia,asia-africa-europe-1-aae-1
+Cambodia,Myanmar,asia-africa-europe-1-aae-1
+Cambodia,Oman,asia-africa-europe-1-aae-1
+Cambodia,Pakistan,asia-africa-europe-1-aae-1
+Cambodia,Qatar,asia-africa-europe-1-aae-1
+Cambodia,Saudi Arabia,asia-africa-europe-1-aae-1
+Cambodia,Thailand,asia-africa-europe-1-aae-1
+Cambodia,United Arab Emirates,asia-africa-europe-1-aae-1
+Cambodia,Vietnam,asia-africa-europe-1-aae-1
+Cambodia,Yemen,asia-africa-europe-1-aae-1
+China,Djibouti,asia-africa-europe-1-aae-1
+China,Egypt,asia-africa-europe-1-aae-1
+China,France,asia-africa-europe-1-aae-1
+China,Greece,asia-africa-europe-1-aae-1
+China,India,asia-africa-europe-1-aae-1
+China,Italy,asia-africa-europe-1-aae-1
+China,Malaysia,asia-africa-europe-1-aae-1
+China,Myanmar,asia-africa-europe-1-aae-1
+China,Oman,asia-africa-europe-1-aae-1
+China,Pakistan,asia-africa-europe-1-aae-1
+China,Qatar,asia-africa-europe-1-aae-1
+China,Saudi Arabia,asia-africa-europe-1-aae-1
+China,Thailand,asia-africa-europe-1-aae-1
+China,United Arab Emirates,asia-africa-europe-1-aae-1
+China,Vietnam,asia-africa-europe-1-aae-1
+China,Yemen,asia-africa-europe-1-aae-1
+Djibouti,Egypt,asia-africa-europe-1-aae-1
+Djibouti,France,asia-africa-europe-1-aae-1
+Djibouti,Greece,asia-africa-europe-1-aae-1
+Djibouti,India,asia-africa-europe-1-aae-1
+Djibouti,Italy,asia-africa-europe-1-aae-1
+Djibouti,Malaysia,asia-africa-europe-1-aae-1
+Djibouti,Myanmar,asia-africa-europe-1-aae-1
+Djibouti,Oman,asia-africa-europe-1-aae-1
+Djibouti,Pakistan,asia-africa-europe-1-aae-1
+Djibouti,Qatar,asia-africa-europe-1-aae-1
+Djibouti,Saudi Arabia,asia-africa-europe-1-aae-1
+Djibouti,Thailand,asia-africa-europe-1-aae-1
+Djibouti,United Arab Emirates,asia-africa-europe-1-aae-1
+Djibouti,Vietnam,asia-africa-europe-1-aae-1
+Djibouti,Yemen,asia-africa-europe-1-aae-1
+Egypt,France,asia-africa-europe-1-aae-1
+Egypt,Greece,asia-africa-europe-1-aae-1
+Egypt,India,asia-africa-europe-1-aae-1
+Egypt,Italy,asia-africa-europe-1-aae-1
+Egypt,Malaysia,asia-africa-europe-1-aae-1
+Egypt,Myanmar,asia-africa-europe-1-aae-1
+Egypt,Oman,asia-africa-europe-1-aae-1
+Egypt,Pakistan,asia-africa-europe-1-aae-1
+Egypt,Qatar,asia-africa-europe-1-aae-1
+Egypt,Saudi Arabia,asia-africa-europe-1-aae-1
+Egypt,Thailand,asia-africa-europe-1-aae-1
+Egypt,United Arab Emirates,asia-africa-europe-1-aae-1
+Egypt,Vietnam,asia-africa-europe-1-aae-1
+Egypt,Yemen,asia-africa-europe-1-aae-1
+France,Greece,asia-africa-europe-1-aae-1
+France,India,asia-africa-europe-1-aae-1
+France,Italy,asia-africa-europe-1-aae-1
+France,Malaysia,asia-africa-europe-1-aae-1
+France,Myanmar,asia-africa-europe-1-aae-1
+France,Oman,asia-africa-europe-1-aae-1
+France,Pakistan,asia-africa-europe-1-aae-1
+France,Qatar,asia-africa-europe-1-aae-1
+France,Saudi Arabia,asia-africa-europe-1-aae-1
+France,Thailand,asia-africa-europe-1-aae-1
+France,United Arab Emirates,asia-africa-europe-1-aae-1
+France,Vietnam,asia-africa-europe-1-aae-1
+France,Yemen,asia-africa-europe-1-aae-1
+Greece,India,asia-africa-europe-1-aae-1
+Greece,Italy,asia-africa-europe-1-aae-1
+Greece,Malaysia,asia-africa-europe-1-aae-1
+Greece,Myanmar,asia-africa-europe-1-aae-1
+Greece,Oman,asia-africa-europe-1-aae-1
+Greece,Pakistan,asia-africa-europe-1-aae-1
+Greece,Qatar,asia-africa-europe-1-aae-1
+Greece,Saudi Arabia,asia-africa-europe-1-aae-1
+Greece,Thailand,asia-africa-europe-1-aae-1
+Greece,United Arab Emirates,asia-africa-europe-1-aae-1
+Greece,Vietnam,asia-africa-europe-1-aae-1
+Greece,Yemen,asia-africa-europe-1-aae-1
+India,Italy,asia-africa-europe-1-aae-1
+India,Malaysia,asia-africa-europe-1-aae-1
+India,Myanmar,asia-africa-europe-1-aae-1
+India,Oman,asia-africa-europe-1-aae-1
+India,Pakistan,asia-africa-europe-1-aae-1
+India,Qatar,asia-africa-europe-1-aae-1
+India,Saudi Arabia,asia-africa-europe-1-aae-1
+India,Thailand,asia-africa-europe-1-aae-1
+India,United Arab Emirates,asia-africa-europe-1-aae-1
+India,Vietnam,asia-africa-europe-1-aae-1
+India,Yemen,asia-africa-europe-1-aae-1
+Italy,Malaysia,asia-africa-europe-1-aae-1
+Italy,Myanmar,asia-africa-europe-1-aae-1
+Italy,Oman,asia-africa-europe-1-aae-1
+Italy,Pakistan,asia-africa-europe-1-aae-1
+Italy,Qatar,asia-africa-europe-1-aae-1
+Italy,Saudi Arabia,asia-africa-europe-1-aae-1
+Italy,Thailand,asia-africa-europe-1-aae-1
+Italy,United Arab Emirates,asia-africa-europe-1-aae-1
+Italy,Vietnam,asia-africa-europe-1-aae-1
+Italy,Yemen,asia-africa-europe-1-aae-1
+Malaysia,Myanmar,asia-africa-europe-1-aae-1
+Malaysia,Oman,asia-africa-europe-1-aae-1
+Malaysia,Pakistan,asia-africa-europe-1-aae-1
+Malaysia,Qatar,asia-africa-europe-1-aae-1
+Malaysia,Saudi Arabia,asia-africa-europe-1-aae-1
+Malaysia,Thailand,asia-africa-europe-1-aae-1
+Malaysia,United Arab Emirates,asia-africa-europe-1-aae-1
+Malaysia,Vietnam,asia-africa-europe-1-aae-1
+Malaysia,Yemen,asia-africa-europe-1-aae-1
+Myanmar,Oman,asia-africa-europe-1-aae-1
+Myanmar,Pakistan,asia-africa-europe-1-aae-1
+Myanmar,Qatar,asia-africa-europe-1-aae-1
+Myanmar,Saudi Arabia,asia-africa-europe-1-aae-1
+Myanmar,Thailand,asia-africa-europe-1-aae-1
+Myanmar,United Arab Emirates,asia-africa-europe-1-aae-1
+Myanmar,Vietnam,asia-africa-europe-1-aae-1
+Myanmar,Yemen,asia-africa-europe-1-aae-1
+Oman,Pakistan,asia-africa-europe-1-aae-1
+Oman,Qatar,asia-africa-europe-1-aae-1
+Oman,Saudi Arabia,asia-africa-europe-1-aae-1
+Oman,Thailand,asia-africa-europe-1-aae-1
+Oman,United Arab Emirates,asia-africa-europe-1-aae-1
+Oman,Vietnam,asia-africa-europe-1-aae-1
+Oman,Yemen,asia-africa-europe-1-aae-1
+Pakistan,Qatar,asia-africa-europe-1-aae-1
+Pakistan,Saudi Arabia,asia-africa-europe-1-aae-1
+Pakistan,Thailand,asia-africa-europe-1-aae-1
+Pakistan,United Arab Emirates,asia-africa-europe-1-aae-1
+Pakistan,Vietnam,asia-africa-europe-1-aae-1
+Pakistan,Yemen,asia-africa-europe-1-aae-1
+Qatar,Saudi Arabia,asia-africa-europe-1-aae-1
+Qatar,Thailand,asia-africa-europe-1-aae-1
+Qatar,United Arab Emirates,asia-africa-europe-1-aae-1
+Qatar,Vietnam,asia-africa-europe-1-aae-1
+Qatar,Yemen,asia-africa-europe-1-aae-1
+Saudi Arabia,Thailand,asia-africa-europe-1-aae-1
+Saudi Arabia,United Arab Emirates,asia-africa-europe-1-aae-1
+Saudi Arabia,Vietnam,asia-africa-europe-1-aae-1
+Saudi Arabia,Yemen,asia-africa-europe-1-aae-1
+Thailand,United Arab Emirates,asia-africa-europe-1-aae-1
+Thailand,Vietnam,asia-africa-europe-1-aae-1
+Thailand,Yemen,asia-africa-europe-1-aae-1
+United Arab Emirates,Vietnam,asia-africa-europe-1-aae-1
+United Arab Emirates,Yemen,asia-africa-europe-1-aae-1
+Vietnam,Yemen,asia-africa-europe-1-aae-1
+Brunei,China,asia-america-gateway-aag-cable-system
+Brunei,Guam,asia-america-gateway-aag-cable-system
+Brunei,Malaysia,asia-america-gateway-aag-cable-system
+Brunei,Philippines,asia-america-gateway-aag-cable-system
+Brunei,Singapore,asia-america-gateway-aag-cable-system
+Brunei,Thailand,asia-america-gateway-aag-cable-system
+Brunei,United States,asia-america-gateway-aag-cable-system
+Brunei,Vietnam,asia-america-gateway-aag-cable-system
+China,Guam,asia-america-gateway-aag-cable-system
+China,Malaysia,asia-america-gateway-aag-cable-system
+China,Philippines,asia-america-gateway-aag-cable-system
+China,Singapore,asia-america-gateway-aag-cable-system
+China,Thailand,asia-america-gateway-aag-cable-system
+China,United States,asia-america-gateway-aag-cable-system
+China,Vietnam,asia-america-gateway-aag-cable-system
+Guam,Malaysia,asia-america-gateway-aag-cable-system
+Guam,Philippines,asia-america-gateway-aag-cable-system
+Guam,Singapore,asia-america-gateway-aag-cable-system
+Guam,Thailand,asia-america-gateway-aag-cable-system
+Guam,United States,asia-america-gateway-aag-cable-system
+Guam,Vietnam,asia-america-gateway-aag-cable-system
+Malaysia,Philippines,asia-america-gateway-aag-cable-system
+Malaysia,Singapore,asia-america-gateway-aag-cable-system
+Malaysia,Thailand,asia-america-gateway-aag-cable-system
+Malaysia,United States,asia-america-gateway-aag-cable-system
+Malaysia,Vietnam,asia-america-gateway-aag-cable-system
+Philippines,Singapore,asia-america-gateway-aag-cable-system
+Philippines,Thailand,asia-america-gateway-aag-cable-system
+Philippines,United States,asia-america-gateway-aag-cable-system
+Philippines,Vietnam,asia-america-gateway-aag-cable-system
+Singapore,Thailand,asia-america-gateway-aag-cable-system
+Singapore,United States,asia-america-gateway-aag-cable-system
+Singapore,Vietnam,asia-america-gateway-aag-cable-system
+Thailand,United States,asia-america-gateway-aag-cable-system
+Thailand,Vietnam,asia-america-gateway-aag-cable-system
+United States,Vietnam,asia-america-gateway-aag-cable-system
+China,Japan,asia-direct-cable-adc
+China,Philippines,asia-direct-cable-adc
+China,Singapore,asia-direct-cable-adc
+China,Thailand,asia-direct-cable-adc
+China,Vietnam,asia-direct-cable-adc
+Japan,Philippines,asia-direct-cable-adc
+Japan,Singapore,asia-direct-cable-adc
+Japan,Thailand,asia-direct-cable-adc
+Japan,Vietnam,asia-direct-cable-adc
+Philippines,Singapore,asia-direct-cable-adc
+Philippines,Thailand,asia-direct-cable-adc
+Philippines,Vietnam,asia-direct-cable-adc
+Singapore,Thailand,asia-direct-cable-adc
+Singapore,Vietnam,asia-direct-cable-adc
+Thailand,Vietnam,asia-direct-cable-adc
+China,Japan,asia-pacific-gateway-apg
+China,Malaysia,asia-pacific-gateway-apg
+China,Singapore,asia-pacific-gateway-apg
+China,South Korea,asia-pacific-gateway-apg
+China,Taiwan,asia-pacific-gateway-apg
+China,Thailand,asia-pacific-gateway-apg
+China,Vietnam,asia-pacific-gateway-apg
+Japan,Malaysia,asia-pacific-gateway-apg
+Japan,Singapore,asia-pacific-gateway-apg
+Japan,South Korea,asia-pacific-gateway-apg
+Japan,Taiwan,asia-pacific-gateway-apg
+Japan,Thailand,asia-pacific-gateway-apg
+Japan,Vietnam,asia-pacific-gateway-apg
+Malaysia,Singapore,asia-pacific-gateway-apg
+Malaysia,South Korea,asia-pacific-gateway-apg
+Malaysia,Taiwan,asia-pacific-gateway-apg
+Malaysia,Thailand,asia-pacific-gateway-apg
+Malaysia,Vietnam,asia-pacific-gateway-apg
+Singapore,South Korea,asia-pacific-gateway-apg
+Singapore,Taiwan,asia-pacific-gateway-apg
+Singapore,Thailand,asia-pacific-gateway-apg
+Singapore,Vietnam,asia-pacific-gateway-apg
+South Korea,Taiwan,asia-pacific-gateway-apg
+South Korea,Thailand,asia-pacific-gateway-apg
+South Korea,Vietnam,asia-pacific-gateway-apg
+Taiwan,Thailand,asia-pacific-gateway-apg
+Taiwan,Vietnam,asia-pacific-gateway-apg
+Thailand,Vietnam,asia-pacific-gateway-apg
+China,Japan,asia-submarine-cable-express-asecahaya-malaysia
+China,Malaysia,asia-submarine-cable-express-asecahaya-malaysia
+China,Philippines,asia-submarine-cable-express-asecahaya-malaysia
+China,Singapore,asia-submarine-cable-express-asecahaya-malaysia
+Japan,Malaysia,asia-submarine-cable-express-asecahaya-malaysia
+Japan,Philippines,asia-submarine-cable-express-asecahaya-malaysia
+Japan,Singapore,asia-submarine-cable-express-asecahaya-malaysia
+Malaysia,Philippines,asia-submarine-cable-express-asecahaya-malaysia
+Malaysia,Singapore,asia-submarine-cable-express-asecahaya-malaysia
+Philippines,Singapore,asia-submarine-cable-express-asecahaya-malaysia
+Guam,Northern Mariana Islands,atisa
+Germany,Netherlands,atlantic-crossing-1-ac-1
+Germany,United Kingdom,atlantic-crossing-1-ac-1
+Germany,United States,atlantic-crossing-1-ac-1
+Netherlands,United Kingdom,atlantic-crossing-1-ac-1
+Netherlands,United States,atlantic-crossing-1-ac-1
+United Kingdom,United States,atlantic-crossing-1-ac-1
+France,Morocco,atlas-offshore
+Australia,Guam,australia-japan-cable-ajc
+Australia,Japan,australia-japan-cable-ajc
+Guam,Japan,australia-japan-cable-ajc
+Australia,Christmas Island,australia-singapore-cable-asc
+Australia,Indonesia,australia-singapore-cable-asc
+Australia,Singapore,australia-singapore-cable-asc
+Christmas Island,Indonesia,australia-singapore-cable-asc
+Christmas Island,Singapore,australia-singapore-cable-asc
+Indonesia,Singapore,australia-singapore-cable-asc
+Comoros,Mayotte,avassa
+Bahamas,United States,bahamas-2
+Bahamas,Haiti,bahamas-domestic-submarine-network-bdsni
+Bahamas,United States,bahamas-internet-cable-system-bics
+Estonia,Finland,baltic-sea-submarine-cable
+Estonia,Sweden,baltic-sea-submarine-cable
+Finland,Sweden,baltic-sea-submarine-cable
+Denmark,Poland,baltica
+Denmark,Sweden,baltica
+Poland,Sweden,baltica
+Indonesia,Malaysia,batam-dumai-melaka-bdm
+Indonesia,Malaysia,batam-rengit-cable-system-brcs
+Indonesia,Malaysia,batam-sarawak-internet-cable-system-basics
+Indonesia,Singapore,batam-singapore-cable-system-bscs
+India,Malaysia,bay-of-bengal-gateway-bbg
+India,Oman,bay-of-bengal-gateway-bbg
+India,Sri Lanka,bay-of-bengal-gateway-bbg
+India,United Arab Emirates,bay-of-bengal-gateway-bbg
+Malaysia,Oman,bay-of-bengal-gateway-bbg
+Malaysia,Sri Lanka,bay-of-bengal-gateway-bbg
+Malaysia,United Arab Emirates,bay-of-bengal-gateway-bbg
+Oman,Sri Lanka,bay-of-bengal-gateway-bbg
+Oman,United Arab Emirates,bay-of-bengal-gateway-bbg
+Sri Lanka,United Arab Emirates,bay-of-bengal-gateway-bbg
+Latvia,Lithuania,bcs-east
+Lithuania,Sweden,bcs-east-west-interlink
+Finland,Sweden,bcs-north---phase-1
+Finland,Russia,bcs-north---phase-2
+Lebanon,Syria,berytar
+India,Sri Lanka,bharat-lanka-cable-system
+Argentina,Uruguay,bicentenario
+Guam,Indonesia,bifrost
+Guam,Mexico,bifrost
+Guam,Philippines,bifrost
+Guam,Singapore,bifrost
+Guam,United States,bifrost
+Indonesia,Mexico,bifrost
+Indonesia,Philippines,bifrost
+Indonesia,Singapore,bifrost
+Indonesia,United States,bifrost
+Mexico,Philippines,bifrost
+Mexico,Singapore,bifrost
+Mexico,United States,bifrost
+Philippines,Singapore,bifrost
+Philippines,United States,bifrost
+Singapore,United States,bifrost
+Cyprus,France,blue
+Cyprus,Greece,blue
+Cyprus,Israel,blue
+Cyprus,Italy,blue
+Cyprus,Jordan,blue
+France,Greece,blue
+France,Israel,blue
+France,Italy,blue
+France,Jordan,blue
+Greece,Israel,blue
+Greece,Italy,blue
+Greece,Jordan,blue
+Israel,Italy,blue
+Israel,Jordan,blue
+Italy,Jordan,blue
+Finland,Sweden,botnia
+Brazil,United States,brusa
+Isle of Man,United Kingdom,bt-mt-1
+Finland,Germany,c-lion1
+Cyprus,Lebanon,cadmos
+Morocco,Spain,canalink
+Bermuda,Virgin Islands (U.K.),caribbean-bermuda-u-s-cbus
+Grenada,Saint Vincent and the Grenadines,caribbean-regional-communications-infrastructure-program-carcip
+Bulgaria,Georgia,caucasus-cable-system
+Cayman Islands,Jamaica,cayman-jamaica-fiber-system-cjfs
+Cameroon,Equatorial Guinea,ceiba-2
+Ireland,United Kingdom,celtixconnect-1-cc-1
+Guernsey,United Kingdom,channel-islands-9-liberty-submarine-cable
+Netherlands,United Kingdom,circe-north
+France,United Kingdom,circe-south
+Denmark,Netherlands,cobracable
+Colombia,Jamaica,colombia-florida-express-cfx-1
+Colombia,United States,colombia-florida-express-cfx-1
+Jamaica,United States,colombia-florida-express-cfx-1
+Netherlands,United Kingdom,concerto
+Egypt,Jordan,coral-bridge
+Australia,Papua New Guinea,coral-sea-cable-system-cs
+Australia,Solomon Islands,coral-sea-cable-system-cs
+Papua New Guinea,Solomon Islands,coral-sea-cable-system-cs
+China,Taiwan,cross-straits-cable-network-cscn
+France,United Kingdom,crosschannel-fibre
+Canada,United States,crosslake-fibre
+Chile,Panama,curie
+Chile,United States,curie
+Panama,United States,curie
+Denmark,Sweden,danica-north
+Denmark,Iceland,danice
+French Guiana,Guyana,deep-blue-one
+French Guiana,Suriname,deep-blue-one
+French Guiana,Trinidad and Tobago,deep-blue-one
+Guyana,Suriname,deep-blue-one
+Guyana,Trinidad and Tobago,deep-blue-one
+Suriname,Trinidad and Tobago,deep-blue-one
+Denmark,Sweden,denmark-sweden-17
+Denmark,Sweden,denmark-sweden-18
+Maldives,Sri Lanka,dhiraagu-slt-submarine-cable-network
+Italy,Tunisia,didon
+Djibouti,Kenya,djibouti-africa-regional-express-1-dare-1
+Djibouti,Madagascar,djibouti-africa-regional-express-1-dare-1
+Djibouti,Mozambique,djibouti-africa-regional-express-1-dare-1
+Djibouti,Somalia,djibouti-africa-regional-express-1-dare-1
+Djibouti,South Africa,djibouti-africa-regional-express-1-dare-1
+Djibouti,Tanzania,djibouti-africa-regional-express-1-dare-1
+Kenya,Madagascar,djibouti-africa-regional-express-1-dare-1
+Kenya,Mozambique,djibouti-africa-regional-express-1-dare-1
+Kenya,Somalia,djibouti-africa-regional-express-1-dare-1
+Kenya,South Africa,djibouti-africa-regional-express-1-dare-1
+Kenya,Tanzania,djibouti-africa-regional-express-1-dare-1
+Madagascar,Mozambique,djibouti-africa-regional-express-1-dare-1
+Madagascar,Somalia,djibouti-africa-regional-express-1-dare-1
+Madagascar,South Africa,djibouti-africa-regional-express-1-dare-1
+Madagascar,Tanzania,djibouti-africa-regional-express-1-dare-1
+Mozambique,Somalia,djibouti-africa-regional-express-1-dare-1
+Mozambique,South Africa,djibouti-africa-regional-express-1-dare-1
+Mozambique,Tanzania,djibouti-africa-regional-express-1-dare-1
+Somalia,South Africa,djibouti-africa-regional-express-1-dare-1
+Somalia,Tanzania,djibouti-africa-regional-express-1-dare-1
+South Africa,Tanzania,djibouti-africa-regional-express-1-dare-1
+Indonesia,Malaysia,dumai-melaka-cable-system-dmcs
+France,United States,dunant
+Estonia,Finland,e-finest
+Isle of Man,United Kingdom,e-llan
+China,Japan,eac-c2c
+China,Philippines,eac-c2c
+China,Singapore,eac-c2c
+China,South Korea,eac-c2c
+China,Taiwan,eac-c2c
+Japan,Philippines,eac-c2c
+Japan,Singapore,eac-c2c
+Japan,South Korea,eac-c2c
+Japan,Taiwan,eac-c2c
+Philippines,Singapore,eac-c2c
+Philippines,South Korea,eac-c2c
+Philippines,Taiwan,eac-c2c
+Singapore,South Korea,eac-c2c
+Singapore,Taiwan,eac-c2c
+South Korea,Taiwan,eac-c2c
+Kiribati,Micronesia,east-micronesia-cable-system-emcs
+Kiribati,Nauru,east-micronesia-cable-system-emcs
+Micronesia,Nauru,east-micronesia-cable-system-emcs
+Dominican Republic,Jamaica,east-west-cable-ewc
+Dominican Republic,Virgin Islands (U.K.),east-west-cable-ewc
+Jamaica,Virgin Islands (U.K.),east-west-cable-ewc
+Indonesia,Malaysia,east-west-submarine-cable-system
+Comoros,Djibouti,eastern-africa-submarine-system-eassy
+Comoros,Kenya,eastern-africa-submarine-system-eassy
+Comoros,Madagascar,eastern-africa-submarine-system-eassy
+Comoros,Mozambique,eastern-africa-submarine-system-eassy
+Comoros,Somalia,eastern-africa-submarine-system-eassy
+Comoros,South Africa,eastern-africa-submarine-system-eassy
+Comoros,Sudan,eastern-africa-submarine-system-eassy
+Comoros,Tanzania,eastern-africa-submarine-system-eassy
+Djibouti,Kenya,eastern-africa-submarine-system-eassy
+Djibouti,Madagascar,eastern-africa-submarine-system-eassy
+Djibouti,Mozambique,eastern-africa-submarine-system-eassy
+Djibouti,Somalia,eastern-africa-submarine-system-eassy
+Djibouti,South Africa,eastern-africa-submarine-system-eassy
+Djibouti,Sudan,eastern-africa-submarine-system-eassy
+Djibouti,Tanzania,eastern-africa-submarine-system-eassy
+Kenya,Madagascar,eastern-africa-submarine-system-eassy
+Kenya,Mozambique,eastern-africa-submarine-system-eassy
+Kenya,Somalia,eastern-africa-submarine-system-eassy
+Kenya,South Africa,eastern-africa-submarine-system-eassy
+Kenya,Sudan,eastern-africa-submarine-system-eassy
+Kenya,Tanzania,eastern-africa-submarine-system-eassy
+Madagascar,Mozambique,eastern-africa-submarine-system-eassy
+Madagascar,Somalia,eastern-africa-submarine-system-eassy
+Madagascar,South Africa,eastern-africa-submarine-system-eassy
+Madagascar,Sudan,eastern-africa-submarine-system-eassy
+Madagascar,Tanzania,eastern-africa-submarine-system-eassy
+Mozambique,Somalia,eastern-africa-submarine-system-eassy
+Mozambique,South Africa,eastern-africa-submarine-system-eassy
+Mozambique,Sudan,eastern-africa-submarine-system-eassy
+Mozambique,Tanzania,eastern-africa-submarine-system-eassy
+Somalia,South Africa,eastern-africa-submarine-system-eassy
+Somalia,Sudan,eastern-africa-submarine-system-eassy
+Somalia,Tanzania,eastern-africa-submarine-system-eassy
+South Africa,Sudan,eastern-africa-submarine-system-eassy
+South Africa,Tanzania,eastern-africa-submarine-system-eassy
+Sudan,Tanzania,eastern-africa-submarine-system-eassy
+Anguilla,Antigua and Barbuda,eastern-caribbean-fiber-system-ecfs
+Anguilla,Barbados,eastern-caribbean-fiber-system-ecfs
+Anguilla,Dominica,eastern-caribbean-fiber-system-ecfs
+Anguilla,Grenada,eastern-caribbean-fiber-system-ecfs
+Anguilla,Guadeloupe,eastern-caribbean-fiber-system-ecfs
+Anguilla,Martinique,eastern-caribbean-fiber-system-ecfs
+Anguilla,Saint Kitts and Nevis,eastern-caribbean-fiber-system-ecfs
+Anguilla,Saint Lucia,eastern-caribbean-fiber-system-ecfs
+Anguilla,Saint Vincent and the Grenadines,eastern-caribbean-fiber-system-ecfs
+Anguilla,Sint Maarten,eastern-caribbean-fiber-system-ecfs
+Anguilla,Trinidad and Tobago,eastern-caribbean-fiber-system-ecfs
+Anguilla,Virgin Islands (U.K.),eastern-caribbean-fiber-system-ecfs
+Antigua and Barbuda,Barbados,eastern-caribbean-fiber-system-ecfs
+Antigua and Barbuda,Dominica,eastern-caribbean-fiber-system-ecfs
+Antigua and Barbuda,Grenada,eastern-caribbean-fiber-system-ecfs
+Antigua and Barbuda,Guadeloupe,eastern-caribbean-fiber-system-ecfs
+Antigua and Barbuda,Martinique,eastern-caribbean-fiber-system-ecfs
+Antigua and Barbuda,Saint Kitts and Nevis,eastern-caribbean-fiber-system-ecfs
+Antigua and Barbuda,Saint Lucia,eastern-caribbean-fiber-system-ecfs
+Antigua and Barbuda,Saint Vincent and the Grenadines,eastern-caribbean-fiber-system-ecfs
+Antigua and Barbuda,Sint Maarten,eastern-caribbean-fiber-system-ecfs
+Antigua and Barbuda,Trinidad and Tobago,eastern-caribbean-fiber-system-ecfs
+Antigua and Barbuda,Virgin Islands (U.K.),eastern-caribbean-fiber-system-ecfs
+Barbados,Dominica,eastern-caribbean-fiber-system-ecfs
+Barbados,Grenada,eastern-caribbean-fiber-system-ecfs
+Barbados,Guadeloupe,eastern-caribbean-fiber-system-ecfs
+Barbados,Martinique,eastern-caribbean-fiber-system-ecfs
+Barbados,Saint Kitts and Nevis,eastern-caribbean-fiber-system-ecfs
+Barbados,Saint Lucia,eastern-caribbean-fiber-system-ecfs
+Barbados,Saint Vincent and the Grenadines,eastern-caribbean-fiber-system-ecfs
+Barbados,Sint Maarten,eastern-caribbean-fiber-system-ecfs
+Barbados,Trinidad and Tobago,eastern-caribbean-fiber-system-ecfs
+Barbados,Virgin Islands (U.K.),eastern-caribbean-fiber-system-ecfs
+Dominica,Grenada,eastern-caribbean-fiber-system-ecfs
+Dominica,Guadeloupe,eastern-caribbean-fiber-system-ecfs
+Dominica,Martinique,eastern-caribbean-fiber-system-ecfs
+Dominica,Saint Kitts and Nevis,eastern-caribbean-fiber-system-ecfs
+Dominica,Saint Lucia,eastern-caribbean-fiber-system-ecfs
+Dominica,Saint Vincent and the Grenadines,eastern-caribbean-fiber-system-ecfs
+Dominica,Sint Maarten,eastern-caribbean-fiber-system-ecfs
+Dominica,Trinidad and Tobago,eastern-caribbean-fiber-system-ecfs
+Dominica,Virgin Islands (U.K.),eastern-caribbean-fiber-system-ecfs
+Grenada,Guadeloupe,eastern-caribbean-fiber-system-ecfs
+Grenada,Martinique,eastern-caribbean-fiber-system-ecfs
+Grenada,Saint Kitts and Nevis,eastern-caribbean-fiber-system-ecfs
+Grenada,Saint Lucia,eastern-caribbean-fiber-system-ecfs
+Grenada,Saint Vincent and the Grenadines,eastern-caribbean-fiber-system-ecfs
+Grenada,Sint Maarten,eastern-caribbean-fiber-system-ecfs
+Grenada,Trinidad and Tobago,eastern-caribbean-fiber-system-ecfs
+Grenada,Virgin Islands (U.K.),eastern-caribbean-fiber-system-ecfs
+Guadeloupe,Martinique,eastern-caribbean-fiber-system-ecfs
+Guadeloupe,Saint Kitts and Nevis,eastern-caribbean-fiber-system-ecfs
+Guadeloupe,Saint Lucia,eastern-caribbean-fiber-system-ecfs
+Guadeloupe,Saint Vincent and the Grenadines,eastern-caribbean-fiber-system-ecfs
+Guadeloupe,Sint Maarten,eastern-caribbean-fiber-system-ecfs
+Guadeloupe,Trinidad and Tobago,eastern-caribbean-fiber-system-ecfs
+Guadeloupe,Virgin Islands (U.K.),eastern-caribbean-fiber-system-ecfs
+Martinique,Saint Kitts and Nevis,eastern-caribbean-fiber-system-ecfs
+Martinique,Saint Lucia,eastern-caribbean-fiber-system-ecfs
+Martinique,Saint Vincent and the Grenadines,eastern-caribbean-fiber-system-ecfs
+Martinique,Sint Maarten,eastern-caribbean-fiber-system-ecfs
+Martinique,Trinidad and Tobago,eastern-caribbean-fiber-system-ecfs
+Martinique,Virgin Islands (U.K.),eastern-caribbean-fiber-system-ecfs
+Saint Kitts and Nevis,Saint Lucia,eastern-caribbean-fiber-system-ecfs
+Saint Kitts and Nevis,Saint Vincent and the Grenadines,eastern-caribbean-fiber-system-ecfs
+Saint Kitts and Nevis,Sint Maarten,eastern-caribbean-fiber-system-ecfs
+Saint Kitts and Nevis,Trinidad and Tobago,eastern-caribbean-fiber-system-ecfs
+Saint Kitts and Nevis,Virgin Islands (U.K.),eastern-caribbean-fiber-system-ecfs
+Saint Lucia,Saint Vincent and the Grenadines,eastern-caribbean-fiber-system-ecfs
+Saint Lucia,Sint Maarten,eastern-caribbean-fiber-system-ecfs
+Saint Lucia,Trinidad and Tobago,eastern-caribbean-fiber-system-ecfs
+Saint Lucia,Virgin Islands (U.K.),eastern-caribbean-fiber-system-ecfs
+Saint Vincent and the Grenadines,Sint Maarten,eastern-caribbean-fiber-system-ecfs
+Saint Vincent and the Grenadines,Trinidad and Tobago,eastern-caribbean-fiber-system-ecfs
+Saint Vincent and the Grenadines,Virgin Islands (U.K.),eastern-caribbean-fiber-system-ecfs
+Sint Maarten,Trinidad and Tobago,eastern-caribbean-fiber-system-ecfs
+Sint Maarten,Virgin Islands (U.K.),eastern-caribbean-fiber-system-ecfs
+Trinidad and Tobago,Virgin Islands (U.K.),eastern-caribbean-fiber-system-ecfs
+Finland,Sweden,eastern-light-sweden-finland-i
+Curaçao,Trinidad and Tobago,ec-link
+Guam,Indonesia,echo
+Guam,Palau,echo
+Guam,Singapore,echo
+Guam,United States,echo
+Indonesia,Palau,echo
+Indonesia,Singapore,echo
+Indonesia,United States,echo
+Palau,Singapore,echo
+Palau,United States,echo
+Singapore,United States,echo
+Denmark,Germany,elektra-globalconnect-1-gc1
+Brazil,Cape Verde,ellalink
+Brazil,French Guiana,ellalink
+Brazil,Mauritania,ellalink
+Brazil,Morocco,ellalink
+Brazil,Portugal,ellalink
+Brazil,Spain,ellalink
+Brazil,Suriname,ellalink
+Cape Verde,French Guiana,ellalink
+Cape Verde,Mauritania,ellalink
+Cape Verde,Morocco,ellalink
+Cape Verde,Portugal,ellalink
+Cape Verde,Spain,ellalink
+Cape Verde,Suriname,ellalink
+French Guiana,Mauritania,ellalink
+French Guiana,Morocco,ellalink
+French Guiana,Portugal,ellalink
+French Guiana,Spain,ellalink
+French Guiana,Suriname,ellalink
+Mauritania,Morocco,ellalink
+Mauritania,Portugal,ellalink
+Mauritania,Spain,ellalink
+Mauritania,Suriname,ellalink
+Morocco,Portugal,ellalink
+Morocco,Spain,ellalink
+Morocco,Suriname,ellalink
+Portugal,Spain,ellalink
+Portugal,Suriname,ellalink
+Spain,Suriname,ellalink
+Ireland,United Kingdom,emerald-bridge-fibres
+Denmark,Sweden,energinet-laeso-varberg
+Russia,Ukraine,energy-bridge-cable
+Italy,Malta,epic-malta-sicily-cable-system-emscs
+Namibia,Nigeria,equiano
+Namibia,Portugal,equiano
+Namibia,"Saint Helena, Ascension and Tristan da Cunha",equiano
+Namibia,South Africa,equiano
+Namibia,Togo,equiano
+Nigeria,Portugal,equiano
+Nigeria,"Saint Helena, Ascension and Tristan da Cunha",equiano
+Nigeria,South Africa,equiano
+Nigeria,Togo,equiano
+Portugal,"Saint Helena, Ascension and Tristan da Cunha",equiano
+Portugal,South Africa,equiano
+Portugal,Togo,equiano
+"Saint Helena, Ascension and Tristan da Cunha",South Africa,equiano
+"Saint Helena, Ascension and Tristan da Cunha",Togo,equiano
+South Africa,Togo,equiano
+Ireland,United Kingdom,esat-2
+Morocco,Spain,est-tet
+Djibouti,Egypt,europe-india-gateway-eig
+Djibouti,Gibraltar,europe-india-gateway-eig
+Djibouti,India,europe-india-gateway-eig
+Djibouti,Libya,europe-india-gateway-eig
+Djibouti,Monaco,europe-india-gateway-eig
+Djibouti,Oman,europe-india-gateway-eig
+Djibouti,Portugal,europe-india-gateway-eig
+Djibouti,Saudi Arabia,europe-india-gateway-eig
+Djibouti,United Arab Emirates,europe-india-gateway-eig
+Djibouti,United Kingdom,europe-india-gateway-eig
+Egypt,Gibraltar,europe-india-gateway-eig
+Egypt,India,europe-india-gateway-eig
+Egypt,Libya,europe-india-gateway-eig
+Egypt,Monaco,europe-india-gateway-eig
+Egypt,Oman,europe-india-gateway-eig
+Egypt,Portugal,europe-india-gateway-eig
+Egypt,Saudi Arabia,europe-india-gateway-eig
+Egypt,United Arab Emirates,europe-india-gateway-eig
+Egypt,United Kingdom,europe-india-gateway-eig
+Gibraltar,India,europe-india-gateway-eig
+Gibraltar,Libya,europe-india-gateway-eig
+Gibraltar,Monaco,europe-india-gateway-eig
+Gibraltar,Oman,europe-india-gateway-eig
+Gibraltar,Portugal,europe-india-gateway-eig
+Gibraltar,Saudi Arabia,europe-india-gateway-eig
+Gibraltar,United Arab Emirates,europe-india-gateway-eig
+Gibraltar,United Kingdom,europe-india-gateway-eig
+India,Libya,europe-india-gateway-eig
+India,Monaco,europe-india-gateway-eig
+India,Oman,europe-india-gateway-eig
+India,Portugal,europe-india-gateway-eig
+India,Saudi Arabia,europe-india-gateway-eig
+India,United Arab Emirates,europe-india-gateway-eig
+India,United Kingdom,europe-india-gateway-eig
+Libya,Monaco,europe-india-gateway-eig
+Libya,Oman,europe-india-gateway-eig
+Libya,Portugal,europe-india-gateway-eig
+Libya,Saudi Arabia,europe-india-gateway-eig
+Libya,United Arab Emirates,europe-india-gateway-eig
+Libya,United Kingdom,europe-india-gateway-eig
+Monaco,Oman,europe-india-gateway-eig
+Monaco,Portugal,europe-india-gateway-eig
+Monaco,Saudi Arabia,europe-india-gateway-eig
+Monaco,United Arab Emirates,europe-india-gateway-eig
+Monaco,United Kingdom,europe-india-gateway-eig
+Oman,Portugal,europe-india-gateway-eig
+Oman,Saudi Arabia,europe-india-gateway-eig
+Oman,United Arab Emirates,europe-india-gateway-eig
+Oman,United Kingdom,europe-india-gateway-eig
+Portugal,Saudi Arabia,europe-india-gateway-eig
+Portugal,United Arab Emirates,europe-india-gateway-eig
+Portugal,United Kingdom,europe-india-gateway-eig
+Saudi Arabia,United Arab Emirates,europe-india-gateway-eig
+Saudi Arabia,United Kingdom,europe-india-gateway-eig
+United Arab Emirates,United Kingdom,europe-india-gateway-eig
+Canada,Ireland,exa-express
+Canada,United Kingdom,exa-express
+Ireland,United Kingdom,exa-express
+Canada,Ireland,exa-north-and-south
+Canada,United Kingdom,exa-north-and-south
+Canada,United States,exa-north-and-south
+Ireland,United Kingdom,exa-north-and-south
+Ireland,United States,exa-north-and-south
+United Kingdom,United States,exa-north-and-south
+Cyprus,Israel,exelera-north
+Bahrain,Egypt,falcon
+Bahrain,India,falcon
+Bahrain,Iran,falcon
+Bahrain,Iraq,falcon
+Bahrain,Kuwait,falcon
+Bahrain,Maldives,falcon
+Bahrain,Oman,falcon
+Bahrain,Qatar,falcon
+Bahrain,Saudi Arabia,falcon
+Bahrain,Sri Lanka,falcon
+Bahrain,Sudan,falcon
+Bahrain,United Arab Emirates,falcon
+Bahrain,Yemen,falcon
+Egypt,India,falcon
+Egypt,Iran,falcon
+Egypt,Iraq,falcon
+Egypt,Kuwait,falcon
+Egypt,Maldives,falcon
+Egypt,Oman,falcon
+Egypt,Qatar,falcon
+Egypt,Saudi Arabia,falcon
+Egypt,Sri Lanka,falcon
+Egypt,Sudan,falcon
+Egypt,United Arab Emirates,falcon
+Egypt,Yemen,falcon
+India,Iran,falcon
+India,Iraq,falcon
+India,Kuwait,falcon
+India,Maldives,falcon
+India,Oman,falcon
+India,Qatar,falcon
+India,Saudi Arabia,falcon
+India,Sri Lanka,falcon
+India,Sudan,falcon
+India,United Arab Emirates,falcon
+India,Yemen,falcon
+Iran,Iraq,falcon
+Iran,Kuwait,falcon
+Iran,Maldives,falcon
+Iran,Oman,falcon
+Iran,Qatar,falcon
+Iran,Saudi Arabia,falcon
+Iran,Sri Lanka,falcon
+Iran,Sudan,falcon
+Iran,United Arab Emirates,falcon
+Iran,Yemen,falcon
+Iraq,Kuwait,falcon
+Iraq,Maldives,falcon
+Iraq,Oman,falcon
+Iraq,Qatar,falcon
+Iraq,Saudi Arabia,falcon
+Iraq,Sri Lanka,falcon
+Iraq,Sudan,falcon
+Iraq,United Arab Emirates,falcon
+Iraq,Yemen,falcon
+Kuwait,Maldives,falcon
+Kuwait,Oman,falcon
+Kuwait,Qatar,falcon
+Kuwait,Saudi Arabia,falcon
+Kuwait,Sri Lanka,falcon
+Kuwait,Sudan,falcon
+Kuwait,United Arab Emirates,falcon
+Kuwait,Yemen,falcon
+Maldives,Oman,falcon
+Maldives,Qatar,falcon
+Maldives,Saudi Arabia,falcon
+Maldives,Sri Lanka,falcon
+Maldives,Sudan,falcon
+Maldives,United Arab Emirates,falcon
+Maldives,Yemen,falcon
+Oman,Qatar,falcon
+Oman,Saudi Arabia,falcon
+Oman,Sri Lanka,falcon
+Oman,Sudan,falcon
+Oman,United Arab Emirates,falcon
+Oman,Yemen,falcon
+Qatar,Saudi Arabia,falcon
+Qatar,Sri Lanka,falcon
+Qatar,Sudan,falcon
+Qatar,United Arab Emirates,falcon
+Qatar,Yemen,falcon
+Saudi Arabia,Sri Lanka,falcon
+Saudi Arabia,Sudan,falcon
+Saudi Arabia,United Arab Emirates,falcon
+Saudi Arabia,Yemen,falcon
+Sri Lanka,Sudan,falcon
+Sri Lanka,United Arab Emirates,falcon
+Sri Lanka,Yemen,falcon
+Sudan,United Arab Emirates,falcon
+Sudan,Yemen,falcon
+United Arab Emirates,Yemen,falcon
+Faroe Islands,Iceland,farice-1
+Faroe Islands,United Kingdom,farice-1
+Iceland,United Kingdom,farice-1
+Netherlands,United Kingdom,farland-north
+Japan,Taiwan,faster
+Japan,United States,faster
+Taiwan,United States,faster
+Egypt,India,fea
+Egypt,Jordan,fea
+Egypt,Malaysia,fea
+Egypt,Saudi Arabia,fea
+Egypt,Thailand,fea
+Egypt,United Arab Emirates,fea
+India,Jordan,fea
+India,Malaysia,fea
+India,Saudi Arabia,fea
+India,Thailand,fea
+India,United Arab Emirates,fea
+Jordan,Malaysia,fea
+Jordan,Saudi Arabia,fea
+Jordan,Thailand,fea
+Jordan,United Arab Emirates,fea
+Malaysia,Saudi Arabia,fea
+Malaysia,Thailand,fea
+Malaysia,United Arab Emirates,fea
+Saudi Arabia,Thailand,fea
+Saudi Arabia,United Arab Emirates,fea
+Thailand,United Arab Emirates,fea
+Denmark,Germany,fehmarn-blt
+Bahrain,Kuwait,fiber-optic-gulf-fog
+Bahrain,Qatar,fiber-optic-gulf-fog
+Bahrain,United Arab Emirates,fiber-optic-gulf-fog
+Kuwait,Qatar,fiber-optic-gulf-fog
+Kuwait,United Arab Emirates,fiber-optic-gulf-fog
+Qatar,United Arab Emirates,fiber-optic-gulf-fog
+Dominican Republic,Haiti,fibralink
+Dominican Republic,Jamaica,fibralink
+Haiti,Jamaica,fibralink
+Estonia,Finland,finland-estonia-2-eesf-2
+Estonia,Finland,finland-estonia-3-eesf-3
+Estonia,Finland,finland-estonia-connection-1-fec-1
+Estonia,Finland,finland-estonia-connection-2-fec-2
+Argentina,Brazil,firmina
+Argentina,Dominican Republic,firmina
+Argentina,United States,firmina
+Argentina,Uruguay,firmina
+Brazil,Dominican Republic,firmina
+Brazil,United States,firmina
+Brazil,Uruguay,firmina
+Dominican Republic,United States,firmina
+Dominican Republic,Uruguay,firmina
+United States,Uruguay,firmina
+France,United Kingdom,flag-atlantic-1-fa-1
+France,United States,flag-atlantic-1-fa-1
+United Kingdom,United States,flag-atlantic-1-fa-1
+China,Japan,flag-north-asia-loopreach-north-asia-loop
+China,South Korea,flag-north-asia-loopreach-north-asia-loop
+China,Taiwan,flag-north-asia-loopreach-north-asia-loop
+Japan,South Korea,flag-north-asia-loopreach-north-asia-loop
+Japan,Taiwan,flag-north-asia-loopreach-north-asia-loop
+South Korea,Taiwan,flag-north-asia-loopreach-north-asia-loop
+Comoros,Mayotte,fly-lion3
+Bermuda,United States,gemini-bermuda
+Ireland,United Kingdom,geo-eirgrid
+Georgia,Russia,georgia-russia
+Denmark,Germany,germany-denmark-3
+Ghana,Nigeria,glo-1
+Ghana,United Kingdom,glo-1
+Nigeria,United Kingdom,glo-1
+Guadeloupe,Saint Barthélemy,global-caribbean-network-gcn
+Guadeloupe,Saint Martin,global-caribbean-network-gcn
+Guadeloupe,United States,global-caribbean-network-gcn
+Guadeloupe,Virgin Islands (U.S.),global-caribbean-network-gcn
+Saint Barthélemy,Saint Martin,global-caribbean-network-gcn
+Saint Barthélemy,United States,global-caribbean-network-gcn
+Saint Barthélemy,Virgin Islands (U.S.),global-caribbean-network-gcn
+Saint Martin,United States,global-caribbean-network-gcn
+Saint Martin,Virgin Islands (U.S.),global-caribbean-network-gcn
+United States,Virgin Islands (U.S.),global-caribbean-network-gcn
+Denmark,Sweden,globalconnect-2-gc2
+Denmark,Germany,globalconnect-aurora
+Denmark,Sweden,globalconnect-aurora
+Germany,Sweden,globalconnect-aurora
+Denmark,Sweden,globalconnect-denmark-sweden
+Denmark,Germany,globalconnect-kpn
+Bermuda,Brazil,globenet
+Bermuda,Colombia,globenet
+Bermuda,United States,globenet
+Bermuda,Venezuela,globenet
+Brazil,Colombia,globenet
+Brazil,United States,globenet
+Brazil,Venezuela,globenet
+Colombia,United States,globenet
+Colombia,Venezuela,globenet
+United States,Venezuela,globenet
+Italy,Malta,go-1-mediterranean-cable-system
+Australia,New Caledonia,gondwana-1
+Fiji,New Caledonia,gondwana-2picot-2
+Spain,United Kingdom,grace-hopper
+Spain,United States,grace-hopper
+United Kingdom,United States,grace-hopper
+Canada,Greenland,greenland-connect
+Canada,Iceland,greenland-connect
+Greenland,Iceland,greenland-connect
+Cuba,United States,gtmo-1
+Cuba,United States,gtmo-pr
+Guam,Japan,guam-okinawa-kyushu-incheon-goki
+Guernsey,Jersey,guernsey-jersey-4
+Bahrain,India,gulf-bridge-international-cable-systemmiddle-east-north-africa-cable-system-gbicsmena
+Bahrain,Iran,gulf-bridge-international-cable-systemmiddle-east-north-africa-cable-system-gbicsmena
+Bahrain,Iraq,gulf-bridge-international-cable-systemmiddle-east-north-africa-cable-system-gbicsmena
+Bahrain,Kuwait,gulf-bridge-international-cable-systemmiddle-east-north-africa-cable-system-gbicsmena
+Bahrain,Oman,gulf-bridge-international-cable-systemmiddle-east-north-africa-cable-system-gbicsmena
+Bahrain,Qatar,gulf-bridge-international-cable-systemmiddle-east-north-africa-cable-system-gbicsmena
+Bahrain,Saudi Arabia,gulf-bridge-international-cable-systemmiddle-east-north-africa-cable-system-gbicsmena
+Bahrain,United Arab Emirates,gulf-bridge-international-cable-systemmiddle-east-north-africa-cable-system-gbicsmena
+India,Iran,gulf-bridge-international-cable-systemmiddle-east-north-africa-cable-system-gbicsmena
+India,Iraq,gulf-bridge-international-cable-systemmiddle-east-north-africa-cable-system-gbicsmena
+India,Kuwait,gulf-bridge-international-cable-systemmiddle-east-north-africa-cable-system-gbicsmena
+India,Oman,gulf-bridge-international-cable-systemmiddle-east-north-africa-cable-system-gbicsmena
+India,Qatar,gulf-bridge-international-cable-systemmiddle-east-north-africa-cable-system-gbicsmena
+India,Saudi Arabia,gulf-bridge-international-cable-systemmiddle-east-north-africa-cable-system-gbicsmena
+India,United Arab Emirates,gulf-bridge-international-cable-systemmiddle-east-north-africa-cable-system-gbicsmena
+Iran,Iraq,gulf-bridge-international-cable-systemmiddle-east-north-africa-cable-system-gbicsmena
+Iran,Kuwait,gulf-bridge-international-cable-systemmiddle-east-north-africa-cable-system-gbicsmena
+Iran,Oman,gulf-bridge-international-cable-systemmiddle-east-north-africa-cable-system-gbicsmena
+Iran,Qatar,gulf-bridge-international-cable-systemmiddle-east-north-africa-cable-system-gbicsmena
+Iran,Saudi Arabia,gulf-bridge-international-cable-systemmiddle-east-north-africa-cable-system-gbicsmena
+Iran,United Arab Emirates,gulf-bridge-international-cable-systemmiddle-east-north-africa-cable-system-gbicsmena
+Iraq,Kuwait,gulf-bridge-international-cable-systemmiddle-east-north-africa-cable-system-gbicsmena
+Iraq,Oman,gulf-bridge-international-cable-systemmiddle-east-north-africa-cable-system-gbicsmena
+Iraq,Qatar,gulf-bridge-international-cable-systemmiddle-east-north-africa-cable-system-gbicsmena
+Iraq,Saudi Arabia,gulf-bridge-international-cable-systemmiddle-east-north-africa-cable-system-gbicsmena
+Iraq,United Arab Emirates,gulf-bridge-international-cable-systemmiddle-east-north-africa-cable-system-gbicsmena
+Kuwait,Oman,gulf-bridge-international-cable-systemmiddle-east-north-africa-cable-system-gbicsmena
+Kuwait,Qatar,gulf-bridge-international-cable-systemmiddle-east-north-africa-cable-system-gbicsmena
+Kuwait,Saudi Arabia,gulf-bridge-international-cable-systemmiddle-east-north-africa-cable-system-gbicsmena
+Kuwait,United Arab Emirates,gulf-bridge-international-cable-systemmiddle-east-north-africa-cable-system-gbicsmena
+Oman,Qatar,gulf-bridge-international-cable-systemmiddle-east-north-africa-cable-system-gbicsmena
+Oman,Saudi Arabia,gulf-bridge-international-cable-systemmiddle-east-north-africa-cable-system-gbicsmena
+Oman,United Arab Emirates,gulf-bridge-international-cable-systemmiddle-east-north-africa-cable-system-gbicsmena
+Qatar,Saudi Arabia,gulf-bridge-international-cable-systemmiddle-east-north-africa-cable-system-gbicsmena
+Qatar,United Arab Emirates,gulf-bridge-international-cable-systemmiddle-east-north-africa-cable-system-gbicsmena
+Saudi Arabia,United Arab Emirates,gulf-bridge-international-cable-systemmiddle-east-north-africa-cable-system-gbicsmena
+Oman,Somalia,gulf2africa-g2a
+Italy,Tunisia,hannibal-system
+Guam,Marshall Islands,hantru1-cable-system
+Guam,Micronesia,hantru1-cable-system
+Marshall Islands,Micronesia,hantru1-cable-system
+Denmark,Ireland,havfrueaec-2
+Denmark,Norway,havfrueaec-2
+Denmark,United States,havfrueaec-2
+Ireland,Norway,havfrueaec-2
+Ireland,United States,havfrueaec-2
+Norway,United States,havfrueaec-2
+Ireland,Isle of Man,havhingstenceltixconnect-2-cc-2
+Ireland,United Kingdom,havhingstenceltixconnect-2-cc-2
+Isle of Man,United Kingdom,havhingstenceltixconnect-2-cc-2
+Denmark,United Kingdom,havhingstennorth-sea-connect-nsc
+Denmark,Norway,havsil
+American Samoa,Australia,hawaiki
+American Samoa,New Zealand,hawaiki
+American Samoa,Tonga,hawaiki
+American Samoa,United States,hawaiki
+Australia,New Zealand,hawaiki
+Australia,Tonga,hawaiki
+Australia,United States,hawaiki
+New Zealand,Tonga,hawaiki
+New Zealand,United States,hawaiki
+Tonga,United States,hawaiki
+Cyprus,Egypt,hawk
+Cyprus,France,hawk
+Egypt,France,hawk
+France,Guernsey,high-capacity-undersea-guernsey-optical-fibre-hugo
+France,United Kingdom,high-capacity-undersea-guernsey-optical-fibre-hugo
+Guernsey,United Kingdom,high-capacity-undersea-guernsey-optical-fibre-hugo
+Japan,Russia,hokkaido-sakhalin-cable-system-hscs
+French Polynesia,United States,honotua
+India,Singapore,i2i-cable-network-i2icn
+Netherlands,United Kingdom,iceni
+Egypt,France,imewe
+Egypt,India,imewe
+Egypt,Italy,imewe
+Egypt,Lebanon,imewe
+Egypt,Pakistan,imewe
+Egypt,Saudi Arabia,imewe
+Egypt,United Arab Emirates,imewe
+France,India,imewe
+France,Italy,imewe
+France,Lebanon,imewe
+France,Pakistan,imewe
+France,Saudi Arabia,imewe
+France,United Arab Emirates,imewe
+India,Italy,imewe
+India,Lebanon,imewe
+India,Pakistan,imewe
+India,Saudi Arabia,imewe
+India,United Arab Emirates,imewe
+Italy,Lebanon,imewe
+Italy,Pakistan,imewe
+Italy,Saudi Arabia,imewe
+Italy,United Arab Emirates,imewe
+Lebanon,Pakistan,imewe
+Lebanon,Saudi Arabia,imewe
+Lebanon,United Arab Emirates,imewe
+Pakistan,Saudi Arabia,imewe
+Pakistan,United Arab Emirates,imewe
+Saudi Arabia,United Arab Emirates,imewe
+India,Malaysia,india-asia-xpress-iax
+India,Maldives,india-asia-xpress-iax
+India,Singapore,india-asia-xpress-iax
+India,Sri Lanka,india-asia-xpress-iax
+India,Thailand,india-asia-xpress-iax
+Malaysia,Maldives,india-asia-xpress-iax
+Malaysia,Singapore,india-asia-xpress-iax
+Malaysia,Sri Lanka,india-asia-xpress-iax
+Malaysia,Thailand,india-asia-xpress-iax
+Maldives,Singapore,india-asia-xpress-iax
+Maldives,Sri Lanka,india-asia-xpress-iax
+Maldives,Thailand,india-asia-xpress-iax
+Singapore,Sri Lanka,india-asia-xpress-iax
+Singapore,Thailand,india-asia-xpress-iax
+Sri Lanka,Thailand,india-asia-xpress-iax
+Australia,Indonesia,indigo-west
+Australia,Singapore,indigo-west
+Indonesia,Singapore,indigo-west
+Indonesia,Singapore,indonesia-global-gateway-igg-system
+France,Guernsey,ingrid
+France,Jersey,ingrid
+Guernsey,Jersey,ingrid
+Fiji,Vanuatu,interchange-cable-network-1-icn1
+Greece,Italy,ionian
+Iceland,Ireland,iris
+Albania,Italy,italy-albania
+Croatia,Italy,italy-croatia
+Greece,Italy,italy-greece-1-ig-1
+Italy,Libya,italy-libya
+Italy,Malta,italy-malta
+Italy,Monaco,italy-monaco
+Indonesia,Singapore,jakabare
+Indonesia,Singapore,jakarta-bangka-batam-singapore-b2js
+Indonesia,Singapore,jakarta-bangka-bintan-batam-singapore-b3js
+Guam,Japan,japan-guam-australia-north-jga-n
+Australia,Guam,japan-guam-australia-south-jga-s
+"Bonaire, Sint Eustatius and Saba",Curaçao,jerry-newton
+Israel,Italy,jonah
+Japan,United States,juno
+Japan,Philippines,jupiter
+Japan,United States,jupiter
+Philippines,United States,jupiter
+Bulgaria,Romania,kafos
+Bulgaria,Turkey,kafos
+Romania,Turkey,kafos
+French Guiana,Martinique,kanawa
+Denmark,Sweden,kattegat-2
+Russia,Ukraine,kerch-strait-cable
+Canada,United States,ketchcan1-submarine-fiber-cable-system
+Japan,South Korea,korea-japan-cable-network-kjcn
+Iran,Kuwait,kuwait-iran
+Brunei,Malaysia,labuan-brunei-submarine-cable
+"Congo, Dem. Rep.",Uganda,lake-albert-1
+"Congo, Dem. Rep.",Uganda,lake-albert-2
+Isle of Man,United Kingdom,lanis-1
+Isle of Man,United Kingdom,lanis-2
+Latvia,Sweden,latvia-sweden-1-lv-se-1
+Kenya,Mayotte,lower-indian-ocean-network-2-lion2
+Madagascar,Mauritius,lower-indian-ocean-network-lion
+Madagascar,Réunion,lower-indian-ocean-network-lion
+Mauritius,Réunion,lower-indian-ocean-network-lion
+Côte d'Ivoire,Ghana,mainone
+Côte d'Ivoire,Nigeria,mainone
+Côte d'Ivoire,Portugal,mainone
+Côte d'Ivoire,Senegal,mainone
+Ghana,Nigeria,mainone
+Ghana,Portugal,mainone
+Ghana,Senegal,mainone
+Nigeria,Portugal,mainone
+Nigeria,Senegal,mainone
+Portugal,Senegal,mainone
+Cambodia,Malaysia,malaysia-cambodia-thailand-mct-cable
+Cambodia,Thailand,malaysia-cambodia-thailand-mct-cable
+Malaysia,Thailand,malaysia-cambodia-thailand-mct-cable
+Argentina,Brazil,malbec
+Maldives,Sri Lanka,maldives-sri-lanka-cable-msc
+Italy,Malta,malta-italy-interconnector
+Cook Islands,French Polynesia,manatua
+Cook Islands,Niue,manatua
+Cook Islands,Samoa,manatua
+French Polynesia,Niue,manatua
+French Polynesia,Samoa,manatua
+Niue,Samoa,manatua
+Isle of Man,United Kingdom,manx-northern-ireland
+Spain,United States,marea
+Guam,Northern Mariana Islands,mariana-guam-cable
+Benin,Côte d'Ivoire,maroc-telecom-west-africa
+Benin,Gabon,maroc-telecom-west-africa
+Benin,Morocco,maroc-telecom-west-africa
+Benin,Togo,maroc-telecom-west-africa
+Côte d'Ivoire,Gabon,maroc-telecom-west-africa
+Côte d'Ivoire,Morocco,maroc-telecom-west-africa
+Côte d'Ivoire,Togo,maroc-telecom-west-africa
+Gabon,Morocco,maroc-telecom-west-africa
+Gabon,Togo,maroc-telecom-west-africa
+Morocco,Togo,maroc-telecom-west-africa
+Indonesia,Singapore,matrix-cable-system
+Cayman Islands,Honduras,maya-1-2
+Cayman Islands,United States,maya-1-2
+Honduras,United States,maya-1-2
+Algeria,France,med-cable-network
+France,Italy,medloop
+France,Spain,medloop
+Italy,Spain,medloop
+Cyprus,Greece,mednautilus-submarine-system
+Cyprus,Israel,mednautilus-submarine-system
+Cyprus,Italy,mednautilus-submarine-system
+Cyprus,Turkey,mednautilus-submarine-system
+Greece,Israel,mednautilus-submarine-system
+Greece,Italy,mednautilus-submarine-system
+Greece,Turkey,mednautilus-submarine-system
+Israel,Italy,mednautilus-submarine-system
+Israel,Turkey,mednautilus-submarine-system
+Italy,Turkey,mednautilus-submarine-system
+Algeria,Cyprus,medusa-submarine-cable-system
+Algeria,Egypt,medusa-submarine-cable-system
+Algeria,France,medusa-submarine-cable-system
+Algeria,Greece,medusa-submarine-cable-system
+Algeria,Italy,medusa-submarine-cable-system
+Algeria,Libya,medusa-submarine-cable-system
+Algeria,Malta,medusa-submarine-cable-system
+Algeria,Morocco,medusa-submarine-cable-system
+Algeria,Portugal,medusa-submarine-cable-system
+Algeria,Spain,medusa-submarine-cable-system
+Algeria,Syria,medusa-submarine-cable-system
+Algeria,Tunisia,medusa-submarine-cable-system
+Cyprus,Egypt,medusa-submarine-cable-system
+Cyprus,France,medusa-submarine-cable-system
+Cyprus,Greece,medusa-submarine-cable-system
+Cyprus,Italy,medusa-submarine-cable-system
+Cyprus,Libya,medusa-submarine-cable-system
+Cyprus,Malta,medusa-submarine-cable-system
+Cyprus,Morocco,medusa-submarine-cable-system
+Cyprus,Portugal,medusa-submarine-cable-system
+Cyprus,Spain,medusa-submarine-cable-system
+Cyprus,Syria,medusa-submarine-cable-system
+Cyprus,Tunisia,medusa-submarine-cable-system
+Egypt,France,medusa-submarine-cable-system
+Egypt,Greece,medusa-submarine-cable-system
+Egypt,Italy,medusa-submarine-cable-system
+Egypt,Libya,medusa-submarine-cable-system
+Egypt,Malta,medusa-submarine-cable-system
+Egypt,Morocco,medusa-submarine-cable-system
+Egypt,Portugal,medusa-submarine-cable-system
+Egypt,Spain,medusa-submarine-cable-system
+Egypt,Syria,medusa-submarine-cable-system
+Egypt,Tunisia,medusa-submarine-cable-system
+France,Greece,medusa-submarine-cable-system
+France,Italy,medusa-submarine-cable-system
+France,Libya,medusa-submarine-cable-system
+France,Malta,medusa-submarine-cable-system
+France,Morocco,medusa-submarine-cable-system
+France,Portugal,medusa-submarine-cable-system
+France,Spain,medusa-submarine-cable-system
+France,Syria,medusa-submarine-cable-system
+France,Tunisia,medusa-submarine-cable-system
+Greece,Italy,medusa-submarine-cable-system
+Greece,Libya,medusa-submarine-cable-system
+Greece,Malta,medusa-submarine-cable-system
+Greece,Morocco,medusa-submarine-cable-system
+Greece,Portugal,medusa-submarine-cable-system
+Greece,Spain,medusa-submarine-cable-system
+Greece,Syria,medusa-submarine-cable-system
+Greece,Tunisia,medusa-submarine-cable-system
+Italy,Libya,medusa-submarine-cable-system
+Italy,Malta,medusa-submarine-cable-system
+Italy,Morocco,medusa-submarine-cable-system
+Italy,Portugal,medusa-submarine-cable-system
+Italy,Spain,medusa-submarine-cable-system
+Italy,Syria,medusa-submarine-cable-system
+Italy,Tunisia,medusa-submarine-cable-system
+Libya,Malta,medusa-submarine-cable-system
+Libya,Morocco,medusa-submarine-cable-system
+Libya,Portugal,medusa-submarine-cable-system
+Libya,Spain,medusa-submarine-cable-system
+Libya,Syria,medusa-submarine-cable-system
+Libya,Tunisia,medusa-submarine-cable-system
+Malta,Morocco,medusa-submarine-cable-system
+Malta,Portugal,medusa-submarine-cable-system
+Malta,Spain,medusa-submarine-cable-system
+Malta,Syria,medusa-submarine-cable-system
+Malta,Tunisia,medusa-submarine-cable-system
+Morocco,Portugal,medusa-submarine-cable-system
+Morocco,Spain,medusa-submarine-cable-system
+Morocco,Syria,medusa-submarine-cable-system
+Morocco,Tunisia,medusa-submarine-cable-system
+Portugal,Spain,medusa-submarine-cable-system
+Portugal,Syria,medusa-submarine-cable-system
+Portugal,Tunisia,medusa-submarine-cable-system
+Spain,Syria,medusa-submarine-cable-system
+Spain,Tunisia,medusa-submarine-cable-system
+Syria,Tunisia,medusa-submarine-cable-system
+Italy,Malta,melita-1
+Madagascar,Mauritius,meltingpot-indianoceanic-submarine-system-metiss
+Madagascar,Réunion,meltingpot-indianoceanic-submarine-system-metiss
+Madagascar,South Africa,meltingpot-indianoceanic-submarine-system-metiss
+Mauritius,Réunion,meltingpot-indianoceanic-submarine-system-metiss
+Mauritius,South Africa,meltingpot-indianoceanic-submarine-system-metiss
+Réunion,South Africa,meltingpot-indianoceanic-submarine-system-metiss
+Belgium,United Kingdom,mercator
+United States,Virgin Islands (U.S.),mid-atlantic-crossing-mac
+Egypt,Italy,middle-east-north-africa-mena-cable-systemgulf-bridge-international
+Egypt,Oman,middle-east-north-africa-mena-cable-systemgulf-bridge-international
+Egypt,Saudi Arabia,middle-east-north-africa-mena-cable-systemgulf-bridge-international
+Italy,Oman,middle-east-north-africa-mena-cable-systemgulf-bridge-international
+Italy,Saudi Arabia,middle-east-north-africa-mena-cable-systemgulf-bridge-international
+Oman,Saudi Arabia,middle-east-north-africa-mena-cable-systemgulf-bridge-international
+India,Malaysia,mist
+India,Singapore,mist
+India,Thailand,mist
+Malaysia,Singapore,mist
+Malaysia,Thailand,mist
+Singapore,Thailand,mist
+Brazil,United States,monet
+Indonesia,Singapore,moratelindo-international-cable-system-1-mic-1
+China,Japan,new-cross-pacific-ncp-cable-system
+China,South Korea,new-cross-pacific-ncp-cable-system
+China,Taiwan,new-cross-pacific-ncp-cable-system
+China,United States,new-cross-pacific-ncp-cable-system
+Japan,South Korea,new-cross-pacific-ncp-cable-system
+Japan,Taiwan,new-cross-pacific-ncp-cable-system
+Japan,United States,new-cross-pacific-ncp-cable-system
+South Korea,Taiwan,new-cross-pacific-ncp-cable-system
+South Korea,United States,new-cross-pacific-ncp-cable-system
+Taiwan,United States,new-cross-pacific-ncp-cable-system
+Cameroon,Nigeria,nigeria-cameroon-submarine-cable-system-ncscs
+Norway,United Kingdom,no-uk
+Lithuania,Sweden,nordbalt
+Norway,Sweden,norfest
+Australia,British Indian Ocean Territory,oman-australia-cable-oac
+Australia,Cocos (Keeling) Islands,oman-australia-cable-oac
+Australia,Oman,oman-australia-cable-oac
+British Indian Ocean Territory,Cocos (Keeling) Islands,oman-australia-cable-oac
+British Indian Ocean Territory,Oman,oman-australia-cable-oac
+Cocos (Keeling) Islands,Oman,oman-australia-cable-oac
+Iran,Oman,omranepeg
+Algeria,Spain,oran-valencia-orval
+Greece,Italy,oteglobe-kokkini-bari
+Aruba,Colombia,pacific-caribbean-cable-system-pccs
+Aruba,Curaçao,pacific-caribbean-cable-system-pccs
+Aruba,Ecuador,pacific-caribbean-cable-system-pccs
+Aruba,Panama,pacific-caribbean-cable-system-pccs
+Aruba,United States,pacific-caribbean-cable-system-pccs
+Aruba,Virgin Islands (U.K.),pacific-caribbean-cable-system-pccs
+Colombia,Curaçao,pacific-caribbean-cable-system-pccs
+Colombia,Ecuador,pacific-caribbean-cable-system-pccs
+Colombia,Panama,pacific-caribbean-cable-system-pccs
+Colombia,United States,pacific-caribbean-cable-system-pccs
+Colombia,Virgin Islands (U.K.),pacific-caribbean-cable-system-pccs
+Curaçao,Ecuador,pacific-caribbean-cable-system-pccs
+Curaçao,Panama,pacific-caribbean-cable-system-pccs
+Curaçao,United States,pacific-caribbean-cable-system-pccs
+Curaçao,Virgin Islands (U.K.),pacific-caribbean-cable-system-pccs
+Ecuador,Panama,pacific-caribbean-cable-system-pccs
+Ecuador,United States,pacific-caribbean-cable-system-pccs
+Ecuador,Virgin Islands (U.K.),pacific-caribbean-cable-system-pccs
+Panama,United States,pacific-caribbean-cable-system-pccs
+Panama,Virgin Islands (U.K.),pacific-caribbean-cable-system-pccs
+United States,Virgin Islands (U.K.),pacific-caribbean-cable-system-pccs
+Japan,United States,pacific-crossing-1-pc-1
+Philippines,Taiwan,pacific-light-cable-network-plcn
+Philippines,United States,pacific-light-cable-network-plcn
+Taiwan,United States,pacific-light-cable-network-plcn
+Costa Rica,Mexico,pan-american-crossing-pac
+Costa Rica,Panama,pan-american-crossing-pac
+Costa Rica,United States,pan-american-crossing-pac
+Mexico,Panama,pan-american-crossing-pac
+Mexico,United States,pan-american-crossing-pac
+Panama,United States,pan-american-crossing-pac
+Belgium,United Kingdom,pan-european-crossing-uk-belgium
+Ireland,United Kingdom,pan-european-crossing-uk-ireland
+Ecuador,Panama,panam-south
+Cyprus,Egypt,peace-cable
+Cyprus,France,peace-cable
+Cyprus,Kenya,peace-cable
+Cyprus,Maldives,peace-cable
+Cyprus,Malta,peace-cable
+Cyprus,Pakistan,peace-cable
+Cyprus,Saudi Arabia,peace-cable
+Cyprus,Seychelles,peace-cable
+Cyprus,Singapore,peace-cable
+Cyprus,Somalia,peace-cable
+Cyprus,Tunisia,peace-cable
+Cyprus,United Arab Emirates,peace-cable
+Egypt,France,peace-cable
+Egypt,Kenya,peace-cable
+Egypt,Maldives,peace-cable
+Egypt,Malta,peace-cable
+Egypt,Pakistan,peace-cable
+Egypt,Saudi Arabia,peace-cable
+Egypt,Seychelles,peace-cable
+Egypt,Singapore,peace-cable
+Egypt,Somalia,peace-cable
+Egypt,Tunisia,peace-cable
+Egypt,United Arab Emirates,peace-cable
+France,Kenya,peace-cable
+France,Maldives,peace-cable
+France,Malta,peace-cable
+France,Pakistan,peace-cable
+France,Saudi Arabia,peace-cable
+France,Seychelles,peace-cable
+France,Singapore,peace-cable
+France,Somalia,peace-cable
+France,Tunisia,peace-cable
+France,United Arab Emirates,peace-cable
+Kenya,Maldives,peace-cable
+Kenya,Malta,peace-cable
+Kenya,Pakistan,peace-cable
+Kenya,Saudi Arabia,peace-cable
+Kenya,Seychelles,peace-cable
+Kenya,Singapore,peace-cable
+Kenya,Somalia,peace-cable
+Kenya,Tunisia,peace-cable
+Kenya,United Arab Emirates,peace-cable
+Maldives,Malta,peace-cable
+Maldives,Pakistan,peace-cable
+Maldives,Saudi Arabia,peace-cable
+Maldives,Seychelles,peace-cable
+Maldives,Singapore,peace-cable
+Maldives,Somalia,peace-cable
+Maldives,Tunisia,peace-cable
+Maldives,United Arab Emirates,peace-cable
+Malta,Pakistan,peace-cable
+Malta,Saudi Arabia,peace-cable
+Malta,Seychelles,peace-cable
+Malta,Singapore,peace-cable
+Malta,Somalia,peace-cable
+Malta,Tunisia,peace-cable
+Malta,United Arab Emirates,peace-cable
+Pakistan,Saudi Arabia,peace-cable
+Pakistan,Seychelles,peace-cable
+Pakistan,Singapore,peace-cable
+Pakistan,Somalia,peace-cable
+Pakistan,Tunisia,peace-cable
+Pakistan,United Arab Emirates,peace-cable
+Saudi Arabia,Seychelles,peace-cable
+Saudi Arabia,Singapore,peace-cable
+Saudi Arabia,Somalia,peace-cable
+Saudi Arabia,Tunisia,peace-cable
+Saudi Arabia,United Arab Emirates,peace-cable
+Seychelles,Singapore,peace-cable
+Seychelles,Somalia,peace-cable
+Seychelles,Tunisia,peace-cable
+Seychelles,United Arab Emirates,peace-cable
+Singapore,Somalia,peace-cable
+Singapore,Tunisia,peace-cable
+Singapore,United Arab Emirates,peace-cable
+Somalia,Tunisia,peace-cable
+Somalia,United Arab Emirates,peace-cable
+Tunisia,United Arab Emirates,peace-cable
+Indonesia,Singapore,pgascom
+Australia,Guam,pipe-pacific-cable-1-ppc-1
+Australia,Papua New Guinea,pipe-pacific-cable-1-ppc-1
+Guam,Papua New Guinea,pipe-pacific-cable-1-ppc-1
+Iran,Oman,pishgaman-oman-iran-poi-network
+Qatar,United Arab Emirates,qatar-u-a-e-submarine-cable-system
+Belgium,United Kingdom,qe-north
+France,United Kingdom,qe-south
+Indonesia,Singapore,rising-8
+Ireland,United Kingdom,rockabill
+Japan,Russia,russia-japan-cable-network-rjcn
+"Bonaire, Sint Eustatius and Saba",Saint Barthélemy,saba-statia-cable-system-sscs
+"Bonaire, Sint Eustatius and Saba",Saint Kitts and Nevis,saba-statia-cable-system-sscs
+"Bonaire, Sint Eustatius and Saba",Sint Maarten,saba-statia-cable-system-sscs
+Saint Barthélemy,Saint Kitts and Nevis,saba-statia-cable-system-sscs
+Saint Barthélemy,Sint Maarten,saba-statia-cable-system-sscs
+Saint Kitts and Nevis,Sint Maarten,saba-statia-cable-system-sscs
+India,Malaysia,safe
+India,Mauritius,safe
+India,Réunion,safe
+India,South Africa,safe
+Malaysia,Mauritius,safe
+Malaysia,Réunion,safe
+Malaysia,South Africa,safe
+Mauritius,Réunion,safe
+Mauritius,South Africa,safe
+Réunion,South Africa,safe
+American Samoa,Samoa,samoa-american-samoa-sas
+France,Italy,sarco
+Angola,Benin,sat-3wasc
+Angola,Cameroon,sat-3wasc
+Angola,Côte d'Ivoire,sat-3wasc
+Angola,Gabon,sat-3wasc
+Angola,Ghana,sat-3wasc
+Angola,Nigeria,sat-3wasc
+Angola,Portugal,sat-3wasc
+Angola,Senegal,sat-3wasc
+Angola,South Africa,sat-3wasc
+Angola,Spain,sat-3wasc
+Benin,Cameroon,sat-3wasc
+Benin,Côte d'Ivoire,sat-3wasc
+Benin,Gabon,sat-3wasc
+Benin,Ghana,sat-3wasc
+Benin,Nigeria,sat-3wasc
+Benin,Portugal,sat-3wasc
+Benin,Senegal,sat-3wasc
+Benin,South Africa,sat-3wasc
+Benin,Spain,sat-3wasc
+Cameroon,Côte d'Ivoire,sat-3wasc
+Cameroon,Gabon,sat-3wasc
+Cameroon,Ghana,sat-3wasc
+Cameroon,Nigeria,sat-3wasc
+Cameroon,Portugal,sat-3wasc
+Cameroon,Senegal,sat-3wasc
+Cameroon,South Africa,sat-3wasc
+Cameroon,Spain,sat-3wasc
+Côte d'Ivoire,Gabon,sat-3wasc
+Côte d'Ivoire,Ghana,sat-3wasc
+Côte d'Ivoire,Nigeria,sat-3wasc
+Côte d'Ivoire,Portugal,sat-3wasc
+Côte d'Ivoire,Senegal,sat-3wasc
+Côte d'Ivoire,South Africa,sat-3wasc
+Côte d'Ivoire,Spain,sat-3wasc
+Gabon,Ghana,sat-3wasc
+Gabon,Nigeria,sat-3wasc
+Gabon,Portugal,sat-3wasc
+Gabon,Senegal,sat-3wasc
+Gabon,South Africa,sat-3wasc
+Gabon,Spain,sat-3wasc
+Ghana,Nigeria,sat-3wasc
+Ghana,Portugal,sat-3wasc
+Ghana,Senegal,sat-3wasc
+Ghana,South Africa,sat-3wasc
+Ghana,Spain,sat-3wasc
+Nigeria,Portugal,sat-3wasc
+Nigeria,Senegal,sat-3wasc
+Nigeria,South Africa,sat-3wasc
+Nigeria,Spain,sat-3wasc
+Portugal,Senegal,sat-3wasc
+Portugal,South Africa,sat-3wasc
+Portugal,Spain,sat-3wasc
+Senegal,South Africa,sat-3wasc
+Senegal,Spain,sat-3wasc
+South Africa,Spain,sat-3wasc
+Saudi Arabia,Sudan,saudi-arabia-sudan-1-sas-1
+Saudi Arabia,Sudan,saudi-arabia-sudan-2-sas-2
+Denmark,Sweden,scandinavian-ring-north
+Denmark,Sweden,scandinavian-ring-south
+Netherlands,United Kingdom,scylla
+China,Philippines,sea-h2x
+China,Singapore,sea-h2x
+China,Thailand,sea-h2x
+Philippines,Singapore,sea-h2x
+Philippines,Thailand,sea-h2x
+Singapore,Thailand,sea-h2x
+Guam,Indonesia,sea-us
+Guam,Micronesia,sea-us
+Guam,Palau,sea-us
+Guam,Philippines,sea-us
+Guam,United States,sea-us
+Indonesia,Micronesia,sea-us
+Indonesia,Palau,sea-us
+Indonesia,Philippines,sea-us
+Indonesia,United States,sea-us
+Micronesia,Palau,sea-us
+Micronesia,Philippines,sea-us
+Micronesia,United States,sea-us
+Palau,Philippines,sea-us
+Palau,United States,sea-us
+Philippines,United States,sea-us
+Brazil,United States,seabras-1
+Djibouti,Egypt,seacomtata-tgn-eurasia
+Djibouti,India,seacomtata-tgn-eurasia
+Djibouti,Kenya,seacomtata-tgn-eurasia
+Djibouti,Mozambique,seacomtata-tgn-eurasia
+Djibouti,Saudi Arabia,seacomtata-tgn-eurasia
+Djibouti,South Africa,seacomtata-tgn-eurasia
+Djibouti,Tanzania,seacomtata-tgn-eurasia
+Egypt,India,seacomtata-tgn-eurasia
+Egypt,Kenya,seacomtata-tgn-eurasia
+Egypt,Mozambique,seacomtata-tgn-eurasia
+Egypt,Saudi Arabia,seacomtata-tgn-eurasia
+Egypt,South Africa,seacomtata-tgn-eurasia
+Egypt,Tanzania,seacomtata-tgn-eurasia
+India,Kenya,seacomtata-tgn-eurasia
+India,Mozambique,seacomtata-tgn-eurasia
+India,Saudi Arabia,seacomtata-tgn-eurasia
+India,South Africa,seacomtata-tgn-eurasia
+India,Tanzania,seacomtata-tgn-eurasia
+Kenya,Mozambique,seacomtata-tgn-eurasia
+Kenya,Saudi Arabia,seacomtata-tgn-eurasia
+Kenya,South Africa,seacomtata-tgn-eurasia
+Kenya,Tanzania,seacomtata-tgn-eurasia
+Mozambique,Saudi Arabia,seacomtata-tgn-eurasia
+Mozambique,South Africa,seacomtata-tgn-eurasia
+Mozambique,Tanzania,seacomtata-tgn-eurasia
+Saudi Arabia,South Africa,seacomtata-tgn-eurasia
+Saudi Arabia,Tanzania,seacomtata-tgn-eurasia
+South Africa,Tanzania,seacomtata-tgn-eurasia
+Algeria,Bangladesh,seamewe-4
+Algeria,Egypt,seamewe-4
+Algeria,France,seamewe-4
+Algeria,India,seamewe-4
+Algeria,Italy,seamewe-4
+Algeria,Malaysia,seamewe-4
+Algeria,Pakistan,seamewe-4
+Algeria,Saudi Arabia,seamewe-4
+Algeria,Singapore,seamewe-4
+Algeria,Sri Lanka,seamewe-4
+Algeria,Thailand,seamewe-4
+Algeria,Tunisia,seamewe-4
+Algeria,United Arab Emirates,seamewe-4
+Bangladesh,Egypt,seamewe-4
+Bangladesh,France,seamewe-4
+Bangladesh,India,seamewe-4
+Bangladesh,Italy,seamewe-4
+Bangladesh,Malaysia,seamewe-4
+Bangladesh,Pakistan,seamewe-4
+Bangladesh,Saudi Arabia,seamewe-4
+Bangladesh,Singapore,seamewe-4
+Bangladesh,Sri Lanka,seamewe-4
+Bangladesh,Thailand,seamewe-4
+Bangladesh,Tunisia,seamewe-4
+Bangladesh,United Arab Emirates,seamewe-4
+Egypt,France,seamewe-4
+Egypt,India,seamewe-4
+Egypt,Italy,seamewe-4
+Egypt,Malaysia,seamewe-4
+Egypt,Pakistan,seamewe-4
+Egypt,Saudi Arabia,seamewe-4
+Egypt,Singapore,seamewe-4
+Egypt,Sri Lanka,seamewe-4
+Egypt,Thailand,seamewe-4
+Egypt,Tunisia,seamewe-4
+Egypt,United Arab Emirates,seamewe-4
+France,India,seamewe-4
+France,Italy,seamewe-4
+France,Malaysia,seamewe-4
+France,Pakistan,seamewe-4
+France,Saudi Arabia,seamewe-4
+France,Singapore,seamewe-4
+France,Sri Lanka,seamewe-4
+France,Thailand,seamewe-4
+France,Tunisia,seamewe-4
+France,United Arab Emirates,seamewe-4
+India,Italy,seamewe-4
+India,Malaysia,seamewe-4
+India,Pakistan,seamewe-4
+India,Saudi Arabia,seamewe-4
+India,Singapore,seamewe-4
+India,Sri Lanka,seamewe-4
+India,Thailand,seamewe-4
+India,Tunisia,seamewe-4
+India,United Arab Emirates,seamewe-4
+Italy,Malaysia,seamewe-4
+Italy,Pakistan,seamewe-4
+Italy,Saudi Arabia,seamewe-4
+Italy,Singapore,seamewe-4
+Italy,Sri Lanka,seamewe-4
+Italy,Thailand,seamewe-4
+Italy,Tunisia,seamewe-4
+Italy,United Arab Emirates,seamewe-4
+Malaysia,Pakistan,seamewe-4
+Malaysia,Saudi Arabia,seamewe-4
+Malaysia,Singapore,seamewe-4
+Malaysia,Sri Lanka,seamewe-4
+Malaysia,Thailand,seamewe-4
+Malaysia,Tunisia,seamewe-4
+Malaysia,United Arab Emirates,seamewe-4
+Pakistan,Saudi Arabia,seamewe-4
+Pakistan,Singapore,seamewe-4
+Pakistan,Sri Lanka,seamewe-4
+Pakistan,Thailand,seamewe-4
+Pakistan,Tunisia,seamewe-4
+Pakistan,United Arab Emirates,seamewe-4
+Saudi Arabia,Singapore,seamewe-4
+Saudi Arabia,Sri Lanka,seamewe-4
+Saudi Arabia,Thailand,seamewe-4
+Saudi Arabia,Tunisia,seamewe-4
+Saudi Arabia,United Arab Emirates,seamewe-4
+Singapore,Sri Lanka,seamewe-4
+Singapore,Thailand,seamewe-4
+Singapore,Tunisia,seamewe-4
+Singapore,United Arab Emirates,seamewe-4
+Sri Lanka,Thailand,seamewe-4
+Sri Lanka,Tunisia,seamewe-4
+Sri Lanka,United Arab Emirates,seamewe-4
+Thailand,Tunisia,seamewe-4
+Thailand,United Arab Emirates,seamewe-4
+Tunisia,United Arab Emirates,seamewe-4
+Bangladesh,Djibouti,seamewe-5
+Bangladesh,Egypt,seamewe-5
+Bangladesh,France,seamewe-5
+Bangladesh,Indonesia,seamewe-5
+Bangladesh,Italy,seamewe-5
+Bangladesh,Malaysia,seamewe-5
+Bangladesh,Myanmar,seamewe-5
+Bangladesh,Oman,seamewe-5
+Bangladesh,Pakistan,seamewe-5
+Bangladesh,Saudi Arabia,seamewe-5
+Bangladesh,Singapore,seamewe-5
+Bangladesh,Sri Lanka,seamewe-5
+Bangladesh,Turkey,seamewe-5
+Bangladesh,United Arab Emirates,seamewe-5
+Bangladesh,Yemen,seamewe-5
+Djibouti,Egypt,seamewe-5
+Djibouti,France,seamewe-5
+Djibouti,Indonesia,seamewe-5
+Djibouti,Italy,seamewe-5
+Djibouti,Malaysia,seamewe-5
+Djibouti,Myanmar,seamewe-5
+Djibouti,Oman,seamewe-5
+Djibouti,Pakistan,seamewe-5
+Djibouti,Saudi Arabia,seamewe-5
+Djibouti,Singapore,seamewe-5
+Djibouti,Sri Lanka,seamewe-5
+Djibouti,Turkey,seamewe-5
+Djibouti,United Arab Emirates,seamewe-5
+Djibouti,Yemen,seamewe-5
+Egypt,France,seamewe-5
+Egypt,Indonesia,seamewe-5
+Egypt,Italy,seamewe-5
+Egypt,Malaysia,seamewe-5
+Egypt,Myanmar,seamewe-5
+Egypt,Oman,seamewe-5
+Egypt,Pakistan,seamewe-5
+Egypt,Saudi Arabia,seamewe-5
+Egypt,Singapore,seamewe-5
+Egypt,Sri Lanka,seamewe-5
+Egypt,Turkey,seamewe-5
+Egypt,United Arab Emirates,seamewe-5
+Egypt,Yemen,seamewe-5
+France,Indonesia,seamewe-5
+France,Italy,seamewe-5
+France,Malaysia,seamewe-5
+France,Myanmar,seamewe-5
+France,Oman,seamewe-5
+France,Pakistan,seamewe-5
+France,Saudi Arabia,seamewe-5
+France,Singapore,seamewe-5
+France,Sri Lanka,seamewe-5
+France,Turkey,seamewe-5
+France,United Arab Emirates,seamewe-5
+France,Yemen,seamewe-5
+Indonesia,Italy,seamewe-5
+Indonesia,Malaysia,seamewe-5
+Indonesia,Myanmar,seamewe-5
+Indonesia,Oman,seamewe-5
+Indonesia,Pakistan,seamewe-5
+Indonesia,Saudi Arabia,seamewe-5
+Indonesia,Singapore,seamewe-5
+Indonesia,Sri Lanka,seamewe-5
+Indonesia,Turkey,seamewe-5
+Indonesia,United Arab Emirates,seamewe-5
+Indonesia,Yemen,seamewe-5
+Italy,Malaysia,seamewe-5
+Italy,Myanmar,seamewe-5
+Italy,Oman,seamewe-5
+Italy,Pakistan,seamewe-5
+Italy,Saudi Arabia,seamewe-5
+Italy,Singapore,seamewe-5
+Italy,Sri Lanka,seamewe-5
+Italy,Turkey,seamewe-5
+Italy,United Arab Emirates,seamewe-5
+Italy,Yemen,seamewe-5
+Malaysia,Myanmar,seamewe-5
+Malaysia,Oman,seamewe-5
+Malaysia,Pakistan,seamewe-5
+Malaysia,Saudi Arabia,seamewe-5
+Malaysia,Singapore,seamewe-5
+Malaysia,Sri Lanka,seamewe-5
+Malaysia,Turkey,seamewe-5
+Malaysia,United Arab Emirates,seamewe-5
+Malaysia,Yemen,seamewe-5
+Myanmar,Oman,seamewe-5
+Myanmar,Pakistan,seamewe-5
+Myanmar,Saudi Arabia,seamewe-5
+Myanmar,Singapore,seamewe-5
+Myanmar,Sri Lanka,seamewe-5
+Myanmar,Turkey,seamewe-5
+Myanmar,United Arab Emirates,seamewe-5
+Myanmar,Yemen,seamewe-5
+Oman,Pakistan,seamewe-5
+Oman,Saudi Arabia,seamewe-5
+Oman,Singapore,seamewe-5
+Oman,Sri Lanka,seamewe-5
+Oman,Turkey,seamewe-5
+Oman,United Arab Emirates,seamewe-5
+Oman,Yemen,seamewe-5
+Pakistan,Saudi Arabia,seamewe-5
+Pakistan,Singapore,seamewe-5
+Pakistan,Sri Lanka,seamewe-5
+Pakistan,Turkey,seamewe-5
+Pakistan,United Arab Emirates,seamewe-5
+Pakistan,Yemen,seamewe-5
+Saudi Arabia,Singapore,seamewe-5
+Saudi Arabia,Sri Lanka,seamewe-5
+Saudi Arabia,Turkey,seamewe-5
+Saudi Arabia,United Arab Emirates,seamewe-5
+Saudi Arabia,Yemen,seamewe-5
+Singapore,Sri Lanka,seamewe-5
+Singapore,Turkey,seamewe-5
+Singapore,United Arab Emirates,seamewe-5
+Singapore,Yemen,seamewe-5
+Sri Lanka,Turkey,seamewe-5
+Sri Lanka,United Arab Emirates,seamewe-5
+Sri Lanka,Yemen,seamewe-5
+Turkey,United Arab Emirates,seamewe-5
+Turkey,Yemen,seamewe-5
+United Arab Emirates,Yemen,seamewe-5
+Indonesia,Malaysia,seax-1
+Indonesia,Singapore,seax-1
+Malaysia,Singapore,seax-1
+Cape Verde,Senegal,senegal-horn-of-africa-regional-express-share-cable
+Seychelles,Tanzania,seychelles-to-east-africa-system-seas
+Faroe Islands,United Kingdom,shefa-2
+Greece,Libya,silphium
+Saint Martin,Sint Maarten,sint-maarten-puerto-rico-network-one-smpr-1
+Saint Martin,United States,sint-maarten-puerto-rico-network-one-smpr-1
+Sint Maarten,United States,sint-maarten-puerto-rico-network-one-smpr-1
+Ireland,United Kingdom,sirius-south
+Denmark,Norway,skagenfiber-west
+Denmark,Norway,skagerrak-4
+Ireland,United Kingdom,solas
+Argentina,Brazil,south-america-1-sam-1
+Argentina,Chile,south-america-1-sam-1
+Argentina,Colombia,south-america-1-sam-1
+Argentina,Dominican Republic,south-america-1-sam-1
+Argentina,Ecuador,south-america-1-sam-1
+Argentina,Guatemala,south-america-1-sam-1
+Argentina,Peru,south-america-1-sam-1
+Argentina,United States,south-america-1-sam-1
+Brazil,Chile,south-america-1-sam-1
+Brazil,Colombia,south-america-1-sam-1
+Brazil,Dominican Republic,south-america-1-sam-1
+Brazil,Ecuador,south-america-1-sam-1
+Brazil,Guatemala,south-america-1-sam-1
+Brazil,Peru,south-america-1-sam-1
+Brazil,United States,south-america-1-sam-1
+Chile,Colombia,south-america-1-sam-1
+Chile,Dominican Republic,south-america-1-sam-1
+Chile,Ecuador,south-america-1-sam-1
+Chile,Guatemala,south-america-1-sam-1
+Chile,Peru,south-america-1-sam-1
+Chile,United States,south-america-1-sam-1
+Colombia,Dominican Republic,south-america-1-sam-1
+Colombia,Ecuador,south-america-1-sam-1
+Colombia,Guatemala,south-america-1-sam-1
+Colombia,Peru,south-america-1-sam-1
+Colombia,United States,south-america-1-sam-1
+Dominican Republic,Ecuador,south-america-1-sam-1
+Dominican Republic,Guatemala,south-america-1-sam-1
+Dominican Republic,Peru,south-america-1-sam-1
+Dominican Republic,United States,south-america-1-sam-1
+Ecuador,Guatemala,south-america-1-sam-1
+Ecuador,Peru,south-america-1-sam-1
+Ecuador,United States,south-america-1-sam-1
+Guatemala,Peru,south-america-1-sam-1
+Guatemala,United States,south-america-1-sam-1
+Peru,United States,south-america-1-sam-1
+Argentina,Brazil,south-american-crossing-sac
+Argentina,Chile,south-american-crossing-sac
+Argentina,Colombia,south-american-crossing-sac
+Argentina,Panama,south-american-crossing-sac
+Argentina,Peru,south-american-crossing-sac
+Argentina,Venezuela,south-american-crossing-sac
+Argentina,Virgin Islands (U.S.),south-american-crossing-sac
+Brazil,Chile,south-american-crossing-sac
+Brazil,Colombia,south-american-crossing-sac
+Brazil,Panama,south-american-crossing-sac
+Brazil,Peru,south-american-crossing-sac
+Brazil,Venezuela,south-american-crossing-sac
+Brazil,Virgin Islands (U.S.),south-american-crossing-sac
+Chile,Colombia,south-american-crossing-sac
+Chile,Panama,south-american-crossing-sac
+Chile,Peru,south-american-crossing-sac
+Chile,Venezuela,south-american-crossing-sac
+Chile,Virgin Islands (U.S.),south-american-crossing-sac
+Colombia,Panama,south-american-crossing-sac
+Colombia,Peru,south-american-crossing-sac
+Colombia,Venezuela,south-american-crossing-sac
+Colombia,Virgin Islands (U.S.),south-american-crossing-sac
+Panama,Peru,south-american-crossing-sac
+Panama,Venezuela,south-american-crossing-sac
+Panama,Virgin Islands (U.S.),south-american-crossing-sac
+Peru,Venezuela,south-american-crossing-sac
+Peru,Virgin Islands (U.S.),south-american-crossing-sac
+Venezuela,Virgin Islands (U.S.),south-american-crossing-sac
+Angola,Brazil,south-atlantic-cable-system-sacs
+Brazil,Cameroon,south-atlantic-inter-link-sail
+Chile,Ecuador,south-pacific-cable-system-spcsmistral
+Chile,Guatemala,south-pacific-cable-system-spcsmistral
+Chile,Peru,south-pacific-cable-system-spcsmistral
+Ecuador,Guatemala,south-pacific-cable-system-spcsmistral
+Ecuador,Peru,south-pacific-cable-system-spcsmistral
+Guatemala,Peru,south-pacific-cable-system-spcsmistral
+China,Japan,southeast-asia-japan-cable-2-sjc2
+China,Singapore,southeast-asia-japan-cable-2-sjc2
+China,South Korea,southeast-asia-japan-cable-2-sjc2
+China,Taiwan,southeast-asia-japan-cable-2-sjc2
+China,Thailand,southeast-asia-japan-cable-2-sjc2
+China,Vietnam,southeast-asia-japan-cable-2-sjc2
+Japan,Singapore,southeast-asia-japan-cable-2-sjc2
+Japan,South Korea,southeast-asia-japan-cable-2-sjc2
+Japan,Taiwan,southeast-asia-japan-cable-2-sjc2
+Japan,Thailand,southeast-asia-japan-cable-2-sjc2
+Japan,Vietnam,southeast-asia-japan-cable-2-sjc2
+Singapore,South Korea,southeast-asia-japan-cable-2-sjc2
+Singapore,Taiwan,southeast-asia-japan-cable-2-sjc2
+Singapore,Thailand,southeast-asia-japan-cable-2-sjc2
+Singapore,Vietnam,southeast-asia-japan-cable-2-sjc2
+South Korea,Taiwan,southeast-asia-japan-cable-2-sjc2
+South Korea,Thailand,southeast-asia-japan-cable-2-sjc2
+South Korea,Vietnam,southeast-asia-japan-cable-2-sjc2
+Taiwan,Thailand,southeast-asia-japan-cable-2-sjc2
+Taiwan,Vietnam,southeast-asia-japan-cable-2-sjc2
+Thailand,Vietnam,southeast-asia-japan-cable-2-sjc2
+Brunei,China,southeast-asia-japan-cable-sjc
+Brunei,Japan,southeast-asia-japan-cable-sjc
+Brunei,Philippines,southeast-asia-japan-cable-sjc
+Brunei,Singapore,southeast-asia-japan-cable-sjc
+China,Japan,southeast-asia-japan-cable-sjc
+China,Philippines,southeast-asia-japan-cable-sjc
+China,Singapore,southeast-asia-japan-cable-sjc
+Japan,Philippines,southeast-asia-japan-cable-sjc
+Japan,Singapore,southeast-asia-japan-cable-sjc
+Philippines,Singapore,southeast-asia-japan-cable-sjc
+Antigua and Barbuda,Barbados,southern-caribbean-fiber
+Antigua and Barbuda,Dominica,southern-caribbean-fiber
+Antigua and Barbuda,Grenada,southern-caribbean-fiber
+Antigua and Barbuda,Guadeloupe,southern-caribbean-fiber
+Antigua and Barbuda,Martinique,southern-caribbean-fiber
+Antigua and Barbuda,Montserrat,southern-caribbean-fiber
+Antigua and Barbuda,Saint Barthélemy,southern-caribbean-fiber
+Antigua and Barbuda,Saint Kitts and Nevis,southern-caribbean-fiber
+Antigua and Barbuda,Saint Lucia,southern-caribbean-fiber
+Antigua and Barbuda,Saint Martin,southern-caribbean-fiber
+Antigua and Barbuda,Saint Vincent and the Grenadines,southern-caribbean-fiber
+Antigua and Barbuda,Trinidad and Tobago,southern-caribbean-fiber
+Antigua and Barbuda,United States,southern-caribbean-fiber
+Antigua and Barbuda,Virgin Islands (U.S.),southern-caribbean-fiber
+Barbados,Dominica,southern-caribbean-fiber
+Barbados,Grenada,southern-caribbean-fiber
+Barbados,Guadeloupe,southern-caribbean-fiber
+Barbados,Martinique,southern-caribbean-fiber
+Barbados,Montserrat,southern-caribbean-fiber
+Barbados,Saint Barthélemy,southern-caribbean-fiber
+Barbados,Saint Kitts and Nevis,southern-caribbean-fiber
+Barbados,Saint Lucia,southern-caribbean-fiber
+Barbados,Saint Martin,southern-caribbean-fiber
+Barbados,Saint Vincent and the Grenadines,southern-caribbean-fiber
+Barbados,Trinidad and Tobago,southern-caribbean-fiber
+Barbados,United States,southern-caribbean-fiber
+Barbados,Virgin Islands (U.S.),southern-caribbean-fiber
+Dominica,Grenada,southern-caribbean-fiber
+Dominica,Guadeloupe,southern-caribbean-fiber
+Dominica,Martinique,southern-caribbean-fiber
+Dominica,Montserrat,southern-caribbean-fiber
+Dominica,Saint Barthélemy,southern-caribbean-fiber
+Dominica,Saint Kitts and Nevis,southern-caribbean-fiber
+Dominica,Saint Lucia,southern-caribbean-fiber
+Dominica,Saint Martin,southern-caribbean-fiber
+Dominica,Saint Vincent and the Grenadines,southern-caribbean-fiber
+Dominica,Trinidad and Tobago,southern-caribbean-fiber
+Dominica,United States,southern-caribbean-fiber
+Dominica,Virgin Islands (U.S.),southern-caribbean-fiber
+Grenada,Guadeloupe,southern-caribbean-fiber
+Grenada,Martinique,southern-caribbean-fiber
+Grenada,Montserrat,southern-caribbean-fiber
+Grenada,Saint Barthélemy,southern-caribbean-fiber
+Grenada,Saint Kitts and Nevis,southern-caribbean-fiber
+Grenada,Saint Lucia,southern-caribbean-fiber
+Grenada,Saint Martin,southern-caribbean-fiber
+Grenada,Saint Vincent and the Grenadines,southern-caribbean-fiber
+Grenada,Trinidad and Tobago,southern-caribbean-fiber
+Grenada,United States,southern-caribbean-fiber
+Grenada,Virgin Islands (U.S.),southern-caribbean-fiber
+Guadeloupe,Martinique,southern-caribbean-fiber
+Guadeloupe,Montserrat,southern-caribbean-fiber
+Guadeloupe,Saint Barthélemy,southern-caribbean-fiber
+Guadeloupe,Saint Kitts and Nevis,southern-caribbean-fiber
+Guadeloupe,Saint Lucia,southern-caribbean-fiber
+Guadeloupe,Saint Martin,southern-caribbean-fiber
+Guadeloupe,Saint Vincent and the Grenadines,southern-caribbean-fiber
+Guadeloupe,Trinidad and Tobago,southern-caribbean-fiber
+Guadeloupe,United States,southern-caribbean-fiber
+Guadeloupe,Virgin Islands (U.S.),southern-caribbean-fiber
+Martinique,Montserrat,southern-caribbean-fiber
+Martinique,Saint Barthélemy,southern-caribbean-fiber
+Martinique,Saint Kitts and Nevis,southern-caribbean-fiber
+Martinique,Saint Lucia,southern-caribbean-fiber
+Martinique,Saint Martin,southern-caribbean-fiber
+Martinique,Saint Vincent and the Grenadines,southern-caribbean-fiber
+Martinique,Trinidad and Tobago,southern-caribbean-fiber
+Martinique,United States,southern-caribbean-fiber
+Martinique,Virgin Islands (U.S.),southern-caribbean-fiber
+Montserrat,Saint Barthélemy,southern-caribbean-fiber
+Montserrat,Saint Kitts and Nevis,southern-caribbean-fiber
+Montserrat,Saint Lucia,southern-caribbean-fiber
+Montserrat,Saint Martin,southern-caribbean-fiber
+Montserrat,Saint Vincent and the Grenadines,southern-caribbean-fiber
+Montserrat,Trinidad and Tobago,southern-caribbean-fiber
+Montserrat,United States,southern-caribbean-fiber
+Montserrat,Virgin Islands (U.S.),southern-caribbean-fiber
+Saint Barthélemy,Saint Kitts and Nevis,southern-caribbean-fiber
+Saint Barthélemy,Saint Lucia,southern-caribbean-fiber
+Saint Barthélemy,Saint Martin,southern-caribbean-fiber
+Saint Barthélemy,Saint Vincent and the Grenadines,southern-caribbean-fiber
+Saint Barthélemy,Trinidad and Tobago,southern-caribbean-fiber
+Saint Barthélemy,United States,southern-caribbean-fiber
+Saint Barthélemy,Virgin Islands (U.S.),southern-caribbean-fiber
+Saint Kitts and Nevis,Saint Lucia,southern-caribbean-fiber
+Saint Kitts and Nevis,Saint Martin,southern-caribbean-fiber
+Saint Kitts and Nevis,Saint Vincent and the Grenadines,southern-caribbean-fiber
+Saint Kitts and Nevis,Trinidad and Tobago,southern-caribbean-fiber
+Saint Kitts and Nevis,United States,southern-caribbean-fiber
+Saint Kitts and Nevis,Virgin Islands (U.S.),southern-caribbean-fiber
+Saint Lucia,Saint Martin,southern-caribbean-fiber
+Saint Lucia,Saint Vincent and the Grenadines,southern-caribbean-fiber
+Saint Lucia,Trinidad and Tobago,southern-caribbean-fiber
+Saint Lucia,United States,southern-caribbean-fiber
+Saint Lucia,Virgin Islands (U.S.),southern-caribbean-fiber
+Saint Martin,Saint Vincent and the Grenadines,southern-caribbean-fiber
+Saint Martin,Trinidad and Tobago,southern-caribbean-fiber
+Saint Martin,United States,southern-caribbean-fiber
+Saint Martin,Virgin Islands (U.S.),southern-caribbean-fiber
+Saint Vincent and the Grenadines,Trinidad and Tobago,southern-caribbean-fiber
+Saint Vincent and the Grenadines,United States,southern-caribbean-fiber
+Saint Vincent and the Grenadines,Virgin Islands (U.S.),southern-caribbean-fiber
+Trinidad and Tobago,United States,southern-caribbean-fiber
+Trinidad and Tobago,Virgin Islands (U.S.),southern-caribbean-fiber
+United States,Virgin Islands (U.S.),southern-caribbean-fiber
+Australia,Fiji,southern-cross-cable-network-sccn
+Australia,New Zealand,southern-cross-cable-network-sccn
+Australia,United States,southern-cross-cable-network-sccn
+Fiji,New Zealand,southern-cross-cable-network-sccn
+Fiji,United States,southern-cross-cable-network-sccn
+New Zealand,United States,southern-cross-cable-network-sccn
+Australia,Fiji,southern-cross-next
+Australia,Kiribati,southern-cross-next
+Australia,New Zealand,southern-cross-next
+Australia,Tokelau,southern-cross-next
+Australia,United States,southern-cross-next
+Fiji,Kiribati,southern-cross-next
+Fiji,New Zealand,southern-cross-next
+Fiji,Tokelau,southern-cross-next
+Fiji,United States,southern-cross-next
+Kiribati,New Zealand,southern-cross-next
+Kiribati,Tokelau,southern-cross-next
+Kiribati,United States,southern-cross-next
+New Zealand,Tokelau,southern-cross-next
+New Zealand,United States,southern-cross-next
+Tokelau,United States,southern-cross-next
+Canada,Saint Pierre and Miquelon,st-pierre-and-miquelon-cable
+Finland,Sweden,sto-hel-one
+Guyana,Suriname,suriname-guyana-submarine-cable-system-sg-scs
+Guyana,Trinidad and Tobago,suriname-guyana-submarine-cable-system-sg-scs
+Suriname,Trinidad and Tobago,suriname-guyana-submarine-cable-system-sg-scs
+Estonia,Sweden,sweden-estonia-ee-s-1
+Latvia,Sweden,sweden-latvia
+Mauritius,South Africa,t3
+Egypt,Jordan,taba-aqaba
+China,Taiwan,taiwan-strait-express-1-tse-1
+Norway,United Kingdom,tampnet-north
+Norway,United Kingdom,tampnet-south
+Belgium,United Kingdom,tangerine
+Argentina,Brazil,tannat
+Argentina,Uruguay,tannat
+Brazil,Uruguay,tannat
+Australia,New Zealand,tasman-global-access-tga-cable
+United Kingdom,United States,tata-tgn-atlantic-south
+Bahrain,Oman,tata-tgn-gulf
+Bahrain,Qatar,tata-tgn-gulf
+Bahrain,Saudi Arabia,tata-tgn-gulf
+Bahrain,United Arab Emirates,tata-tgn-gulf
+Oman,Qatar,tata-tgn-gulf
+Oman,Saudi Arabia,tata-tgn-gulf
+Oman,United Arab Emirates,tata-tgn-gulf
+Qatar,Saudi Arabia,tata-tgn-gulf
+Qatar,United Arab Emirates,tata-tgn-gulf
+Saudi Arabia,United Arab Emirates,tata-tgn-gulf
+China,Philippines,tata-tgn-intra-asia-tgn-ia
+China,Singapore,tata-tgn-intra-asia-tgn-ia
+China,Vietnam,tata-tgn-intra-asia-tgn-ia
+Philippines,Singapore,tata-tgn-intra-asia-tgn-ia
+Philippines,Vietnam,tata-tgn-intra-asia-tgn-ia
+Singapore,Vietnam,tata-tgn-intra-asia-tgn-ia
+Guam,Japan,tata-tgn-pacific
+Guam,United States,tata-tgn-pacific
+Japan,United States,tata-tgn-pacific
+India,Singapore,tata-tgn-tata-indicom
+Portugal,Spain,tata-tgn-western-europe
+Portugal,United Kingdom,tata-tgn-western-europe
+Spain,United Kingdom,tata-tgn-western-europe
+Algeria,Cyprus,te-northtgn-eurasiaseacomalexandrosmedex
+Algeria,Egypt,te-northtgn-eurasiaseacomalexandrosmedex
+Algeria,France,te-northtgn-eurasiaseacomalexandrosmedex
+Cyprus,Egypt,te-northtgn-eurasiaseacomalexandrosmedex
+Cyprus,France,te-northtgn-eurasiaseacomalexandrosmedex
+Egypt,France,te-northtgn-eurasiaseacomalexandrosmedex
+Australia,United States,telstra-endeavour
+Indonesia,Singapore,thailand-indonesia-singapore-tis
+Indonesia,Thailand,thailand-indonesia-singapore-tis
+Singapore,Thailand,thailand-indonesia-singapore-tis
+Kenya,United Arab Emirates,the-east-african-marine-system-teams
+Fiji,Tonga,tonga-cable
+Canada,Japan,topaz
+Canada,Taiwan,topaz
+Japan,Taiwan,topaz
+Guam,Northern Mariana Islands,tpu
+Guam,Philippines,tpu
+Guam,Taiwan,tpu
+Guam,United States,tpu
+Northern Mariana Islands,Philippines,tpu
+Northern Mariana Islands,Taiwan,tpu
+Northern Mariana Islands,United States,tpu
+Philippines,Taiwan,tpu
+Philippines,United States,tpu
+Taiwan,United States,tpu
+Albania,Italy,trans-adriatic-express-tae
+Azerbaijan,Kazakhstan,trans-caspian-fiber-optic-cable
+China,Japan,trans-pacific-express-tpe-cable-system
+China,South Korea,trans-pacific-express-tpe-cable-system
+China,Taiwan,trans-pacific-express-tpe-cable-system
+China,United States,trans-pacific-express-tpe-cable-system
+Japan,South Korea,trans-pacific-express-tpe-cable-system
+Japan,Taiwan,trans-pacific-express-tpe-cable-system
+Japan,United States,trans-pacific-express-tpe-cable-system
+South Korea,Taiwan,trans-pacific-express-tpe-cable-system
+South Korea,United States,trans-pacific-express-tpe-cable-system
+Taiwan,United States,trans-pacific-express-tpe-cable-system
+Oman,Pakistan,transworld-tw1
+Oman,United Arab Emirates,transworld-tw1
+Pakistan,United Arab Emirates,transworld-tw1
+Fiji,Samoa,tui-samoa
+Fiji,Wallis and Futuna,tui-samoa
+Samoa,Wallis and Futuna,tui-samoa
+Cyprus,Turkey,turcyos-1
+Cyprus,Turkey,turcyos-2
+Iran,United Arab Emirates,uae-iran
+Cyprus,Syria,ugarit
+Guernsey,United Kingdom,uk-channel-islands-7
+Jersey,United Kingdom,uk-channel-islands-8
+Equatorial Guinea,Sao Tome and Principe,ultramar-ge
+Netherlands,United Kingdom,ulysses-2
+Myanmar,Singapore,umo
+Argentina,Uruguay,unisur
+Japan,United States,unity
+Angola,Cameroon,west-africa-cable-system-wacs
+Angola,Cape Verde,west-africa-cable-system-wacs
+Angola,"Congo, Dem. Rep.",west-africa-cable-system-wacs
+Angola,"Congo, Rep.",west-africa-cable-system-wacs
+Angola,Côte d'Ivoire,west-africa-cable-system-wacs
+Angola,Ghana,west-africa-cable-system-wacs
+Angola,Namibia,west-africa-cable-system-wacs
+Angola,Nigeria,west-africa-cable-system-wacs
+Angola,Portugal,west-africa-cable-system-wacs
+Angola,South Africa,west-africa-cable-system-wacs
+Angola,Spain,west-africa-cable-system-wacs
+Angola,Togo,west-africa-cable-system-wacs
+Cameroon,Cape Verde,west-africa-cable-system-wacs
+Cameroon,"Congo, Dem. Rep.",west-africa-cable-system-wacs
+Cameroon,"Congo, Rep.",west-africa-cable-system-wacs
+Cameroon,Côte d'Ivoire,west-africa-cable-system-wacs
+Cameroon,Ghana,west-africa-cable-system-wacs
+Cameroon,Namibia,west-africa-cable-system-wacs
+Cameroon,Nigeria,west-africa-cable-system-wacs
+Cameroon,Portugal,west-africa-cable-system-wacs
+Cameroon,South Africa,west-africa-cable-system-wacs
+Cameroon,Spain,west-africa-cable-system-wacs
+Cameroon,Togo,west-africa-cable-system-wacs
+Cape Verde,"Congo, Dem. Rep.",west-africa-cable-system-wacs
+Cape Verde,"Congo, Rep.",west-africa-cable-system-wacs
+Cape Verde,Côte d'Ivoire,west-africa-cable-system-wacs
+Cape Verde,Ghana,west-africa-cable-system-wacs
+Cape Verde,Namibia,west-africa-cable-system-wacs
+Cape Verde,Nigeria,west-africa-cable-system-wacs
+Cape Verde,Portugal,west-africa-cable-system-wacs
+Cape Verde,South Africa,west-africa-cable-system-wacs
+Cape Verde,Spain,west-africa-cable-system-wacs
+Cape Verde,Togo,west-africa-cable-system-wacs
+"Congo, Dem. Rep.","Congo, Rep.",west-africa-cable-system-wacs
+"Congo, Dem. Rep.",Côte d'Ivoire,west-africa-cable-system-wacs
+"Congo, Dem. Rep.",Ghana,west-africa-cable-system-wacs
+"Congo, Dem. Rep.",Namibia,west-africa-cable-system-wacs
+"Congo, Dem. Rep.",Nigeria,west-africa-cable-system-wacs
+"Congo, Dem. Rep.",Portugal,west-africa-cable-system-wacs
+"Congo, Dem. Rep.",South Africa,west-africa-cable-system-wacs
+"Congo, Dem. Rep.",Spain,west-africa-cable-system-wacs
+"Congo, Dem. Rep.",Togo,west-africa-cable-system-wacs
+"Congo, Rep.",Côte d'Ivoire,west-africa-cable-system-wacs
+"Congo, Rep.",Ghana,west-africa-cable-system-wacs
+"Congo, Rep.",Namibia,west-africa-cable-system-wacs
+"Congo, Rep.",Nigeria,west-africa-cable-system-wacs
+"Congo, Rep.",Portugal,west-africa-cable-system-wacs
+"Congo, Rep.",South Africa,west-africa-cable-system-wacs
+"Congo, Rep.",Spain,west-africa-cable-system-wacs
+"Congo, Rep.",Togo,west-africa-cable-system-wacs
+Côte d'Ivoire,Ghana,west-africa-cable-system-wacs
+Côte d'Ivoire,Namibia,west-africa-cable-system-wacs
+Côte d'Ivoire,Nigeria,west-africa-cable-system-wacs
+Côte d'Ivoire,Portugal,west-africa-cable-system-wacs
+Côte d'Ivoire,South Africa,west-africa-cable-system-wacs
+Côte d'Ivoire,Spain,west-africa-cable-system-wacs
+Côte d'Ivoire,Togo,west-africa-cable-system-wacs
+Ghana,Namibia,west-africa-cable-system-wacs
+Ghana,Nigeria,west-africa-cable-system-wacs
+Ghana,Portugal,west-africa-cable-system-wacs
+Ghana,South Africa,west-africa-cable-system-wacs
+Ghana,Spain,west-africa-cable-system-wacs
+Ghana,Togo,west-africa-cable-system-wacs
+Namibia,Nigeria,west-africa-cable-system-wacs
+Namibia,Portugal,west-africa-cable-system-wacs
+Namibia,South Africa,west-africa-cable-system-wacs
+Namibia,Spain,west-africa-cable-system-wacs
+Namibia,Togo,west-africa-cable-system-wacs
+Nigeria,Portugal,west-africa-cable-system-wacs
+Nigeria,South Africa,west-africa-cable-system-wacs
+Nigeria,Spain,west-africa-cable-system-wacs
+Nigeria,Togo,west-africa-cable-system-wacs
+Portugal,South Africa,west-africa-cable-system-wacs
+Portugal,Spain,west-africa-cable-system-wacs
+Portugal,Togo,west-africa-cable-system-wacs
+South Africa,Spain,west-africa-cable-system-wacs
+South Africa,Togo,west-africa-cable-system-wacs
+Spain,Togo,west-africa-cable-system-wacs
+Barbados,Guyana,x-link-submarine-cable
+United Kingdom,United States,yellow
+Netherlands,United Kingdom,zeus
