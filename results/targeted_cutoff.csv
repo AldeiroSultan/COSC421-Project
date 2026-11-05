@@ -1,0 +1,881 @@
+step,country
+3,Belgium
+4,Belgium
+5,Belgium
+6,Belgium
+7,Belgium
+8,Belgium
+9,Anguilla
+9,Antigua and Barbuda
+9,Argentina
+9,Aruba
+9,Bahamas
+9,Barbados
+9,Belgium
+9,Belize
+9,Bermuda
+9,"Bonaire, Sint Eustatius and Saba"
+9,Cayman Islands
+9,Chile
+9,Colombia
+9,Costa Rica
+9,Cuba
+9,Curaçao
+9,Dominica
+9,Dominican Republic
+9,Ecuador
+9,Grenada
+9,Guadeloupe
+9,Guatemala
+9,Guyana
+9,Haiti
+9,Honduras
+9,Jamaica
+9,Martinique
+9,Montserrat
+9,Nicaragua
+9,Panama
+9,Peru
+9,Saint Barthélemy
+9,Saint Kitts and Nevis
+9,Saint Lucia
+9,Saint Martin
+9,Saint Vincent and the Grenadines
+9,Sint Maarten
+9,Turks and Caicos Islands
+9,Uruguay
+9,Venezuela
+9,Virgin Islands (U.K.)
+9,Virgin Islands (U.S.)
+10,American Samoa
+10,Anguilla
+10,Antigua and Barbuda
+10,Argentina
+10,Aruba
+10,Bahamas
+10,Barbados
+10,Belgium
+10,Belize
+10,Bermuda
+10,"Bonaire, Sint Eustatius and Saba"
+10,Cayman Islands
+10,Chile
+10,Colombia
+10,Cook Islands
+10,Costa Rica
+10,Cuba
+10,Curaçao
+10,Dominica
+10,Dominican Republic
+10,Ecuador
+10,Fiji
+10,French Polynesia
+10,Grenada
+10,Guadeloupe
+10,Guatemala
+10,Guyana
+10,Haiti
+10,Honduras
+10,Jamaica
+10,Kiribati
+10,Martinique
+10,Montserrat
+10,Nauru
+10,New Caledonia
+10,New Zealand
+10,Nicaragua
+10,Niue
+10,Panama
+10,Peru
+10,Saint Barthélemy
+10,Saint Kitts and Nevis
+10,Saint Lucia
+10,Saint Martin
+10,Saint Vincent and the Grenadines
+10,Samoa
+10,Sint Maarten
+10,Tokelau
+10,Tonga
+10,Turks and Caicos Islands
+10,Uruguay
+10,Vanuatu
+10,Venezuela
+10,Virgin Islands (U.K.)
+10,Virgin Islands (U.S.)
+10,Wallis and Futuna
+11,American Samoa
+11,Anguilla
+11,Antigua and Barbuda
+11,Argentina
+11,Aruba
+11,Bahamas
+11,Barbados
+11,Belgium
+11,Belize
+11,Bermuda
+11,"Bonaire, Sint Eustatius and Saba"
+11,Cayman Islands
+11,Chile
+11,Colombia
+11,Cook Islands
+11,Costa Rica
+11,Cuba
+11,Curaçao
+11,Dominica
+11,Dominican Republic
+11,Ecuador
+11,Fiji
+11,French Polynesia
+11,Grenada
+11,Guadeloupe
+11,Guatemala
+11,Guyana
+11,Haiti
+11,Honduras
+11,Jamaica
+11,Kiribati
+11,Martinique
+11,Montserrat
+11,Nauru
+11,New Caledonia
+11,New Zealand
+11,Nicaragua
+11,Niue
+11,Panama
+11,Peru
+11,Saint Barthélemy
+11,Saint Kitts and Nevis
+11,Saint Lucia
+11,Saint Martin
+11,Saint Vincent and the Grenadines
+11,Samoa
+11,Sint Maarten
+11,Tokelau
+11,Tonga
+11,Turks and Caicos Islands
+11,Uruguay
+11,Vanuatu
+11,Venezuela
+11,Virgin Islands (U.K.)
+11,Virgin Islands (U.S.)
+11,Wallis and Futuna
+12,American Samoa
+12,Anguilla
+12,Antigua and Barbuda
+12,Argentina
+12,Aruba
+12,Bahamas
+12,Barbados
+12,Belgium
+12,Belize
+12,Bermuda
+12,"Bonaire, Sint Eustatius and Saba"
+12,Cayman Islands
+12,Chile
+12,Colombia
+12,Cook Islands
+12,Costa Rica
+12,Cuba
+12,Curaçao
+12,Dominica
+12,Dominican Republic
+12,Ecuador
+12,Fiji
+12,French Polynesia
+12,Grenada
+12,Guadeloupe
+12,Guatemala
+12,Guyana
+12,Haiti
+12,Honduras
+12,Jamaica
+12,Kiribati
+12,Martinique
+12,Montserrat
+12,Nauru
+12,New Caledonia
+12,New Zealand
+12,Nicaragua
+12,Niue
+12,Panama
+12,Peru
+12,Saint Barthélemy
+12,Saint Kitts and Nevis
+12,Saint Lucia
+12,Saint Martin
+12,Saint Vincent and the Grenadines
+12,Samoa
+12,Sint Maarten
+12,Tokelau
+12,Tonga
+12,Turks and Caicos Islands
+12,Uruguay
+12,Vanuatu
+12,Venezuela
+12,Virgin Islands (U.K.)
+12,Virgin Islands (U.S.)
+12,Wallis and Futuna
+13,American Samoa
+13,Anguilla
+13,Antigua and Barbuda
+13,Argentina
+13,Aruba
+13,Bahamas
+13,Barbados
+13,Belgium
+13,Belize
+13,Bermuda
+13,"Bonaire, Sint Eustatius and Saba"
+13,Bulgaria
+13,Canada
+13,Cayman Islands
+13,Chile
+13,Colombia
+13,Cook Islands
+13,Costa Rica
+13,Cuba
+13,Curaçao
+13,Denmark
+13,Dominica
+13,Dominican Republic
+13,Ecuador
+13,Estonia
+13,Faroe Islands
+13,Fiji
+13,Finland
+13,French Polynesia
+13,Georgia
+13,Germany
+13,Greenland
+13,Grenada
+13,Guadeloupe
+13,Guatemala
+13,Guyana
+13,Haiti
+13,Honduras
+13,Iceland
+13,Ireland
+13,Isle of Man
+13,Jamaica
+13,Kiribati
+13,Latvia
+13,Lithuania
+13,Martinique
+13,Montserrat
+13,Nauru
+13,New Caledonia
+13,New Zealand
+13,Nicaragua
+13,Niue
+13,Norway
+13,Panama
+13,Peru
+13,Poland
+13,Romania
+13,Russia
+13,Saint Barthélemy
+13,Saint Kitts and Nevis
+13,Saint Lucia
+13,Saint Martin
+13,Saint Pierre and Miquelon
+13,Saint Vincent and the Grenadines
+13,Samoa
+13,Sint Maarten
+13,Sweden
+13,Tokelau
+13,Tonga
+13,Turks and Caicos Islands
+13,Ukraine
+13,Uruguay
+13,Vanuatu
+13,Venezuela
+13,Virgin Islands (U.K.)
+13,Virgin Islands (U.S.)
+13,Wallis and Futuna
+14,American Samoa
+14,Anguilla
+14,Antigua and Barbuda
+14,Argentina
+14,Aruba
+14,Bahamas
+14,Barbados
+14,Belgium
+14,Belize
+14,Bermuda
+14,"Bonaire, Sint Eustatius and Saba"
+14,Bulgaria
+14,Canada
+14,Cayman Islands
+14,Chile
+14,Colombia
+14,Cook Islands
+14,Costa Rica
+14,Cuba
+14,Curaçao
+14,Denmark
+14,Dominica
+14,Dominican Republic
+14,Ecuador
+14,Estonia
+14,Faroe Islands
+14,Fiji
+14,Finland
+14,French Polynesia
+14,Georgia
+14,Germany
+14,Greenland
+14,Grenada
+14,Guadeloupe
+14,Guatemala
+14,Guernsey
+14,Guyana
+14,Haiti
+14,Honduras
+14,Iceland
+14,Ireland
+14,Isle of Man
+14,Jamaica
+14,Jersey
+14,Kiribati
+14,Latvia
+14,Lithuania
+14,Martinique
+14,Montserrat
+14,Nauru
+14,New Caledonia
+14,New Zealand
+14,Nicaragua
+14,Niue
+14,Norway
+14,Panama
+14,Peru
+14,Poland
+14,Romania
+14,Russia
+14,Saint Barthélemy
+14,Saint Kitts and Nevis
+14,Saint Lucia
+14,Saint Martin
+14,Saint Pierre and Miquelon
+14,Saint Vincent and the Grenadines
+14,Samoa
+14,Sint Maarten
+14,Sweden
+14,Tokelau
+14,Tonga
+14,Turks and Caicos Islands
+14,Ukraine
+14,Uruguay
+14,Vanuatu
+14,Venezuela
+14,Virgin Islands (U.K.)
+14,Virgin Islands (U.S.)
+14,Wallis and Futuna
+15,American Samoa
+15,Anguilla
+15,Antigua and Barbuda
+15,Argentina
+15,Aruba
+15,Bahamas
+15,Barbados
+15,Belgium
+15,Belize
+15,Bermuda
+15,"Bonaire, Sint Eustatius and Saba"
+15,Bulgaria
+15,Canada
+15,Cayman Islands
+15,Chile
+15,Colombia
+15,Cook Islands
+15,Costa Rica
+15,Cuba
+15,Curaçao
+15,Denmark
+15,Dominica
+15,Dominican Republic
+15,Ecuador
+15,Estonia
+15,Faroe Islands
+15,Fiji
+15,Finland
+15,French Polynesia
+15,Georgia
+15,Germany
+15,Greenland
+15,Grenada
+15,Guadeloupe
+15,Guatemala
+15,Guernsey
+15,Guyana
+15,Haiti
+15,Honduras
+15,Iceland
+15,Ireland
+15,Isle of Man
+15,Jamaica
+15,Jersey
+15,Kiribati
+15,Latvia
+15,Lithuania
+15,Marshall Islands
+15,Martinique
+15,Montserrat
+15,Nauru
+15,New Caledonia
+15,New Zealand
+15,Nicaragua
+15,Niue
+15,Norway
+15,Panama
+15,Papua New Guinea
+15,Peru
+15,Poland
+15,Romania
+15,Russia
+15,Saint Barthélemy
+15,Saint Kitts and Nevis
+15,Saint Lucia
+15,Saint Martin
+15,Saint Pierre and Miquelon
+15,Saint Vincent and the Grenadines
+15,Samoa
+15,Sint Maarten
+15,Solomon Islands
+15,Sweden
+15,Tokelau
+15,Tonga
+15,Turks and Caicos Islands
+15,Ukraine
+15,Uruguay
+15,Vanuatu
+15,Venezuela
+15,Virgin Islands (U.K.)
+15,Virgin Islands (U.S.)
+15,Wallis and Futuna
+16,American Samoa
+16,Anguilla
+16,Antigua and Barbuda
+16,Argentina
+16,Aruba
+16,Bahamas
+16,Barbados
+16,Belgium
+16,Belize
+16,Bermuda
+16,"Bonaire, Sint Eustatius and Saba"
+16,British Indian Ocean Territory
+16,Bulgaria
+16,Canada
+16,Cayman Islands
+16,Chile
+16,Cocos (Keeling) Islands
+16,Colombia
+16,Cook Islands
+16,Costa Rica
+16,Cuba
+16,Curaçao
+16,Denmark
+16,Dominica
+16,Dominican Republic
+16,Ecuador
+16,Estonia
+16,Faroe Islands
+16,Fiji
+16,Finland
+16,French Polynesia
+16,Georgia
+16,Germany
+16,Greenland
+16,Grenada
+16,Guadeloupe
+16,Guatemala
+16,Guernsey
+16,Guyana
+16,Haiti
+16,Honduras
+16,Iceland
+16,Ireland
+16,Isle of Man
+16,Jamaica
+16,Jersey
+16,Kiribati
+16,Latvia
+16,Lithuania
+16,Marshall Islands
+16,Martinique
+16,Montserrat
+16,Nauru
+16,New Caledonia
+16,New Zealand
+16,Nicaragua
+16,Niue
+16,Norway
+16,Panama
+16,Papua New Guinea
+16,Peru
+16,Poland
+16,Romania
+16,Russia
+16,Saint Barthélemy
+16,Saint Kitts and Nevis
+16,Saint Lucia
+16,Saint Martin
+16,Saint Pierre and Miquelon
+16,Saint Vincent and the Grenadines
+16,Samoa
+16,Sint Maarten
+16,Solomon Islands
+16,Sweden
+16,Tokelau
+16,Tonga
+16,Turks and Caicos Islands
+16,Ukraine
+16,Uruguay
+16,Vanuatu
+16,Venezuela
+16,Virgin Islands (U.K.)
+16,Virgin Islands (U.S.)
+16,Wallis and Futuna
+17,American Samoa
+17,Anguilla
+17,Antigua and Barbuda
+17,Argentina
+17,Aruba
+17,Bahamas
+17,Barbados
+17,Belgium
+17,Belize
+17,Bermuda
+17,"Bonaire, Sint Eustatius and Saba"
+17,British Indian Ocean Territory
+17,Bulgaria
+17,Canada
+17,Cayman Islands
+17,Chile
+17,Cocos (Keeling) Islands
+17,Colombia
+17,Cook Islands
+17,Costa Rica
+17,Cuba
+17,Curaçao
+17,Denmark
+17,Dominica
+17,Dominican Republic
+17,Ecuador
+17,Estonia
+17,Faroe Islands
+17,Fiji
+17,Finland
+17,French Polynesia
+17,Georgia
+17,Germany
+17,Greenland
+17,Grenada
+17,Guadeloupe
+17,Guatemala
+17,Guernsey
+17,Guyana
+17,Haiti
+17,Honduras
+17,Iceland
+17,Ireland
+17,Isle of Man
+17,Jamaica
+17,Jersey
+17,Kiribati
+17,Latvia
+17,Lithuania
+17,Marshall Islands
+17,Martinique
+17,Montserrat
+17,Nauru
+17,New Caledonia
+17,New Zealand
+17,Nicaragua
+17,Niue
+17,Norway
+17,Panama
+17,Papua New Guinea
+17,Peru
+17,Poland
+17,Romania
+17,Russia
+17,Saint Barthélemy
+17,Saint Kitts and Nevis
+17,Saint Lucia
+17,Saint Martin
+17,Saint Pierre and Miquelon
+17,Saint Vincent and the Grenadines
+17,Samoa
+17,Sint Maarten
+17,Solomon Islands
+17,Sweden
+17,Tokelau
+17,Tonga
+17,Turks and Caicos Islands
+17,Ukraine
+17,Uruguay
+17,Vanuatu
+17,Venezuela
+17,Virgin Islands (U.K.)
+17,Virgin Islands (U.S.)
+17,Wallis and Futuna
+18,Albania
+18,American Samoa
+18,Anguilla
+18,Antigua and Barbuda
+18,Argentina
+18,Aruba
+18,Bahamas
+18,Barbados
+18,Belgium
+18,Belize
+18,Bermuda
+18,"Bonaire, Sint Eustatius and Saba"
+18,British Indian Ocean Territory
+18,Bulgaria
+18,Canada
+18,Cayman Islands
+18,Chile
+18,Cocos (Keeling) Islands
+18,Colombia
+18,Cook Islands
+18,Costa Rica
+18,Croatia
+18,Cuba
+18,Curaçao
+18,Denmark
+18,Dominica
+18,Dominican Republic
+18,Ecuador
+18,Estonia
+18,Faroe Islands
+18,Fiji
+18,Finland
+18,French Polynesia
+18,Georgia
+18,Germany
+18,Greenland
+18,Grenada
+18,Guadeloupe
+18,Guatemala
+18,Guernsey
+18,Guyana
+18,Haiti
+18,Honduras
+18,Iceland
+18,Ireland
+18,Isle of Man
+18,Jamaica
+18,Jersey
+18,Kiribati
+18,Latvia
+18,Lithuania
+18,Marshall Islands
+18,Martinique
+18,Montserrat
+18,Nauru
+18,New Caledonia
+18,New Zealand
+18,Nicaragua
+18,Niue
+18,Norway
+18,Panama
+18,Papua New Guinea
+18,Peru
+18,Poland
+18,Romania
+18,Russia
+18,Saint Barthélemy
+18,Saint Kitts and Nevis
+18,Saint Lucia
+18,Saint Martin
+18,Saint Pierre and Miquelon
+18,Saint Vincent and the Grenadines
+18,Samoa
+18,Sint Maarten
+18,Solomon Islands
+18,Sweden
+18,Tokelau
+18,Tonga
+18,Turks and Caicos Islands
+18,Ukraine
+18,Uruguay
+18,Vanuatu
+18,Venezuela
+18,Virgin Islands (U.K.)
+18,Virgin Islands (U.S.)
+18,Wallis and Futuna
+19,Albania
+19,American Samoa
+19,Anguilla
+19,Antigua and Barbuda
+19,Argentina
+19,Aruba
+19,Bahamas
+19,Barbados
+19,Belgium
+19,Belize
+19,Bermuda
+19,"Bonaire, Sint Eustatius and Saba"
+19,British Indian Ocean Territory
+19,Bulgaria
+19,Canada
+19,Cayman Islands
+19,Chile
+19,Cocos (Keeling) Islands
+19,Colombia
+19,Cook Islands
+19,Costa Rica
+19,Croatia
+19,Cuba
+19,Curaçao
+19,Denmark
+19,Dominica
+19,Dominican Republic
+19,Ecuador
+19,Estonia
+19,Faroe Islands
+19,Fiji
+19,Finland
+19,French Polynesia
+19,Georgia
+19,Germany
+19,Greenland
+19,Grenada
+19,Guadeloupe
+19,Guatemala
+19,Guernsey
+19,Guyana
+19,Haiti
+19,Honduras
+19,Iceland
+19,Ireland
+19,Isle of Man
+19,Jamaica
+19,Jersey
+19,Kiribati
+19,Latvia
+19,Lithuania
+19,Marshall Islands
+19,Martinique
+19,Montserrat
+19,Nauru
+19,New Caledonia
+19,New Zealand
+19,Nicaragua
+19,Niue
+19,Norway
+19,Panama
+19,Papua New Guinea
+19,Peru
+19,Poland
+19,Romania
+19,Russia
+19,Saint Barthélemy
+19,Saint Kitts and Nevis
+19,Saint Lucia
+19,Saint Martin
+19,Saint Pierre and Miquelon
+19,Saint Vincent and the Grenadines
+19,Samoa
+19,Sint Maarten
+19,Solomon Islands
+19,Sweden
+19,Tokelau
+19,Tonga
+19,Turks and Caicos Islands
+19,Ukraine
+19,Uruguay
+19,Vanuatu
+19,Venezuela
+19,Virgin Islands (U.K.)
+19,Virgin Islands (U.S.)
+19,Wallis and Futuna
+20,Albania
+20,American Samoa
+20,Anguilla
+20,Antigua and Barbuda
+20,Argentina
+20,Aruba
+20,Bahamas
+20,Barbados
+20,Belgium
+20,Belize
+20,Bermuda
+20,"Bonaire, Sint Eustatius and Saba"
+20,British Indian Ocean Territory
+20,Bulgaria
+20,Canada
+20,Cayman Islands
+20,Chile
+20,Cocos (Keeling) Islands
+20,Colombia
+20,Cook Islands
+20,Costa Rica
+20,Croatia
+20,Cuba
+20,Curaçao
+20,Denmark
+20,Dominica
+20,Dominican Republic
+20,Ecuador
+20,Estonia
+20,Faroe Islands
+20,Fiji
+20,Finland
+20,French Polynesia
+20,Georgia
+20,Germany
+20,Greenland
+20,Grenada
+20,Guadeloupe
+20,Guatemala
+20,Guernsey
+20,Guyana
+20,Haiti
+20,Honduras
+20,Iceland
+20,Ireland
+20,Isle of Man
+20,Jamaica
+20,Jersey
+20,Kiribati
+20,Latvia
+20,Lithuania
+20,Marshall Islands
+20,Martinique
+20,Montserrat
+20,Nauru
+20,New Caledonia
+20,New Zealand
+20,Nicaragua
+20,Niue
+20,Norway
+20,Panama
+20,Papua New Guinea
+20,Peru
+20,Poland
+20,Romania
+20,Russia
+20,Saint Barthélemy
+20,Saint Kitts and Nevis
+20,Saint Lucia
+20,Saint Martin
+20,Saint Pierre and Miquelon
+20,Saint Vincent and the Grenadines
+20,Samoa
+20,Sint Maarten
+20,Solomon Islands
+20,Sweden
+20,Tokelau
+20,Tonga
+20,Turks and Caicos Islands
+20,Ukraine
+20,Uruguay
+20,Vanuatu
+20,Venezuela
+20,Virgin Islands (U.K.)
+20,Virgin Islands (U.S.)
+20,Wallis and Futuna
