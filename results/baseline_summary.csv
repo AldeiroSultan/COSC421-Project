@@ -1,0 +1,2 @@
+nodes,edges,cable_edges,avg_degree,density,n_components,giant_size,giant_share,avg_path_length,clustering
+185,1676,2953,18.11891891891892,0.09847238542890717,3,182,0.9837837837837838,2.627709307267318,0.6371033360455655
