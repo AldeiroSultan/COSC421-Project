@@ -28,10 +28,16 @@ C421_Project/
 ## How to run
 
 1. Open `C421_Project.Rproj` in RStudio.
-2. Run `R/00_setup.R` once to install and load packages.
-3. Run the scripts in order: `01_download_data.R`, `02_clean_data.R`, `03_build_network.R`, `04_baseline_metrics.R`, `05_targeted_failure.R`.
+2. Run everything in one go: `source("R/run_all.R")`. It runs every numbered script in `R/` in order, prints how long each took, and stops at the first error.
 
-Each script reads the output of the one before it, so a script should never need a file that a later script creates.
+To skip a script, for example the download when `data/raw/` is already filled:
+
+```r
+skip_scripts <- "01_download_data.R"
+source("R/run_all.R")
+```
+
+You can also run the scripts one at a time in numbered order (`00_setup.R` installs and loads the packages). Each script reads the output of the one before it, so a script should never need a file that a later script creates.
 
 ## Git workflow
 
