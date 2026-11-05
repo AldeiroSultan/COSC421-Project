@@ -23,19 +23,46 @@ cable_countries <- cable_landings |>
   filter(!is.na(country))
 
 # ---- Edge list --------------------------------------------------------------
-# TODO (Su): for each cable, make every pair of its countries an edge.
-# Hint: combn(countries, 2) inside group_by(cable_id) / reframe().
-edges <- tibble(from = character(), to = character(), cable_id = character())
+# For each cable, every pair of its countries is an edge. Countries are sorted
+# first so "from" always comes before "to" alphabetically. A cable that lands in
+# only one country (a domestic cable) gives no edge.
+edges <- cable_countries |>
+  arrange(cable_id, country) |>
+  group_by(cable_id) |>
+  filter(n() >= 2) |>
+  reframe({
+    pairs <- combn(country, 2)
+    tibble(from = pairs[1, ], to = pairs[2, ])
+  }) |>
+  select(from, to, cable_id)
+
+# ---- Nodes ------------------------------------------------------------------
+# Every country with a landing point is a node, including countries with no
+# international cable. Those become isolated nodes, so they show up as cut off
+# from the start.
+# n_cables counts every distinct cable that lands in the country, domestic
+# cables included.
+nodes <- landing_points |>
+  count(country, name = "n_landing_points") |>
+  left_join(count(cable_countries, country, name = "n_cables"), by = "country") |>
+  mutate(n_cables = coalesce(n_cables, 0L)) |>
+  arrange(country)
 
 # ---- Graph ------------------------------------------------------------------
 # Multi-edges are kept on purpose (two cables between the same countries are
 # two edges). Use simplify() only when a metric needs a simple graph.
-nodes <- tibble(country = sort(unique(c(edges$from, edges$to))))
 g <- graph_from_data_frame(edges, directed = FALSE, vertices = nodes)
 
-# ---- Save -------------------------------------------------------------------
-# write_csv(edges, file.path(dir_processed, "edges.csv"))
-# write_csv(nodes, file.path(dir_processed, "nodes.csv"))
-# saveRDS(g, file.path(dir_processed, "network.rds"))
+if (any(is.na(E(g)$cable_id))) stop("Some edges have no cable_id.")
 
-message("Nodes: ", vcount(g), "  Edges: ", ecount(g))
+# ---- Save -------------------------------------------------------------------
+write_csv(edges, file.path(dir_processed, "edges.csv"))
+write_csv(nodes, file.path(dir_processed, "nodes.csv"))
+saveRDS(g, file.path(dir_processed, "network.rds"))
+
+comps <- components(g)
+message("Nodes: ", vcount(g), "  Edges: ", ecount(g),
+        "  (", ecount(simplify(g)), " distinct country pairs)")
+message("Components: ", comps$no, "  Giant component: ", max(comps$csize), " countries")
+outside <- names(comps$membership)[comps$membership != which.max(comps$csize)]
+message("Not in the giant component: ", paste(sort(outside), collapse = ", "))
