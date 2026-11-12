@@ -39,3 +39,15 @@ Expected output of `02_clean_data.R` on this snapshot: 608 cables kept, 2761 row
 
 - Cloudflare Radar outage reports
 - IODA (Internet Outage Detection and Analysis)
+
+## Corridor analysis (MF-0010)
+
+- Implemented in R/06_corridors.R by Sultan. The three approximate longitude/latitude boxes are red_sea (41 to 45, 11 to 16), taiwan (119 to 122.5, 19 to 22.5), and tonga (-177 to -173, -23 to -19). These are study scenarios, not exact historical outage footprints.
+- The shared raw ZIP was unavailable. With Sultan's approval, only cable_geo.json was downloaded from https://www.submarinecablemap.com/api/v3/cable/cable-geo.json on 2026-11-12. The committed cleaned snapshot from 2026-11-04 was not refreshed. Route geometry and cleaned cable membership therefore have different snapshot dates; route changes between dates are a limitation.
+- Raw route SHA-256: 58f732985b065f582326e6d67a858a4c26725e61ef05ac3d78a842792ebaac32
+- To reproduce, use this exact route file (share it with teammates outside Git), put it in data/raw/cable_geo.json, then run source("R/06_corridors.R"). A future download from the same URL may differ. Raw files remain ignored by Git; the resulting corridor CSV and map are committed.
+- Routes are filtered to cable IDs in cable_landings.csv. Planned cables excluded by the cleaned snapshot stay excluded. Multiple features for a cable produce only one row per corridor. Touching a polygon boundary counts as an intersection.
+- Routes are split at the date line before planar longitude/latitude intersections, to avoid treating Pacific routes as crossing the world. The script temporarily disables s2 and restores its previous setting on exit.
+- Output: data/processed/corridor_cables.csv with exactly corridor,cable_id, and figures/corridors_map.png with one local panel per corridor.
+- Actual run: red_sea 14 cables, taiwan 11 cables, tonga 3 cables (28 corridor/cable pairs). The Red Sea selection contains all three task-board reference cables: Asia Africa Europe-1 (AAE-1), SEACOM/Tata TGN-Eurasia, and Europe India Gateway (EIG). This confirms membership only; historical outage validation remains MF-0013.
+- Synthetic checks cover duplicate cable features, excluded planned cables, outside routes, date-line crossings, boundary contact, stable CSV output, and restoration of s2 settings. Synthetic data and figures are not project results and are not committed.
