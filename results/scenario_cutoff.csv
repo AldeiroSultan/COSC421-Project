@@ -1,0 +1,186 @@
+country,n_scenarios,scenarios
+Tonga,2,"targeted,tonga"
+American Samoa,1,targeted
+Anguilla,1,targeted
+Antigua and Barbuda,1,targeted
+Argentina,1,targeted
+Aruba,1,targeted
+Bahamas,1,targeted
+Bangladesh,1,red_sea
+Barbados,1,targeted
+Belgium,1,targeted
+Belize,1,targeted
+Bermuda,1,targeted
+"Bonaire, Sint Eustatius and Saba",1,targeted
+Cayman Islands,1,targeted
+Chile,1,targeted
+Colombia,1,targeted
+Cook Islands,1,targeted
+Costa Rica,1,targeted
+Cuba,1,targeted
+Curaçao,1,targeted
+Djibouti,1,red_sea
+Dominica,1,targeted
+Dominican Republic,1,targeted
+Ecuador,1,targeted
+Fiji,1,targeted
+French Polynesia,1,targeted
+Gibraltar,1,red_sea
+Grenada,1,targeted
+Guadeloupe,1,targeted
+Guatemala,1,targeted
+Guyana,1,targeted
+Haiti,1,targeted
+Honduras,1,targeted
+Jamaica,1,targeted
+Kiribati,1,targeted
+Martinique,1,targeted
+Montserrat,1,targeted
+Mozambique,1,red_sea
+Nauru,1,targeted
+New Caledonia,1,targeted
+New Zealand,1,targeted
+Nicaragua,1,targeted
+Niue,1,targeted
+Panama,1,targeted
+Peru,1,targeted
+Saint Barthélemy,1,targeted
+Saint Kitts and Nevis,1,targeted
+Saint Lucia,1,targeted
+Saint Martin,1,targeted
+Saint Vincent and the Grenadines,1,targeted
+Samoa,1,targeted
+Seychelles,1,red_sea
+Sint Maarten,1,targeted
+Tanzania,1,red_sea
+Tokelau,1,targeted
+Turks and Caicos Islands,1,targeted
+Uruguay,1,targeted
+Vanuatu,1,targeted
+Venezuela,1,targeted
+Virgin Islands (U.K.),1,targeted
+Virgin Islands (U.S.),1,targeted
+Wallis and Futuna,1,targeted
+Yemen,1,red_sea
+Albania,0,
+Algeria,0,
+Angola,0,
+Australia,0,
+Azerbaijan,0,
+Bahrain,0,
+Benin,0,
+Brazil,0,
+British Indian Ocean Territory,0,
+Brunei,0,
+Bulgaria,0,
+Cambodia,0,
+Cameroon,0,
+Canada,0,
+Cape Verde,0,
+China,0,
+Christmas Island,0,
+Cocos (Keeling) Islands,0,
+Comoros,0,
+"Congo, Dem. Rep.",0,
+"Congo, Rep.",0,
+Croatia,0,
+Cyprus,0,
+Côte d'Ivoire,0,
+Denmark,0,
+Egypt,0,
+Equatorial Guinea,0,
+Estonia,0,
+Faroe Islands,0,
+Finland,0,
+France,0,
+French Guiana,0,
+Gabon,0,
+Gambia,0,
+Georgia,0,
+Germany,0,
+Ghana,0,
+Greece,0,
+Greenland,0,
+Guam,0,
+Guernsey,0,
+Guinea,0,
+Guinea-Bissau,0,
+Iceland,0,
+India,0,
+Indonesia,0,
+Iran,0,
+Iraq,0,
+Ireland,0,
+Isle of Man,0,
+Israel,0,
+Italy,0,
+Japan,0,
+Jersey,0,
+Jordan,0,
+Kazakhstan,0,
+Kenya,0,
+Kuwait,0,
+Latvia,0,
+Lebanon,0,
+Liberia,0,
+Libya,0,
+Lithuania,0,
+Madagascar,0,
+Malaysia,0,
+Maldives,0,
+Malta,0,
+Marshall Islands,0,
+Mauritania,0,
+Mauritius,0,
+Mayotte,0,
+Mexico,0,
+Micronesia,0,
+Monaco,0,
+Morocco,0,
+Myanmar,0,
+Namibia,0,
+Netherlands,0,
+Nigeria,0,
+Northern Mariana Islands,0,
+Norway,0,
+Oman,0,
+Pakistan,0,
+Palau,0,
+Papua New Guinea,0,
+Philippines,0,
+Poland,0,
+Portugal,0,
+Qatar,0,
+Romania,0,
+Russia,0,
+Réunion,0,
+"Saint Helena, Ascension and Tristan da Cunha",0,
+Saint Pierre and Miquelon,0,
+Sao Tome and Principe,0,
+Saudi Arabia,0,
+Senegal,0,
+Sierra Leone,0,
+Singapore,0,
+Solomon Islands,0,
+Somalia,0,
+South Africa,0,
+South Korea,0,
+Spain,0,
+Sri Lanka,0,
+Sudan,0,
+Suriname,0,
+Sweden,0,
+Syria,0,
+Taiwan,0,
+Thailand,0,
+Timor-Leste,0,
+Togo,0,
+Trinidad and Tobago,0,
+Tunisia,0,
+Turkey,0,
+Uganda,0,
+Ukraine,0,
+United Arab Emirates,0,
+United Kingdom,0,
+United States,0,
+Vietnam,0,
