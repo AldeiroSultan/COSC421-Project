@@ -2,6 +2,7 @@
 # Owner: Sultan
 # Identify in-service cables crossing the three study corridors.
 source("R/00_setup.R")
+source("R/helpers.R")
 
 build_corridors <- function() {
   route_file <- file.path(dir_raw, "cable_geo.json")
@@ -12,19 +13,8 @@ build_corridors <- function() {
   if (!file.exists(landings_file)) stop("Missing cable_landings.csv from MF-0004.", call. = FALSE)
 
   # Approximate study areas from the task board, not historical outage footprints.
-  bounds <- tribble(
-    ~corridor, ~xmin, ~xmax, ~ymin, ~ymax,
-    "red_sea", 41, 45, 11, 16,
-    "taiwan", 119, 122.5, 19, 22.5,
-    "tonga", -177, -173, -23, -19
-  )
-  polygons <- lapply(seq_len(nrow(bounds)), function(i) {
-    b <- bounds[i, ]
-    st_polygon(list(matrix(c(b$xmin, b$ymin, b$xmax, b$ymin,
-                            b$xmax, b$ymax, b$xmin, b$ymax,
-                            b$xmin, b$ymin), ncol = 2, byrow = TRUE)))
-  })
-  corridors <- st_sf(bounds, geometry = st_sfc(polygons, crs = 4326))
+  corridors <- study_corridors()
+  bounds <- st_drop_geometry(corridors)
   active <- read_csv(landings_file, show_col_types = FALSE) |>
     distinct(cable_id, cable_name)
   routes <- st_read(route_file, quiet = TRUE)
@@ -89,5 +79,6 @@ build_corridors <- function() {
 }
 
 corridor_results <- build_corridors()
+
 
 
