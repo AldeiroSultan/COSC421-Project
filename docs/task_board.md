@@ -19,11 +19,11 @@ MF-0001 (project skeleton) and MF-0002 (git conventions, CLAUDE.md, this board) 
 | MF-0009 | `MF-0009` | Milestone report (due Nov 6) | All | 2 | MF-0006, MF-0007 |
 | MF-0010 | `MF-0010` | Corridor polygons and cables in each corridor | John | 2 | MF-0004 |
 | MF-0011 | `MF-0011` | Corridor failure simulation | Sultan | 2 | MF-0007, MF-0010 |
-| MF-0012 | `MF-0012` | Articulation points and countries cut off in several scenarios | Su | 2 | MF-0011 |
-| MF-0013 | `MF-0013` | Check the Red Sea scenario against the 2024 cuts | John | 2 | MF-0011 |
+| MF-0012 | `MF-0012` | Articulation points and countries cut off in several scenarios | Sultan | 2 | MF-0011 |
+| MF-0013 | `MF-0013` | Check the Red Sea scenario against the 2024 cuts | Su | 2 | MF-0011 |
 | MF-0014 | `MF-0014` | Test new cable connections | Su | 2 | MF-0012 |
 | MF-0015 | `MF-0015` | Map figures for the report | John | 2 | MF-0010, MF-0012 |
-| MF-0016 | `MF-0016` | Comparison figures for the report | Sultan | 2 | MF-0011, MF-0014 |
+| MF-0016 | `MF-0016` | Comparison figures for the report | Su | 2 | MF-0011, MF-0014 |
 | MF-0017 | `MF-0017` | Final report and video script | All | 2 | everything above |
 
 Week 1 is Oct 27 to Nov 2. Week 2 is Nov 3 to Nov 9.
