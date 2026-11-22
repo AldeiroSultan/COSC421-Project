@@ -1,0 +1,655 @@
+from,to,corridor,giant_before,giant_after,countries_saved
+Tonga,Niue,red_sea,175,175,0
+Tonga,Niue,taiwan,182,182,0
+Tonga,Niue,tonga,181,182,1
+Tonga,Samoa,red_sea,175,175,0
+Tonga,Samoa,taiwan,182,182,0
+Tonga,Samoa,tonga,181,182,1
+Tonga,Wallis and Futuna,red_sea,175,175,0
+Tonga,Wallis and Futuna,taiwan,182,182,0
+Tonga,Wallis and Futuna,tonga,181,182,1
+Tonga,Malaysia,red_sea,175,175,0
+Tonga,Malaysia,taiwan,182,182,0
+Tonga,Malaysia,tonga,181,182,1
+Anguilla,Saint Martin,red_sea,175,175,0
+Anguilla,Saint Martin,taiwan,182,182,0
+Anguilla,Saint Martin,tonga,181,181,0
+Anguilla,Saint Barthélemy,red_sea,175,175,0
+Anguilla,Saint Barthélemy,taiwan,182,182,0
+Anguilla,Saint Barthélemy,tonga,181,181,0
+Anguilla,"Bonaire, Sint Eustatius and Saba",red_sea,175,175,0
+Anguilla,"Bonaire, Sint Eustatius and Saba",taiwan,182,182,0
+Anguilla,"Bonaire, Sint Eustatius and Saba",tonga,181,181,0
+Anguilla,United States,red_sea,175,175,0
+Anguilla,United States,taiwan,182,182,0
+Anguilla,United States,tonga,181,181,0
+Belize,Cayman Islands,red_sea,175,175,0
+Belize,Cayman Islands,taiwan,182,182,0
+Belize,Cayman Islands,tonga,181,181,0
+Belize,Cuba,red_sea,175,175,0
+Belize,Cuba,taiwan,182,182,0
+Belize,Cuba,tonga,181,181,0
+Belize,Jamaica,red_sea,175,175,0
+Belize,Jamaica,taiwan,182,182,0
+Belize,Jamaica,tonga,181,181,0
+Belize,Brazil,red_sea,175,175,0
+Belize,Brazil,taiwan,182,182,0
+Belize,Brazil,tonga,181,181,0
+Cook Islands,American Samoa,red_sea,175,175,0
+Cook Islands,American Samoa,taiwan,182,182,0
+Cook Islands,American Samoa,tonga,181,181,0
+Cook Islands,Tonga,red_sea,175,175,0
+Cook Islands,Tonga,taiwan,182,182,0
+Cook Islands,Tonga,tonga,181,182,1
+Cook Islands,Tokelau,red_sea,175,175,0
+Cook Islands,Tokelau,taiwan,182,182,0
+Cook Islands,Tokelau,tonga,181,181,0
+Cook Islands,United States,red_sea,175,175,0
+Cook Islands,United States,taiwan,182,182,0
+Cook Islands,United States,tonga,181,181,0
+Gibraltar,Spain,red_sea,175,176,1
+Gibraltar,Spain,taiwan,182,182,0
+Gibraltar,Spain,tonga,181,181,0
+Gibraltar,Morocco,red_sea,175,176,1
+Gibraltar,Morocco,taiwan,182,182,0
+Gibraltar,Morocco,tonga,181,181,0
+Gibraltar,Algeria,red_sea,175,176,1
+Gibraltar,Algeria,taiwan,182,182,0
+Gibraltar,Algeria,tonga,181,181,0
+Montserrat,"Bonaire, Sint Eustatius and Saba",red_sea,175,175,0
+Montserrat,"Bonaire, Sint Eustatius and Saba",taiwan,182,182,0
+Montserrat,"Bonaire, Sint Eustatius and Saba",tonga,181,181,0
+Montserrat,Sint Maarten,red_sea,175,175,0
+Montserrat,Sint Maarten,taiwan,182,182,0
+Montserrat,Sint Maarten,tonga,181,181,0
+Montserrat,Anguilla,red_sea,175,175,0
+Montserrat,Anguilla,taiwan,182,182,0
+Montserrat,Anguilla,tonga,181,181,0
+Montserrat,Brazil,red_sea,175,175,0
+Montserrat,Brazil,taiwan,182,182,0
+Montserrat,Brazil,tonga,181,181,0
+Nauru,Marshall Islands,red_sea,175,175,0
+Nauru,Marshall Islands,taiwan,182,182,0
+Nauru,Marshall Islands,tonga,181,181,0
+Nauru,Solomon Islands,red_sea,175,175,0
+Nauru,Solomon Islands,taiwan,182,182,0
+Nauru,Solomon Islands,tonga,181,181,0
+Nauru,Papua New Guinea,red_sea,175,175,0
+Nauru,Papua New Guinea,taiwan,182,182,0
+Nauru,Papua New Guinea,tonga,181,181,0
+Nauru,Australia,red_sea,175,175,0
+Nauru,Australia,taiwan,182,182,0
+Nauru,Australia,tonga,181,181,0
+Nicaragua,Cayman Islands,red_sea,175,175,0
+Nicaragua,Cayman Islands,taiwan,182,182,0
+Nicaragua,Cayman Islands,tonga,181,181,0
+Nicaragua,Jamaica,red_sea,175,175,0
+Nicaragua,Jamaica,taiwan,182,182,0
+Nicaragua,Jamaica,tonga,181,181,0
+Nicaragua,Cuba,red_sea,175,175,0
+Nicaragua,Cuba,taiwan,182,182,0
+Nicaragua,Cuba,tonga,181,181,0
+Nicaragua,Brazil,red_sea,175,175,0
+Nicaragua,Brazil,taiwan,182,182,0
+Nicaragua,Brazil,tonga,181,181,0
+Niue,American Samoa,red_sea,175,175,0
+Niue,American Samoa,taiwan,182,182,0
+Niue,American Samoa,tonga,181,181,0
+Niue,Wallis and Futuna,red_sea,175,175,0
+Niue,Wallis and Futuna,taiwan,182,182,0
+Niue,Wallis and Futuna,tonga,181,181,0
+Niue,Australia,red_sea,175,175,0
+Niue,Australia,taiwan,182,182,0
+Niue,Australia,tonga,181,181,0
+Tokelau,Samoa,red_sea,175,175,0
+Tokelau,Samoa,taiwan,182,182,0
+Tokelau,Samoa,tonga,181,181,0
+Tokelau,American Samoa,red_sea,175,175,0
+Tokelau,American Samoa,taiwan,182,182,0
+Tokelau,American Samoa,tonga,181,181,0
+Tokelau,Wallis and Futuna,red_sea,175,175,0
+Tokelau,Wallis and Futuna,taiwan,182,182,0
+Tokelau,Wallis and Futuna,tonga,181,181,0
+Tokelau,Malaysia,red_sea,175,175,0
+Tokelau,Malaysia,taiwan,182,182,0
+Tokelau,Malaysia,tonga,181,181,0
+Turks and Caicos Islands,Haiti,red_sea,175,175,0
+Turks and Caicos Islands,Haiti,taiwan,182,182,0
+Turks and Caicos Islands,Haiti,tonga,181,181,0
+Turks and Caicos Islands,Cuba,red_sea,175,175,0
+Turks and Caicos Islands,Cuba,taiwan,182,182,0
+Turks and Caicos Islands,Cuba,tonga,181,181,0
+Turks and Caicos Islands,Jamaica,red_sea,175,175,0
+Turks and Caicos Islands,Jamaica,taiwan,182,182,0
+Turks and Caicos Islands,Jamaica,tonga,181,181,0
+Turks and Caicos Islands,Brazil,red_sea,175,175,0
+Turks and Caicos Islands,Brazil,taiwan,182,182,0
+Turks and Caicos Islands,Brazil,tonga,181,181,0
+Vanuatu,New Caledonia,red_sea,175,175,0
+Vanuatu,New Caledonia,taiwan,182,182,0
+Vanuatu,New Caledonia,tonga,181,181,0
+Vanuatu,Solomon Islands,red_sea,175,175,0
+Vanuatu,Solomon Islands,taiwan,182,182,0
+Vanuatu,Solomon Islands,tonga,181,181,0
+Vanuatu,Wallis and Futuna,red_sea,175,175,0
+Vanuatu,Wallis and Futuna,taiwan,182,182,0
+Vanuatu,Wallis and Futuna,tonga,181,181,0
+Vanuatu,Australia,red_sea,175,175,0
+Vanuatu,Australia,taiwan,182,182,0
+Vanuatu,Australia,tonga,181,181,0
+Wallis and Futuna,American Samoa,red_sea,175,175,0
+Wallis and Futuna,American Samoa,taiwan,182,182,0
+Wallis and Futuna,American Samoa,tonga,181,181,0
+Wallis and Futuna,Australia,red_sea,175,175,0
+Wallis and Futuna,Australia,taiwan,182,182,0
+Wallis and Futuna,Australia,tonga,181,181,0
+American Samoa,Malaysia,red_sea,175,175,0
+American Samoa,Malaysia,taiwan,182,182,0
+American Samoa,Malaysia,tonga,181,181,0
+Aruba,Venezuela,red_sea,175,175,0
+Aruba,Venezuela,taiwan,182,182,0
+Aruba,Venezuela,tonga,181,181,0
+Aruba,"Bonaire, Sint Eustatius and Saba",red_sea,175,175,0
+Aruba,"Bonaire, Sint Eustatius and Saba",taiwan,182,182,0
+Aruba,"Bonaire, Sint Eustatius and Saba",tonga,181,181,0
+Aruba,Netherlands,red_sea,175,175,0
+Aruba,Netherlands,taiwan,182,182,0
+Aruba,Netherlands,tonga,181,181,0
+Aruba,Brazil,red_sea,175,175,0
+Aruba,Brazil,taiwan,182,182,0
+Aruba,Brazil,tonga,181,181,0
+Bangladesh,Cambodia,red_sea,175,176,1
+Bangladesh,Cambodia,taiwan,182,182,0
+Bangladesh,Cambodia,tonga,181,181,0
+Bangladesh,China,red_sea,175,176,1
+Bangladesh,China,taiwan,182,182,0
+Bangladesh,China,tonga,181,181,0
+Bangladesh,Vietnam,red_sea,175,176,1
+Bangladesh,Vietnam,taiwan,182,182,0
+Bangladesh,Vietnam,tonga,181,181,0
+Bangladesh,Australia,red_sea,175,176,1
+Bangladesh,Australia,taiwan,182,182,0
+Bangladesh,Australia,tonga,181,181,0
+"Bonaire, Sint Eustatius and Saba",Netherlands,red_sea,175,175,0
+"Bonaire, Sint Eustatius and Saba",Netherlands,taiwan,182,182,0
+"Bonaire, Sint Eustatius and Saba",Netherlands,tonga,181,181,0
+"Bonaire, Sint Eustatius and Saba",Saint Martin,red_sea,175,175,0
+"Bonaire, Sint Eustatius and Saba",Saint Martin,taiwan,182,182,0
+"Bonaire, Sint Eustatius and Saba",Saint Martin,tonga,181,181,0
+"Bonaire, Sint Eustatius and Saba",United States,red_sea,175,175,0
+"Bonaire, Sint Eustatius and Saba",United States,taiwan,182,182,0
+"Bonaire, Sint Eustatius and Saba",United States,tonga,181,181,0
+Cayman Islands,Cuba,red_sea,175,175,0
+Cayman Islands,Cuba,taiwan,182,182,0
+Cayman Islands,Cuba,tonga,181,181,0
+Cayman Islands,Bahamas,red_sea,175,175,0
+Cayman Islands,Bahamas,taiwan,182,182,0
+Cayman Islands,Bahamas,tonga,181,181,0
+Cayman Islands,Mexico,red_sea,175,175,0
+Cayman Islands,Mexico,taiwan,182,182,0
+Cayman Islands,Mexico,tonga,181,181,0
+Cayman Islands,Brazil,red_sea,175,175,0
+Cayman Islands,Brazil,taiwan,182,182,0
+Cayman Islands,Brazil,tonga,181,181,0
+Dominica,"Bonaire, Sint Eustatius and Saba",red_sea,175,175,0
+Dominica,"Bonaire, Sint Eustatius and Saba",taiwan,182,182,0
+Dominica,"Bonaire, Sint Eustatius and Saba",tonga,181,181,0
+Dominica,Venezuela,red_sea,175,175,0
+Dominica,Venezuela,taiwan,182,182,0
+Dominica,Venezuela,tonga,181,181,0
+Dominica,Netherlands,red_sea,175,175,0
+Dominica,Netherlands,taiwan,182,182,0
+Dominica,Netherlands,tonga,181,181,0
+Dominica,Brazil,red_sea,175,175,0
+Dominica,Brazil,taiwan,182,182,0
+Dominica,Brazil,tonga,181,181,0
+French Polynesia,American Samoa,red_sea,175,175,0
+French Polynesia,American Samoa,taiwan,182,182,0
+French Polynesia,American Samoa,tonga,181,181,0
+French Polynesia,Kiribati,red_sea,175,175,0
+French Polynesia,Kiribati,taiwan,182,182,0
+French Polynesia,Kiribati,tonga,181,181,0
+French Polynesia,Tokelau,red_sea,175,175,0
+French Polynesia,Tokelau,taiwan,182,182,0
+French Polynesia,Tokelau,tonga,181,181,0
+French Polynesia,Australia,red_sea,175,175,0
+French Polynesia,Australia,taiwan,182,182,0
+French Polynesia,Australia,tonga,181,181,0
+Haiti,Cuba,red_sea,175,175,0
+Haiti,Cuba,taiwan,182,182,0
+Haiti,Cuba,tonga,181,181,0
+Haiti,United States,red_sea,175,175,0
+Haiti,United States,taiwan,182,182,0
+Haiti,United States,tonga,181,181,0
+Honduras,Jamaica,red_sea,175,175,0
+Honduras,Jamaica,taiwan,182,182,0
+Honduras,Jamaica,tonga,181,181,0
+Honduras,Cuba,red_sea,175,175,0
+Honduras,Cuba,taiwan,182,182,0
+Honduras,Cuba,tonga,181,181,0
+Honduras,Haiti,red_sea,175,175,0
+Honduras,Haiti,taiwan,182,182,0
+Honduras,Haiti,tonga,181,181,0
+Honduras,Brazil,red_sea,175,175,0
+Honduras,Brazil,taiwan,182,182,0
+Honduras,Brazil,tonga,181,181,0
+Kiribati,Marshall Islands,red_sea,175,175,0
+Kiribati,Marshall Islands,taiwan,182,182,0
+Kiribati,Marshall Islands,tonga,181,181,0
+Kiribati,Solomon Islands,red_sea,175,175,0
+Kiribati,Solomon Islands,taiwan,182,182,0
+Kiribati,Solomon Islands,tonga,181,181,0
+Kiribati,Wallis and Futuna,red_sea,175,175,0
+Kiribati,Wallis and Futuna,taiwan,182,182,0
+Kiribati,Wallis and Futuna,tonga,181,181,0
+Kiribati,Malaysia,red_sea,175,175,0
+Kiribati,Malaysia,taiwan,182,182,0
+Kiribati,Malaysia,tonga,181,181,0
+New Caledonia,Solomon Islands,red_sea,175,175,0
+New Caledonia,Solomon Islands,taiwan,182,182,0
+New Caledonia,Solomon Islands,tonga,181,181,0
+New Caledonia,New Zealand,red_sea,175,175,0
+New Caledonia,New Zealand,taiwan,182,182,0
+New Caledonia,New Zealand,tonga,181,181,0
+New Caledonia,United States,red_sea,175,175,0
+New Caledonia,United States,taiwan,182,182,0
+New Caledonia,United States,tonga,181,181,0
+Saint Lucia,"Bonaire, Sint Eustatius and Saba",red_sea,175,175,0
+Saint Lucia,"Bonaire, Sint Eustatius and Saba",taiwan,182,182,0
+Saint Lucia,"Bonaire, Sint Eustatius and Saba",tonga,181,181,0
+Saint Lucia,Venezuela,red_sea,175,175,0
+Saint Lucia,Venezuela,taiwan,182,182,0
+Saint Lucia,Venezuela,tonga,181,181,0
+Saint Lucia,Netherlands,red_sea,175,175,0
+Saint Lucia,Netherlands,taiwan,182,182,0
+Saint Lucia,Netherlands,tonga,181,181,0
+Saint Lucia,Brazil,red_sea,175,175,0
+Saint Lucia,Brazil,taiwan,182,182,0
+Saint Lucia,Brazil,tonga,181,181,0
+Antigua and Barbuda,"Bonaire, Sint Eustatius and Saba",red_sea,175,175,0
+Antigua and Barbuda,"Bonaire, Sint Eustatius and Saba",taiwan,182,182,0
+Antigua and Barbuda,"Bonaire, Sint Eustatius and Saba",tonga,181,181,0
+Antigua and Barbuda,Venezuela,red_sea,175,175,0
+Antigua and Barbuda,Venezuela,taiwan,182,182,0
+Antigua and Barbuda,Venezuela,tonga,181,181,0
+Antigua and Barbuda,Dominican Republic,red_sea,175,175,0
+Antigua and Barbuda,Dominican Republic,taiwan,182,182,0
+Antigua and Barbuda,Dominican Republic,tonga,181,181,0
+Antigua and Barbuda,Brazil,red_sea,175,175,0
+Antigua and Barbuda,Brazil,taiwan,182,182,0
+Antigua and Barbuda,Brazil,tonga,181,181,0
+Barbados,Venezuela,red_sea,175,175,0
+Barbados,Venezuela,taiwan,182,182,0
+Barbados,Venezuela,tonga,181,181,0
+Barbados,"Bonaire, Sint Eustatius and Saba",red_sea,175,175,0
+Barbados,"Bonaire, Sint Eustatius and Saba",taiwan,182,182,0
+Barbados,"Bonaire, Sint Eustatius and Saba",tonga,181,181,0
+Barbados,Suriname,red_sea,175,175,0
+Barbados,Suriname,taiwan,182,182,0
+Barbados,Suriname,tonga,181,181,0
+Barbados,Brazil,red_sea,175,175,0
+Barbados,Brazil,taiwan,182,182,0
+Barbados,Brazil,tonga,181,181,0
+Bermuda,Bahamas,red_sea,175,175,0
+Bermuda,Bahamas,taiwan,182,182,0
+Bermuda,Bahamas,tonga,181,181,0
+Bermuda,Turks and Caicos Islands,red_sea,175,175,0
+Bermuda,Turks and Caicos Islands,taiwan,182,182,0
+Bermuda,Turks and Caicos Islands,tonga,181,181,0
+Bermuda,Canada,red_sea,175,175,0
+Bermuda,Canada,taiwan,182,182,0
+Bermuda,Canada,tonga,181,181,0
+Bermuda,Portugal,red_sea,175,175,0
+Bermuda,Portugal,taiwan,182,182,0
+Bermuda,Portugal,tonga,181,181,0
+Costa Rica,Jamaica,red_sea,175,175,0
+Costa Rica,Jamaica,taiwan,182,182,0
+Costa Rica,Jamaica,tonga,181,181,0
+Costa Rica,Cayman Islands,red_sea,175,175,0
+Costa Rica,Cayman Islands,taiwan,182,182,0
+Costa Rica,Cayman Islands,tonga,181,181,0
+Costa Rica,Ecuador,red_sea,175,175,0
+Costa Rica,Ecuador,taiwan,182,182,0
+Costa Rica,Ecuador,tonga,181,181,0
+Costa Rica,Portugal,red_sea,175,175,0
+Costa Rica,Portugal,taiwan,182,182,0
+Costa Rica,Portugal,tonga,181,181,0
+Grenada,Venezuela,red_sea,175,175,0
+Grenada,Venezuela,taiwan,182,182,0
+Grenada,Venezuela,tonga,181,181,0
+Grenada,"Bonaire, Sint Eustatius and Saba",red_sea,175,175,0
+Grenada,"Bonaire, Sint Eustatius and Saba",taiwan,182,182,0
+Grenada,"Bonaire, Sint Eustatius and Saba",tonga,181,181,0
+Grenada,Guyana,red_sea,175,175,0
+Grenada,Guyana,taiwan,182,182,0
+Grenada,Guyana,tonga,181,181,0
+Grenada,Brazil,red_sea,175,175,0
+Grenada,Brazil,taiwan,182,182,0
+Grenada,Brazil,tonga,181,181,0
+Guadeloupe,"Bonaire, Sint Eustatius and Saba",red_sea,175,175,0
+Guadeloupe,"Bonaire, Sint Eustatius and Saba",taiwan,182,182,0
+Guadeloupe,"Bonaire, Sint Eustatius and Saba",tonga,181,181,0
+Guadeloupe,Venezuela,red_sea,175,175,0
+Guadeloupe,Venezuela,taiwan,182,182,0
+Guadeloupe,Venezuela,tonga,181,181,0
+Guadeloupe,Dominican Republic,red_sea,175,175,0
+Guadeloupe,Dominican Republic,taiwan,182,182,0
+Guadeloupe,Dominican Republic,tonga,181,181,0
+Guadeloupe,Brazil,red_sea,175,175,0
+Guadeloupe,Brazil,taiwan,182,182,0
+Guadeloupe,Brazil,tonga,181,181,0
+Guyana,Brazil,red_sea,175,175,0
+Guyana,Brazil,taiwan,182,182,0
+Guyana,Brazil,tonga,181,181,0
+Guyana,Venezuela,red_sea,175,175,0
+Guyana,Venezuela,taiwan,182,182,0
+Guyana,Venezuela,tonga,181,181,0
+Peru,Costa Rica,red_sea,175,175,0
+Peru,Costa Rica,taiwan,182,182,0
+Peru,Costa Rica,tonga,181,181,0
+Peru,Nicaragua,red_sea,175,175,0
+Peru,Nicaragua,taiwan,182,182,0
+Peru,Nicaragua,tonga,181,181,0
+Peru,Honduras,red_sea,175,175,0
+Peru,Honduras,taiwan,182,182,0
+Peru,Honduras,tonga,181,181,0
+Peru,Portugal,red_sea,175,175,0
+Peru,Portugal,taiwan,182,182,0
+Peru,Portugal,tonga,181,181,0
+Saint Barthélemy,Virgin Islands (U.K.),red_sea,175,175,0
+Saint Barthélemy,Virgin Islands (U.K.),taiwan,182,182,0
+Saint Barthélemy,Virgin Islands (U.K.),tonga,181,181,0
+Saint Barthélemy,Dominican Republic,red_sea,175,175,0
+Saint Barthélemy,Dominican Republic,taiwan,182,182,0
+Saint Barthélemy,Dominican Republic,tonga,181,181,0
+Saint Barthélemy,Brazil,red_sea,175,175,0
+Saint Barthélemy,Brazil,taiwan,182,182,0
+Saint Barthélemy,Brazil,tonga,181,181,0
+Saint Martin,Virgin Islands (U.K.),red_sea,175,175,0
+Saint Martin,Virgin Islands (U.K.),taiwan,182,182,0
+Saint Martin,Virgin Islands (U.K.),tonga,181,181,0
+Saint Martin,Brazil,red_sea,175,175,0
+Saint Martin,Brazil,taiwan,182,182,0
+Saint Martin,Brazil,tonga,181,181,0
+Saint Vincent and the Grenadines,Venezuela,red_sea,175,175,0
+Saint Vincent and the Grenadines,Venezuela,taiwan,182,182,0
+Saint Vincent and the Grenadines,Venezuela,tonga,181,181,0
+Saint Vincent and the Grenadines,"Bonaire, Sint Eustatius and Saba",red_sea,175,175,0
+Saint Vincent and the Grenadines,"Bonaire, Sint Eustatius and Saba",taiwan,182,182,0
+Saint Vincent and the Grenadines,"Bonaire, Sint Eustatius and Saba",tonga,181,181,0
+Saint Vincent and the Grenadines,Guyana,red_sea,175,175,0
+Saint Vincent and the Grenadines,Guyana,taiwan,182,182,0
+Saint Vincent and the Grenadines,Guyana,tonga,181,181,0
+Saint Vincent and the Grenadines,Brazil,red_sea,175,175,0
+Saint Vincent and the Grenadines,Brazil,taiwan,182,182,0
+Saint Vincent and the Grenadines,Brazil,tonga,181,181,0
+Samoa,Vanuatu,red_sea,175,175,0
+Samoa,Vanuatu,taiwan,182,182,0
+Samoa,Vanuatu,tonga,181,181,0
+Samoa,Australia,red_sea,175,175,0
+Samoa,Australia,taiwan,182,182,0
+Samoa,Australia,tonga,181,181,0
+Seychelles,Mayotte,red_sea,175,177,2
+Seychelles,Mayotte,taiwan,182,182,0
+Seychelles,Mayotte,tonga,181,181,0
+Seychelles,Mauritius,red_sea,175,177,2
+Seychelles,Mauritius,taiwan,182,182,0
+Seychelles,Mauritius,tonga,181,181,0
+Seychelles,Réunion,red_sea,175,177,2
+Seychelles,Réunion,taiwan,182,182,0
+Seychelles,Réunion,tonga,181,181,0
+Seychelles,Malaysia,red_sea,175,177,2
+Seychelles,Malaysia,taiwan,182,182,0
+Seychelles,Malaysia,tonga,181,181,0
+Sint Maarten,Virgin Islands (U.S.),red_sea,175,175,0
+Sint Maarten,Virgin Islands (U.S.),taiwan,182,182,0
+Sint Maarten,Virgin Islands (U.S.),tonga,181,181,0
+Sint Maarten,Dominican Republic,red_sea,175,175,0
+Sint Maarten,Dominican Republic,taiwan,182,182,0
+Sint Maarten,Dominican Republic,tonga,181,181,0
+Sint Maarten,Brazil,red_sea,175,175,0
+Sint Maarten,Brazil,taiwan,182,182,0
+Sint Maarten,Brazil,tonga,181,181,0
+Bahamas,Cuba,red_sea,175,175,0
+Bahamas,Cuba,taiwan,182,182,0
+Bahamas,Cuba,tonga,181,181,0
+Bahamas,Jamaica,red_sea,175,175,0
+Bahamas,Jamaica,taiwan,182,182,0
+Bahamas,Jamaica,tonga,181,181,0
+Bahamas,Brazil,red_sea,175,175,0
+Bahamas,Brazil,taiwan,182,182,0
+Bahamas,Brazil,tonga,181,181,0
+Belgium,Netherlands,red_sea,175,175,0
+Belgium,Netherlands,taiwan,182,182,0
+Belgium,Netherlands,tonga,181,181,0
+Belgium,France,red_sea,175,175,0
+Belgium,France,taiwan,182,182,0
+Belgium,France,tonga,181,181,0
+Belgium,Jersey,red_sea,175,175,0
+Belgium,Jersey,taiwan,182,182,0
+Belgium,Jersey,tonga,181,181,0
+Chile,Uruguay,red_sea,175,175,0
+Chile,Uruguay,taiwan,182,182,0
+Chile,Uruguay,tonga,181,181,0
+Chile,Suriname,red_sea,175,175,0
+Chile,Suriname,taiwan,182,182,0
+Chile,Suriname,tonga,181,181,0
+Chile,Guyana,red_sea,175,175,0
+Chile,Guyana,taiwan,182,182,0
+Chile,Guyana,tonga,181,181,0
+Chile,Portugal,red_sea,175,175,0
+Chile,Portugal,taiwan,182,182,0
+Chile,Portugal,tonga,181,181,0
+Cuba,Brazil,red_sea,175,175,0
+Cuba,Brazil,taiwan,182,182,0
+Cuba,Brazil,tonga,181,181,0
+Ecuador,Nicaragua,red_sea,175,175,0
+Ecuador,Nicaragua,taiwan,182,182,0
+Ecuador,Nicaragua,tonga,181,181,0
+Ecuador,Venezuela,red_sea,175,175,0
+Ecuador,Venezuela,taiwan,182,182,0
+Ecuador,Venezuela,tonga,181,181,0
+Ecuador,Portugal,red_sea,175,175,0
+Ecuador,Portugal,taiwan,182,182,0
+Ecuador,Portugal,tonga,181,181,0
+Guatemala,Cayman Islands,red_sea,175,175,0
+Guatemala,Cayman Islands,taiwan,182,182,0
+Guatemala,Cayman Islands,tonga,181,181,0
+Guatemala,Cuba,red_sea,175,175,0
+Guatemala,Cuba,taiwan,182,182,0
+Guatemala,Cuba,tonga,181,181,0
+Guatemala,Jamaica,red_sea,175,175,0
+Guatemala,Jamaica,taiwan,182,182,0
+Guatemala,Jamaica,tonga,181,181,0
+Guatemala,Portugal,red_sea,175,175,0
+Guatemala,Portugal,taiwan,182,182,0
+Guatemala,Portugal,tonga,181,181,0
+Martinique,"Bonaire, Sint Eustatius and Saba",red_sea,175,175,0
+Martinique,"Bonaire, Sint Eustatius and Saba",taiwan,182,182,0
+Martinique,"Bonaire, Sint Eustatius and Saba",tonga,181,181,0
+Martinique,Venezuela,red_sea,175,175,0
+Martinique,Venezuela,taiwan,182,182,0
+Martinique,Venezuela,tonga,181,181,0
+Martinique,Netherlands,red_sea,175,175,0
+Martinique,Netherlands,taiwan,182,182,0
+Martinique,Netherlands,tonga,181,181,0
+Martinique,Brazil,red_sea,175,175,0
+Martinique,Brazil,taiwan,182,182,0
+Martinique,Brazil,tonga,181,181,0
+Mozambique,Mayotte,red_sea,175,176,1
+Mozambique,Mayotte,taiwan,182,182,0
+Mozambique,Mayotte,tonga,181,181,0
+Mozambique,Réunion,red_sea,175,176,1
+Mozambique,Réunion,taiwan,182,182,0
+Mozambique,Réunion,tonga,181,181,0
+Mozambique,Namibia,red_sea,175,176,1
+Mozambique,Namibia,taiwan,182,182,0
+Mozambique,Namibia,tonga,181,181,0
+Mozambique,Malaysia,red_sea,175,176,1
+Mozambique,Malaysia,taiwan,182,182,0
+Mozambique,Malaysia,tonga,181,181,0
+New Zealand,Vanuatu,red_sea,175,175,0
+New Zealand,Vanuatu,taiwan,182,182,0
+New Zealand,Vanuatu,tonga,181,181,0
+New Zealand,Niue,red_sea,175,175,0
+New Zealand,Niue,taiwan,182,182,0
+New Zealand,Niue,tonga,181,181,0
+New Zealand,Malaysia,red_sea,175,175,0
+New Zealand,Malaysia,taiwan,182,182,0
+New Zealand,Malaysia,tonga,181,181,0
+Saint Kitts and Nevis,Dominican Republic,red_sea,175,175,0
+Saint Kitts and Nevis,Dominican Republic,taiwan,182,182,0
+Saint Kitts and Nevis,Dominican Republic,tonga,181,181,0
+Saint Kitts and Nevis,Venezuela,red_sea,175,175,0
+Saint Kitts and Nevis,Venezuela,taiwan,182,182,0
+Saint Kitts and Nevis,Venezuela,tonga,181,181,0
+Saint Kitts and Nevis,Netherlands,red_sea,175,175,0
+Saint Kitts and Nevis,Netherlands,taiwan,182,182,0
+Saint Kitts and Nevis,Netherlands,tonga,181,181,0
+Saint Kitts and Nevis,Brazil,red_sea,175,175,0
+Saint Kitts and Nevis,Brazil,taiwan,182,182,0
+Saint Kitts and Nevis,Brazil,tonga,181,181,0
+Uruguay,Peru,red_sea,175,175,0
+Uruguay,Peru,taiwan,182,182,0
+Uruguay,Peru,tonga,181,181,0
+Uruguay,French Guiana,red_sea,175,175,0
+Uruguay,French Guiana,taiwan,182,182,0
+Uruguay,French Guiana,tonga,181,181,0
+Uruguay,Spain,red_sea,175,175,0
+Uruguay,Spain,taiwan,182,182,0
+Uruguay,Spain,tonga,181,181,0
+Venezuela,Netherlands,red_sea,175,175,0
+Venezuela,Netherlands,taiwan,182,182,0
+Venezuela,Netherlands,tonga,181,181,0
+Venezuela,"Bonaire, Sint Eustatius and Saba",red_sea,175,175,0
+Venezuela,"Bonaire, Sint Eustatius and Saba",taiwan,182,182,0
+Venezuela,"Bonaire, Sint Eustatius and Saba",tonga,181,181,0
+Venezuela,Portugal,red_sea,175,175,0
+Venezuela,Portugal,taiwan,182,182,0
+Venezuela,Portugal,tonga,181,181,0
+Virgin Islands (U.K.),Virgin Islands (U.S.),red_sea,175,175,0
+Virgin Islands (U.K.),Virgin Islands (U.S.),taiwan,182,182,0
+Virgin Islands (U.K.),Virgin Islands (U.S.),tonga,181,181,0
+Virgin Islands (U.K.),"Bonaire, Sint Eustatius and Saba",red_sea,175,175,0
+Virgin Islands (U.K.),"Bonaire, Sint Eustatius and Saba",taiwan,182,182,0
+Virgin Islands (U.K.),"Bonaire, Sint Eustatius and Saba",tonga,181,181,0
+Virgin Islands (U.K.),Brazil,red_sea,175,175,0
+Virgin Islands (U.K.),Brazil,taiwan,182,182,0
+Virgin Islands (U.K.),Brazil,tonga,181,181,0
+Yemen,Somalia,red_sea,175,176,1
+Yemen,Somalia,taiwan,182,182,0
+Yemen,Somalia,tonga,181,181,0
+Yemen,Jordan,red_sea,175,176,1
+Yemen,Jordan,taiwan,182,182,0
+Yemen,Jordan,tonga,181,181,0
+Yemen,Kenya,red_sea,175,176,1
+Yemen,Kenya,taiwan,182,182,0
+Yemen,Kenya,tonga,181,181,0
+Yemen,Spain,red_sea,175,176,1
+Yemen,Spain,taiwan,182,182,0
+Yemen,Spain,tonga,181,181,0
+Jamaica,Brazil,red_sea,175,175,0
+Jamaica,Brazil,taiwan,182,182,0
+Jamaica,Brazil,tonga,181,181,0
+Tanzania,Mayotte,red_sea,175,177,2
+Tanzania,Mayotte,taiwan,182,182,0
+Tanzania,Mayotte,tonga,181,181,0
+Tanzania,Uganda,red_sea,175,177,2
+Tanzania,Uganda,taiwan,182,182,0
+Tanzania,Uganda,tonga,181,181,0
+Tanzania,Réunion,red_sea,175,177,2
+Tanzania,Réunion,taiwan,182,182,0
+Tanzania,Réunion,tonga,181,181,0
+Tanzania,Malaysia,red_sea,175,177,2
+Tanzania,Malaysia,taiwan,182,182,0
+Tanzania,Malaysia,tonga,181,181,0
+Virgin Islands (U.S.),"Bonaire, Sint Eustatius and Saba",red_sea,175,175,0
+Virgin Islands (U.S.),"Bonaire, Sint Eustatius and Saba",taiwan,182,182,0
+Virgin Islands (U.S.),"Bonaire, Sint Eustatius and Saba",tonga,181,181,0
+Virgin Islands (U.S.),Portugal,red_sea,175,175,0
+Virgin Islands (U.S.),Portugal,taiwan,182,182,0
+Virgin Islands (U.S.),Portugal,tonga,181,181,0
+Curaçao,Virgin Islands (U.S.),red_sea,175,175,0
+Curaçao,Virgin Islands (U.S.),taiwan,182,182,0
+Curaçao,Virgin Islands (U.S.),tonga,181,181,0
+Curaçao,Grenada,red_sea,175,175,0
+Curaçao,Grenada,taiwan,182,182,0
+Curaçao,Grenada,tonga,181,181,0
+Curaçao,Haiti,red_sea,175,175,0
+Curaçao,Haiti,taiwan,182,182,0
+Curaçao,Haiti,tonga,181,181,0
+Curaçao,Brazil,red_sea,175,175,0
+Curaçao,Brazil,taiwan,182,182,0
+Curaçao,Brazil,tonga,181,181,0
+Fiji,American Samoa,red_sea,175,175,0
+Fiji,American Samoa,taiwan,182,182,0
+Fiji,American Samoa,tonga,181,181,0
+Fiji,Niue,red_sea,175,175,0
+Fiji,Niue,taiwan,182,182,0
+Fiji,Niue,tonga,181,181,0
+Fiji,Solomon Islands,red_sea,175,175,0
+Fiji,Solomon Islands,taiwan,182,182,0
+Fiji,Solomon Islands,tonga,181,181,0
+Fiji,Malaysia,red_sea,175,175,0
+Fiji,Malaysia,taiwan,182,182,0
+Fiji,Malaysia,tonga,181,181,0
+Panama,Jamaica,red_sea,175,175,0
+Panama,Jamaica,taiwan,182,182,0
+Panama,Jamaica,tonga,181,181,0
+Panama,Cayman Islands,red_sea,175,175,0
+Panama,Cayman Islands,taiwan,182,182,0
+Panama,Cayman Islands,tonga,181,181,0
+Panama,"Bonaire, Sint Eustatius and Saba",red_sea,175,175,0
+Panama,"Bonaire, Sint Eustatius and Saba",taiwan,182,182,0
+Panama,"Bonaire, Sint Eustatius and Saba",tonga,181,181,0
+Panama,Portugal,red_sea,175,175,0
+Panama,Portugal,taiwan,182,182,0
+Panama,Portugal,tonga,181,181,0
+Argentina,French Guiana,red_sea,175,175,0
+Argentina,French Guiana,taiwan,182,182,0
+Argentina,French Guiana,tonga,181,181,0
+Argentina,Suriname,red_sea,175,175,0
+Argentina,Suriname,taiwan,182,182,0
+Argentina,Suriname,tonga,181,181,0
+Argentina,Guyana,red_sea,175,175,0
+Argentina,Guyana,taiwan,182,182,0
+Argentina,Guyana,tonga,181,181,0
+Argentina,Spain,red_sea,175,175,0
+Argentina,Spain,taiwan,182,182,0
+Argentina,Spain,tonga,181,181,0
+Colombia,"Bonaire, Sint Eustatius and Saba",red_sea,175,175,0
+Colombia,"Bonaire, Sint Eustatius and Saba",taiwan,182,182,0
+Colombia,"Bonaire, Sint Eustatius and Saba",tonga,181,181,0
+Colombia,Netherlands,red_sea,175,175,0
+Colombia,Netherlands,taiwan,182,182,0
+Colombia,Netherlands,tonga,181,181,0
+Colombia,Cayman Islands,red_sea,175,175,0
+Colombia,Cayman Islands,taiwan,182,182,0
+Colombia,Cayman Islands,tonga,181,181,0
+Colombia,Portugal,red_sea,175,175,0
+Colombia,Portugal,taiwan,182,182,0
+Colombia,Portugal,tonga,181,181,0
+Dominican Republic,Virgin Islands (U.S.),red_sea,175,175,0
+Dominican Republic,Virgin Islands (U.S.),taiwan,182,182,0
+Dominican Republic,Virgin Islands (U.S.),tonga,181,181,0
+Dominican Republic,Cuba,red_sea,175,175,0
+Dominican Republic,Cuba,taiwan,182,182,0
+Dominican Republic,Cuba,tonga,181,181,0
+Dominican Republic,"Bonaire, Sint Eustatius and Saba",red_sea,175,175,0
+Dominican Republic,"Bonaire, Sint Eustatius and Saba",taiwan,182,182,0
+Dominican Republic,"Bonaire, Sint Eustatius and Saba",tonga,181,181,0
+Dominican Republic,Portugal,red_sea,175,175,0
+Dominican Republic,Portugal,taiwan,182,182,0
+Dominican Republic,Portugal,tonga,181,181,0
+Djibouti,Uganda,red_sea,175,176,1
+Djibouti,Uganda,taiwan,182,182,0
+Djibouti,Uganda,tonga,181,181,0
+Djibouti,Iran,red_sea,175,176,1
+Djibouti,Iran,taiwan,182,182,0
+Djibouti,Iran,tonga,181,181,0
+Djibouti,Jordan,red_sea,175,176,1
+Djibouti,Jordan,taiwan,182,182,0
+Djibouti,Jordan,tonga,181,181,0
+Djibouti,Brazil,red_sea,175,176,1
+Djibouti,Brazil,taiwan,182,182,0
+Djibouti,Brazil,tonga,181,181,0
