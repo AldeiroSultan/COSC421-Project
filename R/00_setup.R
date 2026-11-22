@@ -4,7 +4,7 @@
 # Other scripts start with: source("R/00_setup.R")
 
 pkgs <- c("jsonlite", "dplyr", "tidyr", "tibble", "readr", "stringr",
-          "igraph", "ggplot2", "sf", "here")
+          "igraph", "ggplot2", "sf", "here", "maps")
 
 missing_pkgs <- pkgs[!pkgs %in% rownames(installed.packages())]
 if (length(missing_pkgs) > 0) install.packages(missing_pkgs)
@@ -23,3 +23,4 @@ for (d in c(dir_raw, dir_processed, dir_results, dir_figures)) {
 
 # Fixed seed so random network comparisons can be reproduced
 set.seed(421)
+
