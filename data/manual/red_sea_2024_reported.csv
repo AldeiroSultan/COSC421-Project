@@ -1,0 +1,9 @@
+country,source,url,note
+Kenya,Kentik citing IODA,https://www.kentik.com/blog/what-caused-the-red-sea-submarine-cable-cuts/,IODA active measurement drop on 2024-02-24 after the Seacom Mombasa to Zafarana segment was cut. Cloudflare Radar named it as reportedly impacted but saw no traffic loss.
+Tanzania,Kentik citing IODA,https://www.kentik.com/blog/what-caused-the-red-sea-submarine-cable-cuts/,IODA active measurement drop on 2024-02-24. Cloudflare Radar named it as reportedly impacted but saw no traffic loss.
+Uganda,Kentik citing IODA,https://www.kentik.com/blog/what-caused-the-red-sea-submarine-cable-cuts/,IODA active measurement drop on 2024-02-24. Cloudflare Radar named it as reportedly impacted but saw no traffic loss.
+Mozambique,Kentik citing IODA,https://www.kentik.com/blog/what-caused-the-red-sea-submarine-cable-cuts/,IODA active measurement drop on 2024-02-24. Cloudflare Radar named it as reportedly impacted but saw no traffic loss.
+Djibouti,Kentik; NetBlocks via The Register,https://www.kentik.com/blog/what-caused-the-red-sea-submarine-cable-cuts/,"Djibouti Telecom transit shift after the AAE-1 cut (Kentik). NetBlocks reported a disruption (The Register, https://www.theregister.com/2024/02/27/red_sea_cables_houthi)."
+United Arab Emirates,Kentik,https://www.kentik.com/blog/what-caused-the-red-sea-submarine-cable-cuts/,"Etisalat route shifted transit after the AAE-1 cut. Rerouting, not an outage."
+Vietnam,Kentik,https://www.kentik.com/blog/what-caused-the-red-sea-submarine-cable-cuts/,VNPT (AS45899) routes withdrawn at the time of the cut.
+Saudi Arabia,Kentik,https://www.kentik.com/blog/what-caused-the-red-sea-submarine-cable-cuts/,"KACST (AS8895) routes withdrawn when Seacom went down. Kentik names the network, not the country."
